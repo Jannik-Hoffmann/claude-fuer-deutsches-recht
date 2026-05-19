@@ -1,21 +1,6 @@
 ---
 name: avv-pruefung
-description: >
-  AVV-Prüfung nach Art. 28 DSGVO: Klausel-für-Klausel-Analyse gegen das eigene Playbook,
-  Prüfung von Sub-Auftragsverarbeiter-Klauseln, Drittland-Transferfolgenabschätzung (TIA),
-  EU-Standardvertragsklauseln (EU-SCC) und EU-US Data Privacy Framework (DPF).
-  Richtung (Auftragsverarbeiter oder Verantwortlicher) wird automatisch erkannt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - AVV
-  - Auftragsverarbeitungsvertrag
-  - dpa review
-  - data processing agreement
-  - Art. 28 DSGVO
-  - Sub-Auftragsverarbeiter
-  - Standardvertragsklauseln
-  - SCC
+description:  AVV-Prüfung nach Art. 28 DSGVO: Klausel-für-Klausel-Analyse gegen das eigene Playbook, Prüfung von Sub-Auftragsverarbeiter-Klauseln, Drittland-Transferfolgenabschätzung (TIA), EU-Standardvertragsklauseln (EU-SCC) und EU-US Data Privacy Framework (DPF). Richtung (Auftragsverarbeiter oder Verantwortlicher) wird automatisch erkannt. Auslöser und Beispielanfragen: AVV; Auftragsverarbeitungsvertrag; dpa review; data processing agreement; Art. 28 DSGVO; Sub-Auftragsverarbeiter; Standardvertragsklauseln; SCC.
 ---
 
 # AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO

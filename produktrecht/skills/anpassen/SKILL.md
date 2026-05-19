@@ -1,21 +1,6 @@
 ---
 name: anpassen
-description: >
-  Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne
-  das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung,
-  Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder
-  Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt „mein
-  [Ding] ändern", „mein Profil aktualisieren", „mein Framework bearbeiten",
-  „meine Kalibrierung anpassen" oder „anpassen".
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - anpassen
-  - konfiguration ändern
-  - profil aktualisieren
-  - framework bearbeiten
-  - kalibrierung anpassen
-argument-hint: "[Abschnittsname, oder beschreiben was Sie ändern möchten]"
+description:  Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt „mein [Ding] ändern", „mein Profil aktualisieren", „mein Framework bearbeiten", „meine Kalibrierung anpassen" oder „anpassen". Auslöser und Beispielanfragen: anpassen; konfiguration ändern; profil aktualisieren; framework bearbeiten; kalibrierung anpassen.
 ---
 
 # /anpassen

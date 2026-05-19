@@ -1,17 +1,6 @@
 ---
 name: kuendigungsschutzklage
-description: Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Kündigungsschutzklage
-  - Kündigung anfechten
-  - 3-Wochen-Frist Kündigung
-  - § 4 KSchG
-  - Kündigungsschutz
-  - sozialwidrige Kündigung
-  - betriebsbedingte Kündigung anfechten
-  - Klage Arbeitsgericht Kündigung
+description: Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird. Auslöser und Beispielanfragen: Kündigungsschutzklage; Kündigung anfechten; 3-Wochen-Frist Kündigung; § 4 KSchG; Kündigungsschutz; sozialwidrige Kündigung; betriebsbedingte Kündigung anfechten; Klage Arbeitsgericht Kündigung.
 ---
 
 # Kündigungsschutzklage (§ 4 KSchG)

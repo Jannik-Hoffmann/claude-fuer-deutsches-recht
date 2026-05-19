@@ -1,23 +1,6 @@
 ---
 name: markenanmeldung-dpma
-description: >
-  Begleitung der Markenanmeldung beim DPMA nach §§ 32 ff. MarkenG: Nizza-
-  Klassifikation, Anmeldegebühren, absolute Eintragungshindernisse (§ 8 MarkenG),
-  Widerspruchsverfahren (§ 42 MarkenG), Beschwerde zum BPatG (§ 66 MarkenG).
-  Lädt bei Markenanmeldungen, Markenschutz, DPMA-Verfahren, Widerspruch oder
-  Eintragungshindernissen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Markenanmeldung
-  - DPMA
-  - Markenrecht
-  - Nizza-Klassifikation
-  - Widerspruch Marke
-  - Eintragungshindernis
-  - Markenschutz
-  - BPatG Marke
-  - § 8 MarkenG
+description:  Begleitung der Markenanmeldung beim DPMA nach §§ 32 ff. MarkenG: Nizza- Klassifikation, Anmeldegebühren, absolute Eintragungshindernisse (§ 8 MarkenG), Widerspruchsverfahren (§ 42 MarkenG), Beschwerde zum BPatG (§ 66 MarkenG). Lädt bei Markenanmeldungen, Markenschutz, DPMA-Verfahren, Widerspruch oder Eintragungshindernissen. Auslöser und Beispielanfragen: Markenanmeldung; DPMA; Markenrecht; Nizza-Klassifikation; Widerspruch Marke; Eintragungshindernis; Markenschutz; BPatG Marke; § 8 MarkenG.
 ---
 
 # Markenanmeldung beim DPMA

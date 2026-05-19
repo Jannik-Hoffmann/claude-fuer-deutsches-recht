@@ -1,15 +1,6 @@
 ---
 name: kaltstart-interview
-description: Ersteinrichtung des Plugins für aufsichtsrechtliche Praxis. Laden, wenn das Praxisprofil noch nicht konfiguriert ist oder neu eingerichtet werden soll.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - cold-start
-  - Ersteinrichtung
-  - Plugin einrichten
-  - regulatorisches-recht einrichten
-  - Aufsichtsfeed einrichten
-  - BaFin-Watcher konfigurieren
+description: Ersteinrichtung des Plugins für aufsichtsrechtliche Praxis. Laden, wenn das Praxisprofil noch nicht konfiguriert ist oder neu eingerichtet werden soll. Auslöser und Beispielanfragen: cold-start; Ersteinrichtung; Plugin einrichten; regulatorisches-recht einrichten; Aufsichtsfeed einrichten; BaFin-Watcher konfigurieren.
 ---
 
 # Ersteinrichtung – Regulatorisches Recht

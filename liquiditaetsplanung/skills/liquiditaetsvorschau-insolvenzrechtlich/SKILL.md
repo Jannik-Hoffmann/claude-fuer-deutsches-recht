@@ -1,17 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: Gerichtsfähige Liquiditätsbilanz und Liquiditätsvorschau für die Prüfung der Zahlungsunfähigkeit (§ 17 InsO) und die Fortbestehensprognose (§ 19 InsO). Standardergebnis ist eine Excel-Tabelle auf Wochenbasis; auf Wunsch ein HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Stützt sich auf die BGH-Rechtsprechung der letzten zehn Jahre (BGHZ 217, 129; BGHZ 163, 134; II ZR 112/21; IX ZR 48/21; IX ZR 229/22; II ZR 139/23). Memo nur auf Anfrage.
-language: de
-license: Apache-2.0 OR MIT
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - insolvenzrechtliche Liquiditätsbilanz
-  - Zahlungsunfähigkeit § 17 InsO belegen
-  - Fortbestehensprognose § 19 InsO
-  - Antragspflicht § 15a InsO
-  - gerichtsfeste Liquiditätsvorschau
-  - Gläubigerantrag Liquidität
-  - Liquiditätsstatus mit Liquiditätsbilanz
+description: Gerichtsfähige Liquiditätsbilanz und Liquiditätsvorschau für die Prüfung der Zahlungsunfähigkeit (§ 17 InsO) und die Fortbestehensprognose (§ 19 InsO). Standardergebnis ist eine Excel-Tabelle auf Wochenbasis; auf Wunsch ein HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Stützt sich auf die BGH-Rechtsprechung der letzten zehn Jahre (BGHZ 217, 129; BGHZ 163, 134; II ZR 112/21; IX ZR 48/21; IX ZR 229/22; II ZR 139/23). Memo nur auf Anfrage. Auslöser und Beispielanfragen: insolvenzrechtliche Liquiditätsbilanz; Zahlungsunfähigkeit § 17 InsO belegen; Fortbestehensprognose § 19 InsO; Antragspflicht § 15a InsO; gerichtsfeste Liquiditätsvorschau; Gläubigerantrag Liquidität; Liquiditätsstatus mit Liquiditätsbilanz.
 ---
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau

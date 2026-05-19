@@ -1,22 +1,6 @@
 ---
 name: gutachten-uebung
-description: >
-  Übt und bewertet Gutachtenstil-Klausuren für das deutsche Jurastudium — Anspruchsgrundlagenprüfung,
-  Obersatz-Definition-Subsumtion-Ergebnis, Hilfsgutachten, EU-Recht im Gutachten, Klausurtechnik.
-  Schreibt die Klausur NICHT um. Lädt, wenn der Nutzer „mein Gutachten prüfen", „Gutachtenstil üben",
-  „Klausur Feedback" oder „Subsumtion prüfen" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Gutachtenstil üben
-  - Klausur Feedback
-  - Gutachten prüfen
-  - Anspruchsgrundlage prüfen
-  - Subsumtion prüfen
-  - Hilfsgutachten
-  - Klausurtechnik
-  - mein Gutachten bewerten
-  - Obersatz Ergebnis
+description:  Übt und bewertet Gutachtenstil-Klausuren für das deutsche Jurastudium — Anspruchsgrundlagenprüfung, Obersatz-Definition-Subsumtion-Ergebnis, Hilfsgutachten, EU-Recht im Gutachten, Klausurtechnik. Schreibt die Klausur NICHT um. Lädt, wenn der Nutzer „mein Gutachten prüfen", „Gutachtenstil üben", „Klausur Feedback" oder „Subsumtion prüfen" sagt. Auslöser und Beispielanfragen: Gutachtenstil üben; Klausur Feedback; Gutachten prüfen; Anspruchsgrundlage prüfen; Subsumtion prüfen; Hilfsgutachten; Klausurtechnik; mein Gutachten bewerten; Obersatz Ergebnis.
 ---
 
 # Gutachtenstil-Übung

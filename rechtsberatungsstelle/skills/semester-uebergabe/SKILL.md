@@ -1,25 +1,6 @@
 ---
 name: semester-uebergabe
-description: >
-  Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene
-  Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende
-  Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber
-  an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und
-  Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den
-  Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen
-  ausscheidenden Studierenden abmelden müssen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Semesterübergabe
-  - Fallübergabe
-  - Kohorte abschließen
-  - Mandatsübergabe
-  - Abschluss Semester
-  - nächste Kohorte
-  - Exmatrikulation Beratungsstelle
-  - Mandantenakten übergeben
-  - Fallakte weiterleiten
+description:  Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen. Auslöser und Beispielanfragen: Semesterübergabe; Fallübergabe; Kohorte abschließen; Mandatsübergabe; Abschluss Semester; nächste Kohorte; Exmatrikulation Beratungsstelle; Mandantenakten übergeben; Fallakte weiterleiten.
 ---
 
 # Semesterübergabe

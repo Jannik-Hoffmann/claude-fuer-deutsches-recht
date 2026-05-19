@@ -1,19 +1,6 @@
 ---
 name: dd-findings-extraktion
-description: >
-  Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und
-  Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer
-  „Datenraum prüfen", „DD-Issues extrahieren aus [Ordner]", „Due-Diligence-Prüfung",
-  „was ist im VDR" sagt oder auf VDR-Dokumente hinweist.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Datenraum prüfen
-  - DD-Issues
-  - Due Diligence
-  - VDR-Prüfung
-  - Findings-Report
-  - Datenraum-Dokumente
+description:  Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer „Datenraum prüfen", „DD-Issues extrahieren aus [Ordner]", „Due-Diligence-Prüfung", „was ist im VDR" sagt oder auf VDR-Dokumente hinweist. Auslöser und Beispielanfragen: Datenraum prüfen; DD-Issues; Due Diligence; VDR-Prüfung; Findings-Report; Datenraum-Dokumente.
 ---
 
 # DD-Issue-Extraktion (Findings-Report)

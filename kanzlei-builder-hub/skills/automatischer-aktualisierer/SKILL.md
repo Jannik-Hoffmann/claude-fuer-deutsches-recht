@@ -1,21 +1,6 @@
 ---
 name: automatischer-aktualisierer
-description: >
-  Prüft installierte Community-Skills auf Updates. Zeigt einen vollständigen Diff und erfordert
-  eine explizite Genehmigung vor der Anwendung. Einsetzen, wenn der Nutzer sagt:
-  „Updates prüfen", „Skills aktualisieren", „Gibt es Neuigkeiten für meine installierten Skills",
-  oder wenn der Registry-Sync-Agent den Skill aufruft.
-argument-hint: "[--apply zum Aktualisieren aller, sonst nur Benachrichtigen]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - updates prüfen
-  - skills aktualisieren
-  - automatischer-aktualisierer
-  - skill-updates
-  - neue version skill
-  - verzeichnis-synchronisierung
-  - skill auf aktualität prüfen
+description:  Prüft installierte Community-Skills auf Updates. Zeigt einen vollständigen Diff und erfordert eine explizite Genehmigung vor der Anwendung. Einsetzen, wenn der Nutzer sagt: „Updates prüfen", „Skills aktualisieren", „Gibt es Neuigkeiten für meine installierten Skills", oder wenn der Registry-Sync-Agent den Skill aufruft. Auslöser und Beispielanfragen: updates prüfen; skills aktualisieren; automatischer-aktualisierer; skill-updates; neue version skill; verzeichnis-synchronisierung; skill auf aktualität prüfen.
 ---
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review

@@ -1,20 +1,6 @@
 ---
 name: mandantenbrief
-description: >
-  Erstellt Mandantenbriefe in einfacher, verständlicher Sprache – kein
-  Juristenjargon. Übersetzt komplexe Bescheids-, Widerspruchs- oder
-  Klageinhalte in klare, handlungsorientierte Briefe auf Niveau B1/B2.
-  Aufrufen, wenn der Studierende dem Mandanten das Ergebnis einer Prüfung,
-  den Stand des Verfahrens oder einen konkreten nächsten Schritt mitteilen will.
-argument-hint: "[optional: Briefanlass – z. B. 'Widerspruch eingelegt', 'Ergebnis Mietprüfung']"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - mandantenbrief
-  - brief schreiben
-  - einfache sprache
-  - mandantenbrief
-  - antwort an mandant
+description:  Erstellt Mandantenbriefe in einfacher, verständlicher Sprache – kein Juristenjargon. Übersetzt komplexe Bescheids-, Widerspruchs- oder Klageinhalte in klare, handlungsorientierte Briefe auf Niveau B1/B2. Aufrufen, wenn der Studierende dem Mandanten das Ergebnis einer Prüfung, den Stand des Verfahrens oder einen konkreten nächsten Schritt mitteilen will. Auslöser und Beispielanfragen: mandantenbrief; brief schreiben; einfache sprache; mandantenbrief; antwort an mandant.
 ---
 
 # /mandantenbrief

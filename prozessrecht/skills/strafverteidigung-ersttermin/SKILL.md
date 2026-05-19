@@ -1,24 +1,6 @@
 ---
 name: strafverteidigung-ersttermin
-description: |
-  Unterstützt Strafverteidiger bei der Vorbereitung des Erstgesprächs mit dem Mandanten
-  und der ersten anwaltlichen Schritte: Akteneinsicht, Schweigerecht, Pflichtverteidigung,
-  Beweisanträge und Überblick über den Hauptverhandlungsablauf. Lädt, wenn ein Mandat eine
-  Strafverteidigung, einen ersten Mandantentermin in Strafsachen oder einen Hauptverhandlungs-
-  auftrag betrifft.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Strafverteidigung
-  - Pflichtverteidiger
-  - Akteneinsicht Strafrecht
-  - Schweigerecht
-  - § 140 StPO
-  - § 147 StPO
-  - Ersttermin Strafrecht
-  - Hauptverhandlung
-  - § 136 StPO
-  - Beweisantrag Strafrecht
+description: Unterstützt Strafverteidiger bei der Vorbereitung des Erstgesprächs mit dem Mandanten und der ersten anwaltlichen Schritte: Akteneinsicht, Schweigerecht, Pflichtverteidigung, Beweisanträge und Überblick über den Hauptverhandlungsablauf. Lädt, wenn ein Mandat eine Strafverteidigung, einen ersten Mandantentermin in Strafsachen oder einen Hauptverhandlungs- auftrag betrifft. Auslöser und Beispielanfragen: Strafverteidigung; Pflichtverteidiger; Akteneinsicht Strafrecht; Schweigerecht; § 140 StPO; § 147 StPO; Ersttermin Strafrecht; Hauptverhandlung; § 136 StPO; Beweisantrag Strafrecht.
 ---
 
 # Strafverteidigung – Ersttermin und erste Schritte

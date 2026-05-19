@@ -1,22 +1,6 @@
 ---
 name: formular-erzeugung
-description: >
-  Referenz: VERALTET — bitte `/entwurf` verwenden. Diese Skill wurde in die
-  Draft-Skill überführt, die die gesamte Schriftstück-Erstellung der
-  Rechtsberatungsstelle einschließlich Formularausfüllung übernimmt.
-  Lädt, wenn ein Studierender Formulare ausfüllen, Antragsvordrucke
-  erstellen oder Formulargenerierung durchführen möchte.
-language: de
-user-invocable: false
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Formular ausfüllen
-  - Formularerstellung
-  - Antragsformular
-  - Formulargenerierung
-  - Vordrucke erstellen
-  - Beratungshilfe Formular
-  - PKH Formular
+description:  Referenz: VERALTET — bitte `/entwurf` verwenden. Diese Skill wurde in die Draft-Skill überführt, die die gesamte Schriftstück-Erstellung der Rechtsberatungsstelle einschließlich Formularausfüllung übernimmt. Lädt, wenn ein Studierender Formulare ausfüllen, Antragsvordrucke erstellen oder Formulargenerierung durchführen möchte. Auslöser und Beispielanfragen: Formular ausfüllen; Formularerstellung; Antragsformular; Formulargenerierung; Vordrucke erstellen; Beratungshilfe Formular; PKH Formular.
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

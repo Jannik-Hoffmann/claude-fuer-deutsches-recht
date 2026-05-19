@@ -1,21 +1,6 @@
 ---
 name: expansion-aktualisierung
-description: >
-  Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt,
-  welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und
-  benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung
-  Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln
-  soll.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Expansion aktualisieren
-  - Tracker update
-  - Status Expansion
-  - was ist noch offen
-  - nächste Schritte Auslandseinstellung
-  - Expansionsprojekt fortschreiben
-  - was hat sich geändert
+description:  Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll. Auslöser und Beispielanfragen: Expansion aktualisieren; Tracker update; Status Expansion; was ist noch offen; nächste Schritte Auslandseinstellung; Expansionsprojekt fortschreiben; was hat sich geändert.
 ---
 
 # Expansions-Update (Arbeitsrecht)

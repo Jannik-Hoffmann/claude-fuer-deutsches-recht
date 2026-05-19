@@ -1,20 +1,6 @@
 ---
 name: ag-vorbereitung
-description: >
-  Vorbereitung auf das Aufrufen in der Arbeitsgemeinschaft (AG) oder im
-  Seminar. Lade diesen Skill bei Anfragen wie „AG-Vorbereitung",
-  „Seminar vorbereiten", „was fragt der Dozent", „Cold Call" oder
-  „ich werde morgen drangenommen".
-language: de
-argument-hint: "[Fall oder Thema nennen]"
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - ag-vorbereitung
-  - seminar vorbereiten
-  - aufgerufen werden
-  - cold call
-  - drangenommen
-  - arbeitsgemeinschaft
+description:  Vorbereitung auf das Aufrufen in der Arbeitsgemeinschaft (AG) oder im Seminar. Lade diesen Skill bei Anfragen wie „AG-Vorbereitung", „Seminar vorbereiten", „was fragt der Dozent", „Cold Call" oder „ich werde morgen drangenommen". Auslöser und Beispielanfragen: ag-vorbereitung; seminar vorbereiten; aufgerufen werden; cold call; drangenommen; arbeitsgemeinschaft.
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)

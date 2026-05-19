@@ -1,28 +1,6 @@
 ---
 name: nda-durchsetzer
-description: >
-  Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne
-  Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und
-  erstellt parallel eine strukturierte Analyse (Executive Summary,
-  struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel
-  GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen,
-  Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter
-  wie „NDA durchsetzen", „NDA Redline", „NDA Gegenseite überarbeiten",
-  „Geheimhaltungsvereinbarung Änderungsmodus", „Mindeststandard NDA" oder
-  „NDA-Verhandlung" auftreten.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - NDA durchsetzen
-  - NDA Redline
-  - NDA Gegenseite
-  - NDA Änderungsmodus
-  - Geheimhaltungsvereinbarung überarbeiten
-  - Geheimhaltungsvereinbarung Redline
-  - Mindeststandard NDA
-  - NDA-Verhandlung
-  - NDA Markup
-  - Vertraulichkeitsvereinbarung Redline
+description:  Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie „NDA durchsetzen", „NDA Redline", „NDA Gegenseite überarbeiten", „Geheimhaltungsvereinbarung Änderungsmodus", „Mindeststandard NDA" oder „NDA-Verhandlung" auftreten. Auslöser und Beispielanfragen: NDA durchsetzen; NDA Redline; NDA Gegenseite; NDA Änderungsmodus; Geheimhaltungsvereinbarung überarbeiten; Geheimhaltungsvereinbarung Redline; Mindeststandard NDA; NDA-Verhandlung; NDA Markup; Vertraulichkeitsvereinbarung Redline.
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse

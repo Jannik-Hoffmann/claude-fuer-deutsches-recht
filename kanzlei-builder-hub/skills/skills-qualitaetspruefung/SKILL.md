@@ -1,27 +1,6 @@
 ---
 name: skills-qualitaetspruefung
-description: >
-  Bewertet einen Skill gegen das Kanzlei-Skill-Design-Rahmenwerk — dreizehn
-  Entwurfsparameter (darunter Vertrauensoberfläche, Aktualität,
-  Schema-Validierung und Konfliktprüfung), drei rechtsspezifische
-  Fehlermodi und ein dreistufiges Urteil (Bereit / Einige Bedenken /
-  Wesentliche Bedenken). Lädt, wenn entschieden werden soll, ob ein
-  Community-Skill vor der Installation vertrauenswürdig ist, bevor ein
-  Erstanbieter-Skill im Kanzleiteam eingesetzt wird, oder wenn der Nutzer
-  fragt „Ist dieser Skill gut gestaltet?" Läuft automatisch als Teil des
-  Skill-Installers.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Skill prüfen
-  - Skill-Qualitätsprüfung
-  - Skill bewerten
-  - Ist dieser Skill vertrauenswürdig
-  - Skill-QA durchführen
-  - Skill auf Sicherheit prüfen
-  - Community-Skill analysieren
-  - Skill-Design bewerten
-argument-hint: "[Skill-Pfad | SKILL.md-Pfad | Inhalt einfügen]"
+description:  Bewertet einen Skill gegen das Kanzlei-Skill-Design-Rahmenwerk — dreizehn Entwurfsparameter (darunter Vertrauensoberfläche, Aktualität, Schema-Validierung und Konfliktprüfung), drei rechtsspezifische Fehlermodi und ein dreistufiges Urteil (Bereit / Einige Bedenken / Wesentliche Bedenken). Lädt, wenn entschieden werden soll, ob ein Community-Skill vor der Installation vertrauenswürdig ist, bevor ein Erstanbieter-Skill im Kanzleiteam eingesetzt wird, oder wenn der Nutzer fragt „Ist dieser Skill gut gestaltet?" Läuft automatisch als Teil des Skill-Installers. Auslöser und Beispielanfragen: Skill prüfen; Skill-Qualitätsprüfung; Skill bewerten; Ist dieser Skill vertrauenswürdig; Skill-QA durchführen; Skill auf Sicherheit prüfen; Community-Skill analysieren; Skill-Design bewerten.
 ---
 
 # Skills-QA

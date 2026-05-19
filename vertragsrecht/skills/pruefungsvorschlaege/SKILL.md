@@ -1,21 +1,6 @@
 ---
 name: pruefungsvorschlaege
-description: >
-  Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge
-  des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das
-  Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer
-  „Playbook-Vorschläge prüfen", „welche Playbook-Updates sind ausstehend" oder
-  „Abweichungsvorschläge durchgehen" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Playbook-Vorschläge
-  - Regelwerk-Vorschläge
-  - Abweichungsvorschläge
-  - Playbook aktualisieren
-  - ausstehende Vorschläge
-  - Klauselvorschläge genehmigen
-  - Verhandlungspositionen anpassen
+description:  Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer „Playbook-Vorschläge prüfen", „welche Playbook-Updates sind ausstehend" oder „Abweichungsvorschläge durchgehen" sagt. Auslöser und Beispielanfragen: Playbook-Vorschläge; Regelwerk-Vorschläge; Abweichungsvorschläge; Playbook aktualisieren; ausstehende Vorschläge; Klauselvorschläge genehmigen; Verhandlungspositionen anpassen.
 ---
 
 # Playbook-Vorschläge prüfen und genehmigen

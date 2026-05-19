@@ -1,17 +1,6 @@
 ---
 name: kuendigungs-pruefung
-description: Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622, 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG).
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - kündigung prüfen
-  - kündigungsprüfung
-  - termination review
-  - kann ich kündigen
-  - betriebsbedingte kündigung
-  - verhaltensbedingte kündigung
-  - personenbedingte kündigung
-argument-hint: "[Kündigungsanlass und Beschreibung des Arbeitsverhältnisses]"
+description: Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622, 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG). Auslöser und Beispielanfragen: kündigung prüfen; kündigungsprüfung; termination review; kann ich kündigen; betriebsbedingte kündigung; verhaltensbedingte kündigung; personenbedingte kündigung.
 ---
 
 # /arbeitsrecht:kuendigungs-pruefung

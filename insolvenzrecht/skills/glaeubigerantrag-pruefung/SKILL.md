@@ -1,25 +1,6 @@
 ---
 name: glaeubigerantrag-pruefung
-description: >
-  Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des
-  Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive
-  (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien).
-  Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will,
-  wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn
-  Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Gläubigerantrag
-  - § 14 InsO
-  - Insolvenzantrag Gläubiger
-  - Antrag auf Insolvenz stellen
-  - Glaubhaftmachung Forderung Insolvenz
-  - Insolvenzantrag Finanzamt
-  - Insolvenzantrag Sozialversicherung
-  - Eröffnungsgrund glaubhaft machen
-  - Insolvenzantrag abwehren
-  - Druckantrag Insolvenz
+description:  Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind. Auslöser und Beispielanfragen: Gläubigerantrag; § 14 InsO; Insolvenzantrag Gläubiger; Antrag auf Insolvenz stellen; Glaubhaftmachung Forderung Insolvenz; Insolvenzantrag Finanzamt; Insolvenzantrag Sozialversicherung; Eröffnungsgrund glaubhaft machen; Insolvenzantrag abwehren; Druckantrag Insolvenz.
 ---
 
 # Prüfung Gläubigerantrag nach § 14 InsO

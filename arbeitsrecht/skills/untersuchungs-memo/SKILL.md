@@ -1,21 +1,6 @@
 ---
 name: untersuchungs-memo
-description: >
-  Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll
-  oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen
-  sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den
-  ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf
-  veraltet haben.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Untersuchungsmemo
-  - Untersuchungsvermerk
-  - Vermerk entwerfen
-  - Untersuchung zusammenfassen
-  - Abschlussvermerk
-  - Memo aktualisieren
-  - Untersuchungsergebnis dokumentieren
+description:  Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben. Auslöser und Beispielanfragen: Untersuchungsmemo; Untersuchungsvermerk; Vermerk entwerfen; Untersuchung zusammenfassen; Abschlussvermerk; Memo aktualisieren; Untersuchungsergebnis dokumentieren.
 ---
 
 # Untersuchungsvermerk (Arbeitsrecht)

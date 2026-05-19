@@ -1,25 +1,6 @@
 ---
 name: recherche-start
-description: >
-  Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche,
-  Kommentarliteratur, Suchbegriffe für juris/beck-online/dejure. Hinweise und
-  Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren
-  eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche
-  anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in
-  bestehender Recherche identifizieren möchte.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Recherche anfangen
-  - wo anfangen Rechtsfrage
-  - Recherchefahrplan
-  - juris Suche
-  - beck-online Suche
-  - Normen finden
-  - Rechtsprechung recherchieren
-  - Mietrecht recherchieren
-  - Verwaltungsrecht recherchieren
-  - Arbeitsrecht recherchieren
+description:  Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, Kommentarliteratur, Suchbegriffe für juris/beck-online/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte. Auslöser und Beispielanfragen: Recherche anfangen; wo anfangen Rechtsfrage; Recherchefahrplan; juris Suche; beck-online Suche; Normen finden; Rechtsprechung recherchieren; Mietrecht recherchieren; Verwaltungsrecht recherchieren; Arbeitsrecht recherchieren.
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche

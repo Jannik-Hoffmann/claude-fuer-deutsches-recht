@@ -1,21 +1,6 @@
 ---
 name: gmbh-gruendung
-description: >
-  Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur
-  Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a
-  GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur
-  Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - GmbH gründen
-  - Gesellschaftsvertrag GmbH
-  - Stammkapital
-  - UG haftungsbeschränkt
-  - Handelsregistereintragung GmbH
-  - Geschäftsführerbestellung
-  - Transparenzregister
-  - Vorgesellschaft
+description:  Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag. Auslöser und Beispielanfragen: GmbH gründen; Gesellschaftsvertrag GmbH; Stammkapital; UG haftungsbeschränkt; Handelsregistereintragung GmbH; Geschäftsführerbestellung; Transparenzregister; Vorgesellschaft.
 ---
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag

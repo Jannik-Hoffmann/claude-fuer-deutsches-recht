@@ -1,17 +1,6 @@
 ---
 name: dora-ikt-vertragspruefung
-description: Prüft IKT-Drittdienstleisterverträge eines Finanzunternehmens auf die Mindestanforderungen der EU-Verordnung 2022/2554 (DORA) und ergänzender RTS/ITS/EBA-/ESA-Leitlinien. Liefert eine tabellarische Lückenanalyse mit konkreten Verbesserungsvorschlägen und Klauselentwürfen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - DORA
-  - IKT-Vertrag
-  - ICT third-party
-  - Auslagerung Bank
-  - Cloud Bank
-  - BAIT MaRisk DORA
-  - VO 2022/2554
-  - Article 30 DORA
+description: Prüft IKT-Drittdienstleisterverträge eines Finanzunternehmens auf die Mindestanforderungen der EU-Verordnung 2022/2554 (DORA) und ergänzender RTS/ITS/EBA-/ESA-Leitlinien. Liefert eine tabellarische Lückenanalyse mit konkreten Verbesserungsvorschlägen und Klauselentwürfen. Auslöser und Beispielanfragen: DORA; IKT-Vertrag; ICT third-party; Auslagerung Bank; Cloud Bank; BAIT MaRisk DORA; VO 2022/2554; Article 30 DORA.
 ---
 
 # DORA-IKT-Vertragsprüfung

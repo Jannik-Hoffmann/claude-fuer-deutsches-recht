@@ -1,20 +1,6 @@
 ---
 name: fall-zusammenfassung
-description: >
-  Fallbearbeitung im deutschen Gutachtenstil (Obersatz – Definition –
-  Subsumtion – Ergebnis). Lade diesen Skill bei Anfragen wie „bearbeite diesen
-  Fall", „schreibe ein Gutachten", „löse den Sachverhalt", „Fallbearbeitung",
-  „Klausuraufbau" oder wenn ein Sachverhalt zur Bearbeitung eingegeben wird.
-language: de
-argument-hint: "[Sachverhalt einfügen oder Fallname nennen]"
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - fallbearbeitung
-  - gutachten
-  - sachverhalt
-  - klausuraufbau
-  - löse den fall
-  - anspruch prüfen
+description:  Fallbearbeitung im deutschen Gutachtenstil (Obersatz – Definition – Subsumtion – Ergebnis). Lade diesen Skill bei Anfragen wie „bearbeite diesen Fall", „schreibe ein Gutachten", „löse den Sachverhalt", „Fallbearbeitung", „Klausuraufbau" oder wenn ein Sachverhalt zur Bearbeitung eingegeben wird. Auslöser und Beispielanfragen: fallbearbeitung; gutachten; sachverhalt; klausuraufbau; löse den fall; anspruch prüfen.
 ---
 
 # Fallbearbeitung im Gutachtenstil

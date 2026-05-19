@@ -1,20 +1,6 @@
 ---
 name: kaltstart-interview
-description: >
-  Einmalige Ersteinrichtung der Beratungsstelle. Führt den anleitenden Volljuristen
-  durch ein strukturiertes Interview zur Konfiguration des Plugins: Beratungsstellentyp,
-  Rechtsgrundlage, Fachbereiche, Aufsichtsmodell, Verschwiegenheitshinweise,
-  Pädagogikhaltung. Ergebnis wird in CLAUDE.md gespeichert. Aufrufen bei Neugründung
-  oder grundlegender Neuausrichtung der Beratungsstelle.
-argument-hint: "[--redo zum vollständigen Neustart]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - beratungsstelle einrichten
-  - ersteinrichtung
-  - cold-start
-  - konfiguration
-  - new clinic
+description:  Einmalige Ersteinrichtung der Beratungsstelle. Führt den anleitenden Volljuristen durch ein strukturiertes Interview zur Konfiguration des Plugins: Beratungsstellentyp, Rechtsgrundlage, Fachbereiche, Aufsichtsmodell, Verschwiegenheitshinweise, Pädagogikhaltung. Ergebnis wird in CLAUDE.md gespeichert. Aufrufen bei Neugründung oder grundlegender Neuausrichtung der Beratungsstelle. Auslöser und Beispielanfragen: beratungsstelle einrichten; ersteinrichtung; cold-start; konfiguration; new clinic.
 ---
 
 # /kaltstart-interview

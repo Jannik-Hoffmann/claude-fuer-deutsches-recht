@@ -1,15 +1,6 @@
 ---
 name: mandat-briefing
-description: Tiefenbriefing zu einem einzelnen Mandat – aktueller Verfahrensstand, Entwicklungen seit dem letzten Update, nächste Frist, offene Fragen und Risikoneueinschätzung, bereit für ein Mandantengespräch, Justiziarsbesprechung oder Außenanwaltsgespräch. Verwenden, wenn der Nutzer sagt „brief mich zu [Mandat]", „wo stehen wir bei [Mandat]" oder ein aktuelles Bild zu einem einzelnen Mandat benötigt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - mandat-briefing
-  - brief mich
-  - wo stehen wir
-  - mandatsstatus
-  - verfahrensstand
-  - aktueller stand mandat
+description: Tiefenbriefing zu einem einzelnen Mandat – aktueller Verfahrensstand, Entwicklungen seit dem letzten Update, nächste Frist, offene Fragen und Risikoneueinschätzung, bereit für ein Mandantengespräch, Justiziarsbesprechung oder Außenanwaltsgespräch. Verwenden, wenn der Nutzer sagt „brief mich zu [Mandat]", „wo stehen wir bei [Mandat]" oder ein aktuelles Bild zu einem einzelnen Mandat benötigt. Auslöser und Beispielanfragen: mandat-briefing; brief mich; wo stehen wir; mandatsstatus; verfahrensstand; aktueller stand mandat.
 ---
 
 # Mandat-Briefing

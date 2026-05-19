@@ -1,24 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-pruefung-17-inso
-description: >
-  Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit
-  nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das
-  10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung.
-  Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund
-  oder § 17 InsO prüfen möchte.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Zahlungsunfähigkeit
-  - § 17 InsO
-  - Liquiditätsstatus
-  - Liquiditätsbilanz
-  - 10-Prozent-Schwelle
-  - Zahlungseinstellung
-  - Zahlungsstockung
-  - Insolvenzeröffnungsgrund
-  - fällige Verbindlichkeiten
-  - Eröffnungsgrund prüfen
+description:  Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das 10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung. Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund oder § 17 InsO prüfen möchte. Auslöser und Beispielanfragen: Zahlungsunfähigkeit; § 17 InsO; Liquiditätsstatus; Liquiditätsbilanz; 10-Prozent-Schwelle; Zahlungseinstellung; Zahlungsstockung; Insolvenzeröffnungsgrund; fällige Verbindlichkeiten; Eröffnungsgrund prüfen.
 ---
 
 # Gerichtsfeste Prüfung des Eröffnungsgrundes § 17 InsO (Zahlungsunfähigkeit)

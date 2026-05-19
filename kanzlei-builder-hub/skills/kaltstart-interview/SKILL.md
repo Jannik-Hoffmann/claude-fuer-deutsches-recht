@@ -1,20 +1,6 @@
 ---
 name: kaltstart-interview
-description: >
-  Praxisprofil-Interview, das ein Starter-Paket aus Community-Kanzlei-Skills empfiehlt und installiert.
-  Dies IST der Kaltstart für das gesamte Ökosystem — es fragt nach Kanzleityp und empfiehlt,
-  was zuerst installiert werden sollte. Beim Erststart einsetzen, wenn der Nutzer sagt
-  „Einstieg", „Was soll ich installieren" oder um die Integrations-Verfügbarkeitsprüfung
-  nach Hinzufügen oder Entfernen eines MCP-Konnektors erneut auszuführen.
-argument-hint: "[--redo] [--check-integrations]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - kaltstart
-  - cold-start
-  - einrichten
-  - was soll ich installieren
-  - einstieg
+description:  Praxisprofil-Interview, das ein Starter-Paket aus Community-Kanzlei-Skills empfiehlt und installiert. Dies IST der Kaltstart für das gesamte Ökosystem — es fragt nach Kanzleityp und empfiehlt, was zuerst installiert werden sollte. Beim Erststart einsetzen, wenn der Nutzer sagt „Einstieg", „Was soll ich installieren" oder um die Integrations-Verfügbarkeitsprüfung nach Hinzufügen oder Entfernen eines MCP-Konnektors erneut auszuführen. Auslöser und Beispielanfragen: kaltstart; cold-start; einrichten; was soll ich installieren; einstieg.
 ---
 
 # /kaltstart-interview — Kanzleiprofil-Interview

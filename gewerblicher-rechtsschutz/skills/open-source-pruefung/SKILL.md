@@ -1,22 +1,6 @@
 ---
 name: open-source-pruefung
-description: >
-  Open-Source-Lizenz-Compliance-Prüfung für eine Abhängigkeitsliste, eine
-  einzelne Bibliothek oder ausgehenden Code. Lädt bei der Prüfung eines
-  Manifests, SBOM oder Repositories auf Copyleft-Pflichten und
-  Lizenzkompatibilität, bei der Frage ob eine Bibliothek ausgeliefert werden
-  darf, oder bei der Vorbereitung von Code zur Veröffentlichung als Open Source.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Open-Source-Lizenz prüfen
-  - GPL Copyleft Compliance
-  - AGPL Pflichten
-  - Abhängigkeitsliste Lizenz
-  - SBOM Lizenzprüfung
-  - Open Source Veröffentlichung
-  - Nutzungsrechte Software Lizenz
-  - OSS Compliance
+description:  Open-Source-Lizenz-Compliance-Prüfung für eine Abhängigkeitsliste, eine einzelne Bibliothek oder ausgehenden Code. Lädt bei der Prüfung eines Manifests, SBOM oder Repositories auf Copyleft-Pflichten und Lizenzkompatibilität, bei der Frage ob eine Bibliothek ausgeliefert werden darf, oder bei der Vorbereitung von Code zur Veröffentlichung als Open Source. Auslöser und Beispielanfragen: Open-Source-Lizenz prüfen; GPL Copyleft Compliance; AGPL Pflichten; Abhängigkeitsliste Lizenz; SBOM Lizenzprüfung; Open Source Veröffentlichung; Nutzungsrechte Software Lizenz; OSS Compliance.
 ---
 
 # Open-Source-Lizenz-Compliance-Prüfung

@@ -1,24 +1,6 @@
 ---
 name: gliederungs-baukasten
-description: >
-  Erstellt oder erweitert Lernstrukturen nach dem Prüfungsstoff der Ersten und Zweiten Staatsprüfung
-  (JAG/JAPrO der Bundesländer) — Skripten-Gliederung, Definitionen-Lernkartei, Paragraphenübersicht.
-  Gerüstbau: schreibt die Inhalte nicht für den Studierenden. Lädt, wenn der Nutzer
-  „Lernstruktur aufbauen", „Gliederung [Rechtsgebiet]", „Übersicht erstellen" oder
-  „mein Lernblatt erweitern" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Lernstruktur aufbauen
-  - Gliederung BGB
-  - Strafrecht Übersicht
-  - Lernplan Struktur
-  - Examensstoff gliedern
-  - Definitionen Lernkartei
-  - JAG Prüfungsstoff
-  - Skript erweitern
-  - mein Lernblatt
-  - Paragraphenübersicht
+description:  Erstellt oder erweitert Lernstrukturen nach dem Prüfungsstoff der Ersten und Zweiten Staatsprüfung (JAG/JAPrO der Bundesländer) — Skripten-Gliederung, Definitionen-Lernkartei, Paragraphenübersicht. Gerüstbau: schreibt die Inhalte nicht für den Studierenden. Lädt, wenn der Nutzer „Lernstruktur aufbauen", „Gliederung [Rechtsgebiet]", „Übersicht erstellen" oder „mein Lernblatt erweitern" sagt. Auslöser und Beispielanfragen: Lernstruktur aufbauen; Gliederung BGB; Strafrecht Übersicht; Lernplan Struktur; Examensstoff gliedern; Definitionen Lernkartei; JAG Prüfungsstoff; Skript erweitern; mein Lernblatt; Paragraphenübersicht.
 ---
 
 # Lernstruktur-Builder

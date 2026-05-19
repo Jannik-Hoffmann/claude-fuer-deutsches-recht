@@ -1,20 +1,6 @@
 ---
 name: regulierungs-luecken-analyse
-description: >
-  Datenschutz-Gap-Analyse: Abgleich der aktuellen Datenschutzpraxis gegen neue oder
-  geänderte Anforderungen aus EDSA-Leitlinien, DSK-Beschlüssen, Gesetzesänderungen oder
-  Behördenentscheidungen. Ergebnis: priorisierte Maßnahmenliste mit Handlungsfristen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Gap-Analyse
-  - Lückenanalyse
-  - EDSA-Leitlinie
-  - DSK-Beschluss
-  - neue Anforderung
-  - Umsetzungspflicht
-  - reg-gap
-  - Compliance-Check
+description:  Datenschutz-Gap-Analyse: Abgleich der aktuellen Datenschutzpraxis gegen neue oder geänderte Anforderungen aus EDSA-Leitlinien, DSK-Beschlüssen, Gesetzesänderungen oder Behördenentscheidungen. Ergebnis: priorisierte Maßnahmenliste mit Handlungsfristen. Auslöser und Beispielanfragen: Gap-Analyse; Lückenanalyse; EDSA-Leitlinie; DSK-Beschluss; neue Anforderung; Umsetzungspflicht; reg-gap; Compliance-Check.
 ---
 
 # DS-Gap-Analyse – Datenschutzrecht

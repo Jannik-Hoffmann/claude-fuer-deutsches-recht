@@ -1,19 +1,6 @@
 ---
 name: inkasso-rdg
-description: Begleitet registrierte Inkassounternehmen und Rechtsanwälte bei der rechtskonformen Durchführung von Inkassodienstleistungen nach dem RDG – von Registrierungsvoraussetzungen über Hinweispflichten gegenüber Schuldnern bis zur Vergütung und datenschutzkonformen Datenverarbeitung. Lädt bei Fragen zu Inkasso, RDG-Registrierung, Mahnung, Schuldnerschutz und Legal-Tech-Inkasso.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Inkasso
-  - Inkassodienstleistung
-  - RDG
-  - § 10 RDG
-  - Forderungseinzug
-  - Schuldnerbenachrichtigung
-  - LexFox
-  - Legal Tech Inkasso
-  - Registrierung Inkasso
-  - RDGEG
+description: Begleitet registrierte Inkassounternehmen und Rechtsanwälte bei der rechtskonformen Durchführung von Inkassodienstleistungen nach dem RDG – von Registrierungsvoraussetzungen über Hinweispflichten gegenüber Schuldnern bis zur Vergütung und datenschutzkonformen Datenverarbeitung. Lädt bei Fragen zu Inkasso, RDG-Registrierung, Mahnung, Schuldnerschutz und Legal-Tech-Inkasso. Auslöser und Beispielanfragen: Inkasso; Inkassodienstleistung; RDG; § 10 RDG; Forderungseinzug; Schuldnerbenachrichtigung; LexFox; Legal Tech Inkasso; Registrierung Inkasso; RDGEG.
 ---
 
 # Inkassodienstleistungen (RDG)

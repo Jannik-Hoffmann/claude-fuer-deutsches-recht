@@ -1,27 +1,6 @@
 ---
 name: schriftliche-beschlussfassung
-description: >
-  Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse
-  im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse
-  Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden
-  (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und
-  Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse
-  und Unterzeichner-Tracking. Lädt bei „Umlaufbeschluss", „schriftlicher Beschluss",
-  „Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme
-  ohne Versammlung.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Umlaufbeschluss
-  - schriftlicher Beschluss
-  - Gesellschafterbeschluss
-  - § 48 Abs. 2 GmbHG
-  - Beschluss ohne Versammlung
-  - Aufsichtsratsumlaufbeschluss
-  - Zustimmungsbeschluss
-  - schriftliche Abstimmung
-  - Gesellschafterversammlung schriftlich
-argument-hint: "[Beschreibung der zustimmungspflichtigen Maßnahme]"
+description:  Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei „Umlaufbeschluss", „schriftlicher Beschluss", „Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung. Auslöser und Beispielanfragen: Umlaufbeschluss; schriftlicher Beschluss; Gesellschafterbeschluss; § 48 Abs. 2 GmbHG; Beschluss ohne Versammlung; Aufsichtsratsumlaufbeschluss; Zustimmungsbeschluss; schriftliche Abstimmung; Gesellschafterversammlung schriftlich.
 ---
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss

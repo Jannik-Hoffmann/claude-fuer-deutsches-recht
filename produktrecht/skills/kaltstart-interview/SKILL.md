@@ -1,21 +1,6 @@
 ---
 name: kaltstart-interview
-description: >
-  Kaltstart-Interview für das Produktrecht-Plugin – verbindet sich mit dem
-  Launch-Tracker, liest vergangene Reviews, lernt Ihre Risikokalibrierung.
-  Verwenden bei Erstinstallation, beim Onboarding von Produktjuristen oder wenn
-  die Plugin-Konfiguration noch Platzhalter enthält. Mit --redo für erneutes
-  Interview, mit --check-integrations nur für Konnektoren-Prüfung.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - cold-start
-  - ersteinrichtung
-  - setup produktrecht
-  - konfigurieren
-  - launch-tracker verbinden
-  - produktrecht-profil anlegen
-argument-hint: "[--redo] [--check-integrations]"
+description:  Kaltstart-Interview für das Produktrecht-Plugin – verbindet sich mit dem Launch-Tracker, liest vergangene Reviews, lernt Ihre Risikokalibrierung. Verwenden bei Erstinstallation, beim Onboarding von Produktjuristen oder wenn die Plugin-Konfiguration noch Platzhalter enthält. Mit --redo für erneutes Interview, mit --check-integrations nur für Konnektoren-Prüfung. Auslöser und Beispielanfragen: cold-start; ersteinrichtung; setup produktrecht; konfigurieren; launch-tracker verbinden; produktrecht-profil anlegen.
 ---
 
 # /kaltstart-interview

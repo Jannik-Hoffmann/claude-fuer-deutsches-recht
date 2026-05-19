@@ -1,21 +1,6 @@
 ---
 name: mandanten-kommunikations-log
-description: >
-  Erstellt und pflegt ein strukturiertes Kommunikationslogbuch für ein Mandat.
-  Protokolliert jede Kontaktaufnahme mit dem Mandanten, dem Jobcenter, dem BAMF,
-  Gerichten oder anderen Stellen – mit Datum, Inhalt, nächsten Schritten und
-  Verschwiegenheitshinweisen. Aufrufen bei jeder neuen Kommunikation oder zur
-  Erstellung des Semesterübergabe-Protokolls.
-argument-hint: "[optional: Aktenzeichen oder Mandantenkennung]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - kommunikation protokollieren
-  - kontakt loggen
-  - mandantenkontakt
-  - mandanten-kommunikations-log
-  - kommunikationsverlauf
-  - kontaktprotokoll erstellen
+description:  Erstellt und pflegt ein strukturiertes Kommunikationslogbuch für ein Mandat. Protokolliert jede Kontaktaufnahme mit dem Mandanten, dem Jobcenter, dem BAMF, Gerichten oder anderen Stellen – mit Datum, Inhalt, nächsten Schritten und Verschwiegenheitshinweisen. Aufrufen bei jeder neuen Kommunikation oder zur Erstellung des Semesterübergabe-Protokolls. Auslöser und Beispielanfragen: kommunikation protokollieren; kontakt loggen; mandantenkontakt; mandanten-kommunikations-log; kommunikationsverlauf; kontaktprotokoll erstellen.
 ---
 
 # /mandanten-kommunikations-log

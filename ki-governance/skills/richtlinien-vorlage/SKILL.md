@@ -1,23 +1,6 @@
 ---
 name: richtlinien-vorlage
-description: >
-  Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter
-  Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool,
-  dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist,
-  keine fertige Richtlinie. Lädt, wenn der Nutzer „KI-Richtlinie entwerfen",
-  „wir brauchen eine KI-Richtlinie", „AI-Act-konforme Richtlinie" oder
-  Ähnliches sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - KI-Richtlinie entwerfen
-  - KI-Nutzungsrichtlinie erstellen
-  - AI-Act-konforme Richtlinie
-  - wir brauchen eine KI-Richtlinie
-  - interne KI-Governance-Richtlinie
-  - KI-Richtlinie aktualisieren
-  - GenAI-Richtlinie aufsetzen
-  - Acceptable-Use-Policy KI
+description:  Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer „KI-Richtlinie entwerfen", „wir brauchen eine KI-Richtlinie", „AI-Act-konforme Richtlinie" oder Ähnliches sagt. Auslöser und Beispielanfragen: KI-Richtlinie entwerfen; KI-Nutzungsrichtlinie erstellen; AI-Act-konforme Richtlinie; wir brauchen eine KI-Richtlinie; interne KI-Governance-Richtlinie; KI-Richtlinie aktualisieren; GenAI-Richtlinie aufsetzen; Acceptable-Use-Policy KI.
 ---
 
 # KI-Richtlinien-Starter

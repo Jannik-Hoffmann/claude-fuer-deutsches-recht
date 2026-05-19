@@ -1,21 +1,6 @@
 ---
 name: anpassen
-description: >
-  Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne
-  Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer
-  „Profil anpassen", „Playbook ändern", „Eskalation aktualisieren",
-  „Klauselposition ändern" oder „konfigurieren" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Profil anpassen
-  - Playbook ändern
-  - Konfiguration ändern
-  - Klauselposition
-  - Eskalation aktualisieren
-  - Risikoposition
-  - Kanzleiprofil bearbeiten
-  - Einstellung ändern
+description:  Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer „Profil anpassen", „Playbook ändern", „Eskalation aktualisieren", „Klauselposition ändern" oder „konfigurieren" sagt. Auslöser und Beispielanfragen: Profil anpassen; Playbook ändern; Konfiguration ändern; Klauselposition; Eskalation aktualisieren; Risikoposition; Kanzleiprofil bearbeiten; Einstellung ändern.
 ---
 
 # Kanzleiprofil anpassen

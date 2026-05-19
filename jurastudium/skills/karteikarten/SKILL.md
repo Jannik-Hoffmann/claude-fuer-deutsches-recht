@@ -1,22 +1,6 @@
 ---
 name: karteikarten
-description: >
-  Erstellt oder übt Karteikarten für die Gedächtnisleistung im Jurastudium — Leitner-System,
-  fachspezifische Definitionen (§-genaue Formulierungen), Drill-Modus mit Selbsteinschätzung.
-  Lädt, wenn der Nutzer „Karteikarten erstellen", „Definition üben", „Wiederholung starten"
-  oder „Anki-Karten für [Rechtsgebiet]" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Karteikarten erstellen
-  - Definition üben
-  - Karteikarten Strafrecht
-  - Definitionen Zivilrecht
-  - Wiederholung starten
-  - Anki Jura
-  - Drill-Modus
-  - Lernkartei
-  - Definitionen wiederholen
+description:  Erstellt oder übt Karteikarten für die Gedächtnisleistung im Jurastudium — Leitner-System, fachspezifische Definitionen (§-genaue Formulierungen), Drill-Modus mit Selbsteinschätzung. Lädt, wenn der Nutzer „Karteikarten erstellen", „Definition üben", „Wiederholung starten" oder „Anki-Karten für [Rechtsgebiet]" sagt. Auslöser und Beispielanfragen: Karteikarten erstellen; Definition üben; Karteikarten Strafrecht; Definitionen Zivilrecht; Wiederholung starten; Anki Jura; Drill-Modus; Lernkartei; Definitionen wiederholen.
 ---
 
 # Karteikarten-Drill

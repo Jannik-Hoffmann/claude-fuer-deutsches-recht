@@ -1,14 +1,6 @@
 ---
 name: kaltstart-interview
-description: Einrichtungs-Interview für das Prozessrecht-Plugin – erfasst Kanzleiart, Rolle, Praxisschwerpunkte, Risikobereitschaft, Mandatslandschaft und Kanzleistil und schreibt die CLAUDE.md. Verwenden bei der Ersteinrichtung, wenn der Nutzer das Praxisprofil neu erstellen oder die Integrations-Verfügbarkeit prüfen möchte.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - cold-start
-  - ersteinrichtung
-  - praxisprofil einrichten
-  - plugin einrichten
-  - neu einrichten
+description: Einrichtungs-Interview für das Prozessrecht-Plugin – erfasst Kanzleiart, Rolle, Praxisschwerpunkte, Risikobereitschaft, Mandatslandschaft und Kanzleistil und schreibt die CLAUDE.md. Verwenden bei der Ersteinrichtung, wenn der Nutzer das Praxisprofil neu erstellen oder die Integrations-Verfügbarkeit prüfen möchte. Auslöser und Beispielanfragen: cold-start; ersteinrichtung; praxisprofil einrichten; plugin einrichten; neu einrichten.
 ---
 
 # Kaltstart-Interview

@@ -1,19 +1,6 @@
 ---
 name: richtlinien-monitor
-description: >
-  Drift-Monitoring der Datenschutzerklärung und Datenschutzrichtlinien: wöchentlicher
-  Abgleich zwischen gelebter Praxis / neuen Verarbeitungstätigkeiten und publizierten
-  Erklärungen. Erkennt Inkonsistenzen und entwirft Aktualisierungen.
-  Zweiter Modus: Direkt-Anfrage für konkrete geplante Änderungen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Policy-Monitor
-  - Datenschutzerklärung prüfen
-  - policy drift
-  - Richtlinie aktualisieren
-  - Datenschutzerklärung veraltet
-  - Consent Management
+description:  Drift-Monitoring der Datenschutzerklärung und Datenschutzrichtlinien: wöchentlicher Abgleich zwischen gelebter Praxis / neuen Verarbeitungstätigkeiten und publizierten Erklärungen. Erkennt Inkonsistenzen und entwirft Aktualisierungen. Zweiter Modus: Direkt-Anfrage für konkrete geplante Änderungen. Auslöser und Beispielanfragen: Policy-Monitor; Datenschutzerklärung prüfen; policy drift; Richtlinie aktualisieren; Datenschutzerklärung veraltet; Consent Management.
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung

@@ -1,14 +1,6 @@
 ---
 name: mahnschreiben-entwurf
-description: Entwurf eines anwaltlichen Mahnschreibens / einer vorgerichtlichen Aufforderung auf Basis eines abgeschlossenen Intakes – mit Fristsetzung nach § 286 BGB, Hinweis auf Klageandrohung und Checkliste für Mandatsgeheimnisschutz. Verwenden, wenn der Nutzer sagt „Entwurf Mahnschreiben", „schreib das Aufforderungsschreiben" oder das Mahnschreiben-Intake abgeschlossen ist.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - mahnschreiben
-  - aufforderungsschreiben
-  - mahnung entwerfen
-  - verzugsschreiben
-  - fristsetzung schreiben
+description: Entwurf eines anwaltlichen Mahnschreibens / einer vorgerichtlichen Aufforderung auf Basis eines abgeschlossenen Intakes – mit Fristsetzung nach § 286 BGB, Hinweis auf Klageandrohung und Checkliste für Mandatsgeheimnisschutz. Verwenden, wenn der Nutzer sagt „Entwurf Mahnschreiben", „schreib das Aufforderungsschreiben" oder das Mahnschreiben-Intake abgeschlossen ist. Auslöser und Beispielanfragen: mahnschreiben; aufforderungsschreiben; mahnung entwerfen; verzugsschreiben; fristsetzung schreiben.
 ---
 
 # Mahnschreiben / Vorgerichtliche Aufforderung

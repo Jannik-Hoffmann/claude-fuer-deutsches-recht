@@ -1,15 +1,6 @@
 ---
 name: anpassen
-description: Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - konfiguration ändern
-  - profil anpassen
-  - anpassen
-  - jurisdiction hinzufügen
-  - eskalation aktualisieren
-argument-hint: "[Abschnitt oder Beschreibung der Änderung]"
+description: Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen. Auslöser und Beispielanfragen: konfiguration ändern; profil anpassen; anpassen; jurisdiction hinzufügen; eskalation aktualisieren.
 ---
 
 # /arbeitsrecht:anpassen

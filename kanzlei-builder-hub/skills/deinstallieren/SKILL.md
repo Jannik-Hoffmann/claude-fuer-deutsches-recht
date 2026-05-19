@@ -1,22 +1,6 @@
 ---
 name: deinstallieren
-description: >
-  Deinstalliert einen Community-Skill, der über den Kanzlei-Builder-Hub
-  installiert wurde. Bestätigt vor dem Löschen von Dateien, verweigert jede
-  Aktion auf Erstanbieter-Plugin-Skills und protokolliert jeden Vorgang
-  revisionssicher. Lädt, wenn der Nutzer einen Community-Skill vollständig
-  entfernen möchte („Skill deinstallieren [Name]", „Skill entfernen").
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Skill deinstallieren
-  - Skill entfernen
-  - Skill löschen
-  - Community-Skill entfernen
-  - Skill vollständig löschen
-  - Plugin-Skill deinstallieren
-  - Skill aus Kanzlei entfernen
-argument-hint: "[Skill-Name]"
+description:  Deinstalliert einen Community-Skill, der über den Kanzlei-Builder-Hub installiert wurde. Bestätigt vor dem Löschen von Dateien, verweigert jede Aktion auf Erstanbieter-Plugin-Skills und protokolliert jeden Vorgang revisionssicher. Lädt, wenn der Nutzer einen Community-Skill vollständig entfernen möchte („Skill deinstallieren [Name]", „Skill entfernen"). Auslöser und Beispielanfragen: Skill deinstallieren; Skill entfernen; Skill löschen; Community-Skill entfernen; Skill vollständig löschen; Plugin-Skill deinstallieren; Skill aus Kanzlei entfernen.
 ---
 
 # Deinstallation

@@ -1,19 +1,6 @@
 ---
 name: verzeichnis-durchsuchen
-description: >
-  Beobachtete Registries nach Community-Kanzlei-Skills durchsuchen, Treffer mit Beschreibungen
-  anzeigen und das vollständige SKILL.md vor der Installation einsehen. Einsetzen, wenn der
-  Nutzer sagt: „Browse", „Skills suchen", „Skill für X finden", „Was gibt es für", oder eine
-  neue Registry zur Watchlist hinzufügen möchte.
-argument-hint: "[Suchbegriff]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - skills suchen
-  - registry durchsuchen
-  - was gibt es für
-  - skill finden
-  - verzeichnis-durchsuchen
+description:  Beobachtete Registries nach Community-Kanzlei-Skills durchsuchen, Treffer mit Beschreibungen anzeigen und das vollständige SKILL.md vor der Installation einsehen. Einsetzen, wenn der Nutzer sagt: „Browse", „Skills suchen", „Skill für X finden", „Was gibt es für", oder eine neue Registry zur Watchlist hinzufügen möchte. Auslöser und Beispielanfragen: skills suchen; registry durchsuchen; was gibt es für; skill finden; verzeichnis-durchsuchen.
 ---
 
 # /verzeichnis-durchsuchen — Skill-Registry-Browser

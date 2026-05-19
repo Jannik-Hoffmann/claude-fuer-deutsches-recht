@@ -1,24 +1,6 @@
 ---
 name: richtlinien-monitor
-description: >
-  Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten
-  Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen,
-  Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer
-  geplanten neuen KI-Praxis. Lädt, wenn der Nutzer „Richtlinien-Sweep",
-  „KI-Richtlinie prüfen", „deckt unsere Richtlinie das ab", „wir wollen
-  X einführen — brauchen wir eine Richtlinienänderung" oder
-  „Policy-Monitor starten" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Richtlinien-Sweep
-  - KI-Richtlinie prüfen
-  - AI-Act-Konformität überwachen
-  - deckt unsere Richtlinie das ab
-  - Policy-Drift erkennen
-  - neue KI-Praxis prüfen
-  - Policy-Monitor starten
-  - KI-Governance-Überwachung
+description:  Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer „Richtlinien-Sweep", „KI-Richtlinie prüfen", „deckt unsere Richtlinie das ab", „wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder „Policy-Monitor starten" sagt. Auslöser und Beispielanfragen: Richtlinien-Sweep; KI-Richtlinie prüfen; AI-Act-Konformität überwachen; deckt unsere Richtlinie das ab; Policy-Drift erkennen; neue KI-Praxis prüfen; Policy-Monitor starten; KI-Governance-Überwachung.
 ---
 
 # KI-Richtlinien-Monitor

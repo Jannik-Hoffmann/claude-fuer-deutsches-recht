@@ -1,17 +1,6 @@
 ---
 name: klagevorlage-aus-eigenen-mustern
-description: Lernlauf der Klagewerkstatt für Forderungsmanagement-Klagen. Frisst eigene Klagemuster, Urteile, Kommentare, Aufsätze und Formatvorlagen des Nutzers (DOCX, PDF, MD, TXT), destilliert daraus eine hauseigene generische Standardklage-Vorlage mit Platzhaltern, sammelt den Sachverhalt im Dialog oder aus weiteren Dokumenten, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG) und liefert die fertige Klageschrift als DOCX und Markdown. Erzeugt zusätzlich ein eigenes Mini-Plugin als ZIP, das in Claude Code direkt installierbar ist und die nächste Klage ohne erneute Extraktion in der hauseigenen Vorlage produziert. Memo nur auf Anfrage.
-language: de
-license: Apache-2.0 OR MIT
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Klagevorlage aus eigenen Mustern bauen
-  - eigene Klagewerkstatt einrichten
-  - Klage für Forderungsmanagement entwerfen
-  - aus unseren alten Klagen eine Standardvorlage machen
-  - Inkasso-Klage neu aufsetzen
-  - Klageschrift § 253 ZPO
-  - eigenes Klage-Plugin generieren
+description: Lernlauf der Klagewerkstatt für Forderungsmanagement-Klagen. Frisst eigene Klagemuster, Urteile, Kommentare, Aufsätze und Formatvorlagen des Nutzers (DOCX, PDF, MD, TXT), destilliert daraus eine hauseigene generische Standardklage-Vorlage mit Platzhaltern, sammelt den Sachverhalt im Dialog oder aus weiteren Dokumenten, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG) und liefert die fertige Klageschrift als DOCX und Markdown. Erzeugt zusätzlich ein eigenes Mini-Plugin als ZIP, das in Claude Code direkt installierbar ist und die nächste Klage ohne erneute Extraktion in der hauseigenen Vorlage produziert. Memo nur auf Anfrage. Auslöser und Beispielanfragen: Klagevorlage aus eigenen Mustern bauen; eigene Klagewerkstatt einrichten; Klage für Forderungsmanagement entwerfen; aus unseren alten Klagen eine Standardvorlage machen; Inkasso-Klage neu aufsetzen; Klageschrift § 253 ZPO; eigenes Klage-Plugin generieren.
 ---
 
 # Klagewerkstatt — Lernlauf aus eigenen Mustern

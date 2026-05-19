@@ -1,23 +1,6 @@
 ---
 name: kaltstart-interview
-description: >
-  Führt das Erstgespräch zur KI-Governance durch — ermittelt KI-Inventar,
-  Rolle im KI-Lieferkette (Anbieter/Betreiber gem. Art. 3 KI-VO), regulatori-
-  schen Anwendungsbereich und schreibt das Praxisprofil in die Konfiguration.
-  Lädt, wenn der Nutzer „KI-Governance einrichten", „KI-Inventar erfassen",
-  „Plugin konfigurieren", „Erstgespräch KI" oder „AI Act Anwendungsbereich
-  prüfen" sagt oder die Konfigurationsdatei fehlt bzw. `[PLATZHALTER]` enthält.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - KI-Governance einrichten
-  - KI-Inventar erfassen
-  - Plugin konfigurieren
-  - Erstgespräch KI
-  - Onboarding KI-Compliance
-  - AI Act Anwendungsbereich prüfen
-  - KI-Rolle Anbieter Betreiber
-  - KI-Bestandsaufnahme
+description:  Führt das Erstgespräch zur KI-Governance durch — ermittelt KI-Inventar, Rolle im KI-Lieferkette (Anbieter/Betreiber gem. Art. 3 KI-VO), regulatori- schen Anwendungsbereich und schreibt das Praxisprofil in die Konfiguration. Lädt, wenn der Nutzer „KI-Governance einrichten", „KI-Inventar erfassen", „Plugin konfigurieren", „Erstgespräch KI" oder „AI Act Anwendungsbereich prüfen" sagt oder die Konfigurationsdatei fehlt bzw. `[PLATZHALTER]` enthält. Auslöser und Beispielanfragen: KI-Governance einrichten; KI-Inventar erfassen; Plugin konfigurieren; Erstgespräch KI; Onboarding KI-Compliance; AI Act Anwendungsbereich prüfen; KI-Rolle Anbieter Betreiber; KI-Bestandsaufnahme.
 ---
 
 # Erstgespräch KI-Governance

@@ -1,23 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: >
-  Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln,
-  Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein
-  neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder
-  den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren
-  parallelen Produktrechtsmandaten.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Mandat anlegen
-  - Mandatswechsel
-  - Mandat wechseln
-  - neues Mandat
-  - Mandat schließen
-  - Mandatsliste
-  - Produktmandat
-  - Mandatskontext
-  - Mandat trennen
+description:  Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren parallelen Produktrechtsmandaten. Auslöser und Beispielanfragen: Mandat anlegen; Mandatswechsel; Mandat wechseln; neues Mandat; Mandat schließen; Mandatsliste; Produktmandat; Mandatskontext; Mandat trennen.
 ---
 
 # Produktmandat-Workspace

@@ -1,24 +1,6 @@
 ---
 name: antragspflicht-15a-inso
-description: >
-  Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO,
-  die Haftung wegen Insolvenzverschleppung (§ 823 Abs. 2 BGB iVm § 15a InsO)
-  sowie das Zahlungsverbot nach § 15b InsO. Lädt, wenn Schlagwörter wie
-  „Antragspflicht", „Insolvenzverschleppung", „3-Wochen-Frist", „Zahlungsverbot"
-  oder „§ 15a InsO" auftreten.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Antragspflicht
-  - Insolvenzverschleppung
-  - § 15a InsO
-  - § 15b InsO
-  - 3-Wochen-Frist
-  - 6-Wochen-Frist
-  - Zahlungsverbot Insolvenz
-  - Haftung Geschäftsführer Insolvenz
-  - Insolvenzantrag GmbH
-  - Strafbarkeit Insolvenzantrag
+description:  Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, die Haftung wegen Insolvenzverschleppung (§ 823 Abs. 2 BGB iVm § 15a InsO) sowie das Zahlungsverbot nach § 15b InsO. Lädt, wenn Schlagwörter wie „Antragspflicht", „Insolvenzverschleppung", „3-Wochen-Frist", „Zahlungsverbot" oder „§ 15a InsO" auftreten. Auslöser und Beispielanfragen: Antragspflicht; Insolvenzverschleppung; § 15a InsO; § 15b InsO; 3-Wochen-Frist; 6-Wochen-Frist; Zahlungsverbot Insolvenz; Haftung Geschäftsführer Insolvenz; Insolvenzantrag GmbH; Strafbarkeit Insolvenzantrag.
 ---
 
 # § 15a InsO — Antragspflicht, Insolvenzverschleppung und § 15b InsO Zahlungsverbot

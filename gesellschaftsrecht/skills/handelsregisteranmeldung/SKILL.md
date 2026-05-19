@@ -1,23 +1,6 @@
 ---
 name: handelsregisteranmeldung
-description: >
-  Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR,
-  PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel
-  (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen;
-  Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen
-  Registerpublizitätsfragen und Anmeldungspflichten.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Handelsregister
-  - HRB
-  - HRA
-  - Handelsregisteranmeldung
-  - Prokura
-  - Sitzverlegung
-  - Registeranmeldung
-  - Registergericht
-  - notarielle Beglaubigung
+description:  Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen Registerpublizitätsfragen und Anmeldungspflichten. Auslöser und Beispielanfragen: Handelsregister; HRB; HRA; Handelsregisteranmeldung; Prokura; Sitzverlegung; Registeranmeldung; Registergericht; notarielle Beglaubigung.
 ---
 
 # Handelsregisteranmeldung – HRB / HRA / GnR / PartGR

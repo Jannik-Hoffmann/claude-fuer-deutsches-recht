@@ -1,15 +1,6 @@
 ---
 name: zeuge-vorbereitung
-description: Vorbereitung einer Zeugenvernehmung nach §§ 373 ff. ZPO oder §§ 48 ff. StPO – Fragenkatalog, Themengliederung, Glaubhaftigkeitsanalyse und Vorbereitung auf Vorhalte. Verwenden, wenn der Nutzer sagt „Zeuge vorbereiten", „Vernehmungsvorbereitung [Name]", „Fragenkatalog für Zeugen" oder sich auf eine bevorstehende Beweisaufnahme vorbereitet.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - zeugenvernehmung
-  - zeugenvorbereitung
-  - vernehmungsvorbereitung
-  - zeuge vorbereiten
-  - fragenkatalog zeuge
-  - beweisaufnahme vorbereitung
+description: Vorbereitung einer Zeugenvernehmung nach §§ 373 ff. ZPO oder §§ 48 ff. StPO – Fragenkatalog, Themengliederung, Glaubhaftigkeitsanalyse und Vorbereitung auf Vorhalte. Verwenden, wenn der Nutzer sagt „Zeuge vorbereiten", „Vernehmungsvorbereitung [Name]", „Fragenkatalog für Zeugen" oder sich auf eine bevorstehende Beweisaufnahme vorbereitet. Auslöser und Beispielanfragen: zeugenvernehmung; zeugenvorbereitung; vernehmungsvorbereitung; zeuge vorbereiten; fragenkatalog zeuge; beweisaufnahme vorbereitung.
 ---
 
 # Zeugenvernehmung-Vorbereitung

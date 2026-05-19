@@ -1,19 +1,6 @@
 ---
 name: kaltstart-interview
-description: >
-  Ersteinrichtung des Datenschutzrecht-Plugins – erlernt Ihre Datenschutzpraxis und schreibt CLAUDE.md
-  aus Interview und Ausgangsdokumenten. Auslöser: erster Start, CLAUDE.md fehlt oder enthält
-  Platzhalter, Nutzer sagt „Plugin einrichten", „konfigurieren", „neu starten" oder
-  „Interview wiederholen".
-argument-hint: "[--redo zum Neustart] [--check-integrations nur Integrationen neu prüfen]"
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - cold-start
-  - einrichten
-  - konfigurieren
-  - interview
-  - setup
+description:  Ersteinrichtung des Datenschutzrecht-Plugins – erlernt Ihre Datenschutzpraxis und schreibt CLAUDE.md aus Interview und Ausgangsdokumenten. Auslöser: erster Start, CLAUDE.md fehlt oder enthält Platzhalter, Nutzer sagt „Plugin einrichten", „konfigurieren", „neu starten" oder „Interview wiederholen". Auslöser und Beispielanfragen: cold-start; einrichten; konfigurieren; interview; setup.
 ---
 
 # Kaltstart-Interview – Datenschutzrecht

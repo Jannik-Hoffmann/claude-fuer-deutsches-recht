@@ -1,24 +1,6 @@
 ---
 name: skill-verwalter
-description: >
-  Referenz-Skill für die Deinstallation, Deaktivierung und Reaktivierung von
-  Community-Skills, die über den Kanzlei-Builder-Hub installiert wurden.
-  Sicher nach Grundsatz — verweigert jede Aktion auf Erstanbieter-Plugin-Skills,
-  bestätigt vor dem Löschen von Dateien und protokolliert jeden Vorgang.
-  Wird von den Skills „uninstall" und „deaktivieren" des Kanzlei-Builder-Hub
-  geladen. Kein direkter Nutzeraufruf.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Skill deinstallieren
-  - Skill entfernen
-  - Skill deaktivieren
-  - Skill reaktivieren
-  - Skill-Verwaltung
-  - installierten Skill löschen
-  - Skill pausieren
-  - Skill wieder aktivieren
-user-invocable: false
+description:  Referenz-Skill für die Deinstallation, Deaktivierung und Reaktivierung von Community-Skills, die über den Kanzlei-Builder-Hub installiert wurden. Sicher nach Grundsatz — verweigert jede Aktion auf Erstanbieter-Plugin-Skills, bestätigt vor dem Löschen von Dateien und protokolliert jeden Vorgang. Wird von den Skills „uninstall" und „deaktivieren" des Kanzlei-Builder-Hub geladen. Kein direkter Nutzeraufruf. Auslöser und Beispielanfragen: Skill deinstallieren; Skill entfernen; Skill deaktivieren; Skill reaktivieren; Skill-Verwaltung; installierten Skill löschen; Skill pausieren; Skill wieder aktivieren.
 ---
 
 # Skill-Manager

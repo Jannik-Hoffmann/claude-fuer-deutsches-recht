@@ -1,25 +1,6 @@
 ---
 name: entwurf
-description: >
-  Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle —
-  Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe,
-  Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme
-  Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden-
-  Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten
-  Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks
-  der Klinik benötigt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Schriftsatz entwerfen
-  - Widerspruch formulieren
-  - Klageschrift Entwurf
-  - Mahnschreiben
-  - Mietrecht Brief
-  - Beratungshilfe Antrag
-  - Erstantrag formulieren
-  - PKH Antrag
-  - Schutzschrift
+description:  Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt. Auslöser und Beispielanfragen: Schriftsatz entwerfen; Widerspruch formulieren; Klageschrift Entwurf; Mahnschreiben; Mietrecht Brief; Beratungshilfe Antrag; Erstantrag formulieren; PKH Antrag; Schutzschrift.
 ---
 
 # Schriftsatzentwurf: Erstentwurf-Erstellung

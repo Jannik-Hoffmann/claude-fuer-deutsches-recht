@@ -1,21 +1,6 @@
 ---
 name: verletzungs-triage
-description: >
-  Verletzungs-Triage bei gewerblichen Schutzrechten und Wettbewerbsrecht:
-  Marke (§ 14 MarkenG), Patent (§ 9 PatG), Urheberrecht (§ 97 UrhG), Wettbewerb
-  (§ 8 UWG). Entscheidungsempfehlung: Ignorieren / Informelles Schreiben /
-  Abmahnung / einstweilige Verfügung / Klage.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - verletzung
-  - infringement
-  - verletzungs-triage
-  - verletzt meine marke
-  - patentverletzung
-  - urheberrechtsverletzung
-  - wettbewerbsverstoß
-  - schutzrechtsverletzung
+description:  Verletzungs-Triage bei gewerblichen Schutzrechten und Wettbewerbsrecht: Marke (§ 14 MarkenG), Patent (§ 9 PatG), Urheberrecht (§ 97 UrhG), Wettbewerb (§ 8 UWG). Entscheidungsempfehlung: Ignorieren / Informelles Schreiben / Abmahnung / einstweilige Verfügung / Klage. Auslöser und Beispielanfragen: verletzung; infringement; verletzungs-triage; verletzt meine marke; patentverletzung; urheberrechtsverletzung; wettbewerbsverstoß; schutzrechtsverletzung.
 ---
 
 # Verletzungs-Triage

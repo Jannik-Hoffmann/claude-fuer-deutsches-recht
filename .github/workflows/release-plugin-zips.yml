@@ -41,12 +41,25 @@ jobs:
           print('names=' + ' '.join(names))
           PY
 
-      - name: ZIPs bauen
+      - name: ZIPs bauen (flach, ohne Wrapper-Ordner)
         run: |
+          # WICHTIG: Claude Code erwartet Plugin-Komponenten (.claude-plugin/,
+          # skills/, agents/, commands/ ...) direkt im ZIP-Wurzelverzeichnis,
+          # NICHT in einem zusaetzlichen Plugin-Ordner. Wir wechseln deshalb
+          # in jedes Plugin-Verzeichnis hinein und zippen den Inhalt flach.
           mkdir -p dist
           for plugin in ${{ steps.plugins.outputs.names }}; do
-            echo "Baue $plugin.zip"
-            (cd "$plugin" && zip -rq "../dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc')
+            echo "Baue $plugin.zip (flach)"
+            ( cd "$plugin" && zip -rq "../dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc' )
+            # Verifizieren: .claude-plugin/plugin.json muss direkt im Root liegen
+            if ! unzip -l "dist/${plugin}.zip" | grep -q ' \.claude-plugin/plugin\.json$'; then
+              echo "FEHLER: ${plugin}.zip hat keine .claude-plugin/plugin.json im Root" >&2
+              exit 1
+            fi
+            if unzip -l "dist/${plugin}.zip" | grep -q " ${plugin}/\.claude-plugin/"; then
+              echo "FEHLER: ${plugin}.zip hat einen Wrapper-Ordner ${plugin}/" >&2
+              exit 1
+            fi
             ls -la "dist/${plugin}.zip"
           done
           # Manifest fuer Marketplace-Komfort
@@ -54,10 +67,14 @@ jobs:
 
       - name: Beispielakten separat verpacken (kein Teil der Plugins)
         run: |
+          # Beispielakten sind KEINE Plugins, sondern reine Datenpakete zum
+          # manuellen Entpacken. Hier bleibt der namensgebende Wrapper-Ordner
+          # bewusst erhalten, damit Anwender beim Entpacken einen klaren
+          # Akten-Ordner bekommen.
           if [ -d examples ]; then
             for d in examples/*/; do
               name=$(basename "$d")
-              echo "Baue ${name}.zip aus $d"
+              echo "Baue ${name}.zip aus $d (mit Wrapper-Ordner, Datenpaket)"
               (cd examples && zip -rq "../dist/${name}.zip" "$name" -x '*.DS_Store')
               ls -la "dist/${name}.zip"
             done

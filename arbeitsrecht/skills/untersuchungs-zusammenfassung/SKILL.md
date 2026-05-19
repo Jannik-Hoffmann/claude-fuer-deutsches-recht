@@ -1,21 +1,6 @@
 ---
 name: untersuchungs-zusammenfassung
-description: >
-  Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen
-  Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe
-  Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe
-  aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt
-  erhalten darf oder soll.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Untersuchung zusammenfassen
-  - HR-Zusammenfassung Untersuchung
-  - Aufsichtsrat briefen
-  - Geschäftsführung informieren
-  - externe Anwälte briefen
-  - zielgruppengerechte Zusammenfassung
-  - Untersuchungsergebnis kommunizieren
+description:  Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll. Auslöser und Beispielanfragen: Untersuchung zusammenfassen; HR-Zusammenfassung Untersuchung; Aufsichtsrat briefen; Geschäftsführung informieren; externe Anwälte briefen; zielgruppengerechte Zusammenfassung; Untersuchungsergebnis kommunizieren.
 ---
 
 # Untersuchungs-Zusammenfassung für Zielgruppen (Arbeitsrecht)

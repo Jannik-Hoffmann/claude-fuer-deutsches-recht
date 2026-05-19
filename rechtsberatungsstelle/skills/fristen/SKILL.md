@@ -1,24 +1,6 @@
 ---
 name: fristen
-description: >
-  Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende
-  Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen.
-  Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige
-  Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein
-  Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder
-  eine Fristenübersicht für laufende Mandate benötigt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Frist eintragen
-  - Fristenübersicht
-  - Notfrist
-  - Wiedereinsetzung
-  - Klagefrist
-  - VwVfG Frist
-  - ZPO Frist
-  - Fristenkontrolle
-  - was ist diese Woche fällig
+description:  Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder eine Fristenübersicht für laufende Mandate benötigt. Auslöser und Beispielanfragen: Frist eintragen; Fristenübersicht; Notfrist; Wiedereinsetzung; Klagefrist; VwVfG Frist; ZPO Frist; Fristenkontrolle; was ist diese Woche fällig.
 ---
 
 # Fristenverwaltung

@@ -1,24 +1,6 @@
 ---
 name: ki-anbieter-pruefung
-description: >
-  Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance-
-  Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen
-  und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle
-  nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt,
-  wenn der Nutzer „KI-Vertrag prüfen", „Anbietervertrag KI", „AI Act
-  Art. 25 Vertragspflichten" oder „KI-AGB prüfen" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - KI-Vertrag prüfen
-  - Anbietervertrag KI
-  - KI-Zusatzvereinbarung prüfen
-  - AI Act Art. 25 Vertragspflichten
-  - Anbieter Betreiber Vertrag KI
-  - Training auf unseren Daten
-  - KI-Haftungsklauseln
-  - KI-AGB prüfen
-  - Modelländerungsbenachrichtigung
+description:  Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer „KI-Vertrag prüfen", „Anbietervertrag KI", „AI Act Art. 25 Vertragspflichten" oder „KI-AGB prüfen" sagt. Auslöser und Beispielanfragen: KI-Vertrag prüfen; Anbietervertrag KI; KI-Zusatzvereinbarung prüfen; AI Act Art. 25 Vertragspflichten; Anbieter Betreiber Vertrag KI; Training auf unseren Daten; KI-Haftungsklauseln; KI-AGB prüfen; Modelländerungsbenachrichtigung.
 ---
 
 # KI-Anbieterprüfung

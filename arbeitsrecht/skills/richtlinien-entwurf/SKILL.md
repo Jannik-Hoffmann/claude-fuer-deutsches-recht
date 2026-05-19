@@ -1,22 +1,6 @@
 ---
 name: richtlinien-entwurf
-description: >
-  Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy)
-  mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge
-  abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats
-  und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand
-  sagt „Richtlinie entwerfen zu [Thema]", „wir brauchen eine Regelung zu"
-  oder eine Regelungslücke benennt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Richtlinie entwerfen
-  - Policy entwerfen
-  - Betriebsordnung
-  - Regelung entwerfen
-  - Handbuch-Policy
-  - Arbeitsanweisung
-  - betriebliche Regelung neu
+description:  Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt „Richtlinie entwerfen zu [Thema]", „wir brauchen eine Regelung zu" oder eine Regelungslücke benennt. Auslöser und Beispielanfragen: Richtlinie entwerfen; Policy entwerfen; Betriebsordnung; Regelung entwerfen; Handbuch-Policy; Arbeitsanweisung; betriebliche Regelung neu.
 ---
 
 # Richtlinien-Entwurf (Arbeitsrecht)

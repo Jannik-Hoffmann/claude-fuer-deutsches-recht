@@ -1,21 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: >
-  Verwaltung von Mandatsarbeitsbereichen — Anlegen, Auflisten, Wechseln,
-  Schließen oder Trennen des aktiven Mandats. Für Kanzleien und Sozietäten,
-  um den Kontext verschiedener Mandanten strikt zu trennen. Lädt, wenn ein
-  konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss,
-  in welchem Mandatskontext sie arbeitet.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Mandat anlegen
-  - Mandatsakte wechseln
-  - IP-Mandat verwalten
-  - Mandatsliste anzeigen
-  - Mandat schließen
-  - Aktenführung Kanzlei
-  - Mandatsorganisation gewerblicher Rechtsschutz
+description:  Verwaltung von Mandatsarbeitsbereichen — Anlegen, Auflisten, Wechseln, Schließen oder Trennen des aktiven Mandats. Für Kanzleien und Sozietäten, um den Kontext verschiedener Mandanten strikt zu trennen. Lädt, wenn ein konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss, in welchem Mandatskontext sie arbeitet. Auslöser und Beispielanfragen: Mandat anlegen; Mandatsakte wechseln; IP-Mandat verwalten; Mandatsliste anzeigen; Mandat schließen; Aktenführung Kanzlei; Mandatsorganisation gewerblicher Rechtsschutz.
 ---
 
 # Mandatsarbeitsbereich

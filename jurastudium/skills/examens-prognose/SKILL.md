@@ -1,20 +1,6 @@
 ---
 name: examens-prognose
-description: >
-  Examensprognose auf Basis vergangener JPA-Klausuren, Statistiken des BMJV
-  und bekannter Schwerpunktmuster. Lade diesen Skill bei Anfragen wie
-  „Was kommt im Examen?", „JPA-Statistik", „Examensprognose",
-  „examens-prognose" oder „worauf soll ich mich konzentrieren".
-language: de
-argument-hint: "[Rechtsgebiet oder Bundesland, oder --statistik]"
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - examensprognose
-  - was kommt im examen
-  - jpa-statistik
-  - schwerpunktthemen examen
-  - worauf konzentrieren
-  - examens-prognose
+description:  Examensprognose auf Basis vergangener JPA-Klausuren, Statistiken des BMJV und bekannter Schwerpunktmuster. Lade diesen Skill bei Anfragen wie „Was kommt im Examen?", „JPA-Statistik", „Examensprognose", „examens-prognose" oder „worauf soll ich mich konzentrieren". Auslöser und Beispielanfragen: examensprognose; was kommt im examen; jpa-statistik; schwerpunktthemen examen; worauf konzentrieren; examens-prognose.
 ---
 
 # Examensprognose / JPA-Statistik

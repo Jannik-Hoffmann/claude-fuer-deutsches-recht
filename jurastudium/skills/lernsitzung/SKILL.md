@@ -1,22 +1,6 @@
 ---
 name: lernsitzung
-description: >
-  Führt eine fokussierte Lerneinheit mit N Fragen zu einem Rechtsgebiet durch — Karteikarten,
-  Klausurfragen im Gutachtenstil oder mündliche Abfrage. Verfolgt die Ergebnisse und aktualisiert
-  den Lernplan. Lädt, wenn der Nutzer „10 Fragen zu [Rechtsgebiet]", „Lerneinheit starten",
-  „5 Karten zu [Thema]" oder „Abfrage [Rechtsgebiet]" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Lerneinheit starten
-  - Fragen zu Strafrecht
-  - Abfrage BGB
-  - Karteikarten üben
-  - Klausurfragen üben
-  - Wiederholung starten
-  - Prüfungssimulation
-  - Examensvorbereitung
-  - Drill starten
+description:  Führt eine fokussierte Lerneinheit mit N Fragen zu einem Rechtsgebiet durch — Karteikarten, Klausurfragen im Gutachtenstil oder mündliche Abfrage. Verfolgt die Ergebnisse und aktualisiert den Lernplan. Lädt, wenn der Nutzer „10 Fragen zu [Rechtsgebiet]", „Lerneinheit starten", „5 Karten zu [Thema]" oder „Abfrage [Rechtsgebiet]" sagt. Auslöser und Beispielanfragen: Lerneinheit starten; Fragen zu Strafrecht; Abfrage BGB; Karteikarten üben; Klausurfragen üben; Wiederholung starten; Prüfungssimulation; Examensvorbereitung; Drill starten.
 ---
 
 # Lerneinheit

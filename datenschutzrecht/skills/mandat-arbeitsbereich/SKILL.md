@@ -1,17 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: >
-  Mandat-Arbeitsbereiche für Mehrmandat-Kanzleien verwalten: anlegen, auflisten, wechseln,
-  schließen. Stellt sicher, dass Datenschutzmandate mandatsübergreifend isoliert bleiben
-  (kein Kontext-Leak zwischen Mandaten). Für internen Unternehmenseinsatz nicht relevant.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Mandat anlegen
-  - Mandatswechsel
-  - mandat-arbeitsbereich
-  - neues Mandat
-  - Mandatsübersicht
+description:  Mandat-Arbeitsbereiche für Mehrmandat-Kanzleien verwalten: anlegen, auflisten, wechseln, schließen. Stellt sicher, dass Datenschutzmandate mandatsübergreifend isoliert bleiben (kein Kontext-Leak zwischen Mandaten). Für internen Unternehmenseinsatz nicht relevant. Auslöser und Beispielanfragen: Mandat anlegen; Mandatswechsel; mandat-arbeitsbereich; neues Mandat; Mandatsübersicht.
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei

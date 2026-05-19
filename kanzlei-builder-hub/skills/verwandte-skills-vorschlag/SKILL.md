@@ -1,19 +1,6 @@
 ---
 name: verwandte-skills-vorschlag
-description: >
-  Verwandte Community-Skills basierend auf aktueller Tätigkeit in anderen Plugins empfehlen.
-  Prüft, ob die Community etwas Relevantes für eine Aufgabe gebaut hat, und erwähnt es einmal,
-  nicht aufdringlich. Einsetzen, wenn der Nutzer sagt: „Gibt es einen Community-Skill dafür",
-  „Was gibt es sonst noch", oder wenn Skill-Empfehlungen gewünscht werden; läuft auch passiv
-  am Ende von Abläufe anderer Plugins.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - gibt es einen skill dafür
-  - was gibt es noch
-  - skill empfehlung
-  - verwandte-skills-vorschlag
-  - verwandte skills
+description:  Verwandte Community-Skills basierend auf aktueller Tätigkeit in anderen Plugins empfehlen. Prüft, ob die Community etwas Relevantes für eine Aufgabe gebaut hat, und erwähnt es einmal, nicht aufdringlich. Einsetzen, wenn der Nutzer sagt: „Gibt es einen Community-Skill dafür", „Was gibt es sonst noch", oder wenn Skill-Empfehlungen gewünscht werden; läuft auch passiv am Ende von Abläufe anderer Plugins. Auslöser und Beispielanfragen: gibt es einen skill dafür; was gibt es noch; skill empfehlung; verwandte-skills-vorschlag; verwandte skills.
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung

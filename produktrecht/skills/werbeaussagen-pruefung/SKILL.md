@@ -1,23 +1,6 @@
 ---
 name: werbeaussagen-pruefung
-description: >
-  Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach
-  deutschem und europäischem Recht. Lädt, wenn der Nutzer „Werbetext prüfen",
-  „Marketingaussagen freigeben", „UWG-Prüfung", „Health Claims", „klimaneutral
-  prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Werbetext prüfen
-  - Marketingaussagen prüfen
-  - UWG-Prüfung
-  - Health Claims
-  - klimaneutral Werbung
-  - Werbeaussagen freigeben
-  - irreführende Werbung
-  - vergleichende Werbung
-  - Influencer-Werbung
-  - Heilmittelwerbegesetz
+description:  Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer „Werbetext prüfen", „Marketingaussagen freigeben", „UWG-Prüfung", „Health Claims", „klimaneutral prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt. Auslöser und Beispielanfragen: Werbetext prüfen; Marketingaussagen prüfen; UWG-Prüfung; Health Claims; klimaneutral Werbung; Werbeaussagen freigeben; irreführende Werbung; vergleichende Werbung; Influencer-Werbung; Heilmittelwerbegesetz.
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)

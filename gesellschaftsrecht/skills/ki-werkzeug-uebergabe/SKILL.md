@@ -1,19 +1,6 @@
 ---
 name: ki-werkzeug-uebergabe
-description: >
-  KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn
-  der Nutzer „Luminance", „Kira", „KI-Prüfung", „automatische Extraktion" oder
-  „Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die
-  ein einheitliches Klausel-Extraktionsprofil erfordern.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Luminance
-  - Kira
-  - KI-Prüfung
-  - automatische Extraktion
-  - Massenvertragsprüfung
-  - Bulk-Review
+description:  KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer „Luminance", „Kira", „KI-Prüfung", „automatische Extraktion" oder „Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern. Auslöser und Beispielanfragen: Luminance; Kira; KI-Prüfung; automatische Extraktion; Massenvertragsprüfung; Bulk-Review.
 ---
 
 # KI-Tool-Übergabe (Luminance / Kira)

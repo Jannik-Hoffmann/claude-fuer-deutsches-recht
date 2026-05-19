@@ -1,24 +1,6 @@
 ---
 name: anwendungsfall-triage
-description: >
-  Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das
-  Unternehmensregister — freigegeben, bedingt oder nicht freigegeben —
-  und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene
-  Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO).
-  Lädt, wenn der Nutzer „KI-Anwendungsfall triage", „dürfen wir KI für X
-  einsetzen", „ist das freigegeben" oder „Hochrisiko-KI klassifizieren" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - KI-Anwendungsfall triage
-  - dürfen wir KI für X einsetzen
-  - ist das freigegeben
-  - KI-Use-Case prüfen
-  - AI Act Risikoklassifikation
-  - verbotene KI-Praktiken prüfen
-  - Hochrisiko-KI klassifizieren
-  - KI-Einsatz genehmigen
-  - Anhang III KI-VO prüfen
+description:  Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO). Lädt, wenn der Nutzer „KI-Anwendungsfall triage", „dürfen wir KI für X einsetzen", „ist das freigegeben" oder „Hochrisiko-KI klassifizieren" sagt. Auslöser und Beispielanfragen: KI-Anwendungsfall triage; dürfen wir KI für X einsetzen; ist das freigegeben; KI-Use-Case prüfen; AI Act Risikoklassifikation; verbotene KI-Praktiken prüfen; Hochrisiko-KI klassifizieren; KI-Einsatz genehmigen; Anhang III KI-VO prüfen.
 ---
 
 # KI-Anwendungsfall-Triage

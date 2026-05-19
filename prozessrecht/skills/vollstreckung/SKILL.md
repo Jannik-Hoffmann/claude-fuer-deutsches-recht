@@ -1,25 +1,6 @@
 ---
 name: vollstreckung
-description: |
-  Unterstützt bei der Durchführung der Zwangsvollstreckung nach §§ 704 ff. ZPO: Mobiliarvoll-
-  streckung, Forderungspfändung, Immobiliarvollstreckung, Vermögensauskunft, Räumung und
-  Herausgabe. Lädt, wenn ein Mandat die Einleitung, Durchführung oder Abwehr von Vollstreckungs-
-  maßnahmen betrifft.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Zwangsvollstreckung
-  - Vollstreckung
-  - Gerichtsvollzieher
-  - Pfändung
-  - PfÜB
-  - Forderungspfändung
-  - Vermögensauskunft
-  - Räumung
-  - ZVG
-  - Herausgabevollstreckung
-  - § 829 ZPO
-  - § 808 ZPO
+description: Unterstützt bei der Durchführung der Zwangsvollstreckung nach §§ 704 ff. ZPO: Mobiliarvoll- streckung, Forderungspfändung, Immobiliarvollstreckung, Vermögensauskunft, Räumung und Herausgabe. Lädt, wenn ein Mandat die Einleitung, Durchführung oder Abwehr von Vollstreckungs- maßnahmen betrifft. Auslöser und Beispielanfragen: Zwangsvollstreckung; Vollstreckung; Gerichtsvollzieher; Pfändung; PfÜB; Forderungspfändung; Vermögensauskunft; Räumung; ZVG; Herausgabevollstreckung; § 829 ZPO; § 808 ZPO.
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis

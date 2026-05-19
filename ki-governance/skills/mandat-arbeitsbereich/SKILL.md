@@ -1,21 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description: >
-  Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei-
-  Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen.
-  Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt „neues Mandat",
-  „Mandat wechseln", „Mandate auflisten", „Mandat schließen" oder wenn ein inhaltlicher Skill
-  wissen muss, in welchem Mandat er arbeitet.
-argument-hint: "<neu | liste | wechseln | schließen | keines> [kürzel]"
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Mandat
-  - Mandatsworkspace
-  - mandat-arbeitsbereich
-  - neues Mandat
-  - Mandat wechseln
-  - Mandat schließen
-language: de
+description:  Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt „neues Mandat", „Mandat wechseln", „Mandate auflisten", „Mandat schließen" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet. Auslöser und Beispielanfragen: Mandat; Mandatsworkspace; mandat-arbeitsbereich; neues Mandat; Mandat wechseln; Mandat schließen.
 ---
 
 # /mandat-arbeitsbereich

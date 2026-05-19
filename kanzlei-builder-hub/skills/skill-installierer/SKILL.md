@@ -1,23 +1,6 @@
 ---
 name: skill-installierer
-description: >
-  Installiert einen Kanzlei-Skill aus einer überwachten Registry. Liest zuerst
-  die Zulassungsliste, lädt die rohe SKILL.md vollständig herunter, führt
-  Sicherheitsprüfungen und eine Qualitätskontrolle (skills-qualitaetspruefung) durch und
-  schreibt Dateien erst nach ausdrücklicher Nutzerfreigabe. Lädt, wenn der
-  Nutzer „Skill installieren [Name]" eingibt, einen Skill aus dem
-  Verzeichnis auswählt oder eine direkte Skill-URL übergibt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Skill installieren
-  - Skill hinzufügen
-  - neuen Skill einrichten
-  - Skill aus Registry laden
-  - Kanzlei-Skill einbinden
-  - Plugin-Skill installieren
-  - Skill-URL installieren
-  - Community-Skill installieren
+description:  Installiert einen Kanzlei-Skill aus einer überwachten Registry. Liest zuerst die Zulassungsliste, lädt die rohe SKILL.md vollständig herunter, führt Sicherheitsprüfungen und eine Qualitätskontrolle (skills-qualitaetspruefung) durch und schreibt Dateien erst nach ausdrücklicher Nutzerfreigabe. Lädt, wenn der Nutzer „Skill installieren [Name]" eingibt, einen Skill aus dem Verzeichnis auswählt oder eine direkte Skill-URL übergibt. Auslöser und Beispielanfragen: Skill installieren; Skill hinzufügen; neuen Skill einrichten; Skill aus Registry laden; Kanzlei-Skill einbinden; Plugin-Skill installieren; Skill-URL installieren; Community-Skill installieren.
 ---
 
 # Skill-Installer

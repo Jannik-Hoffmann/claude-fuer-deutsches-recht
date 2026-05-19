@@ -1,24 +1,6 @@
 ---
 name: verkehrsunfall
-description: |
-  Unterstützt bei der rechtlichen Aufarbeitung von Verkehrsunfällen: Haftungsgrundlagen nach
-  StVG und BGB, Direktanspruch nach § 115 VVG, Quotenbildung, vollständige Schadensaufstellung
-  (Reparatur, Wertminderung, Nutzungsausfall) und Schmerzensgeld. Lädt, wenn ein Mandat einen
-  Verkehrsunfall, eine Unfallregulierung oder eine Schadensersatzklage im Straßenverkehr betrifft.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Verkehrsunfall
-  - Unfallregulierung
-  - KFZ-Schaden
-  - Haftpflicht
-  - Schmerzensgeld Unfall
-  - 130%-Grenze
-  - Nutzungsausfall
-  - Wertminderung
-  - § 7 StVG
-  - § 115 VVG
-  - Direktanspruch
+description: Unterstützt bei der rechtlichen Aufarbeitung von Verkehrsunfällen: Haftungsgrundlagen nach StVG und BGB, Direktanspruch nach § 115 VVG, Quotenbildung, vollständige Schadensaufstellung (Reparatur, Wertminderung, Nutzungsausfall) und Schmerzensgeld. Lädt, wenn ein Mandat einen Verkehrsunfall, eine Unfallregulierung oder eine Schadensersatzklage im Straßenverkehr betrifft. Auslöser und Beispielanfragen: Verkehrsunfall; Unfallregulierung; KFZ-Schaden; Haftpflicht; Schmerzensgeld Unfall; 130%-Grenze; Nutzungsausfall; Wertminderung; § 7 StVG; § 115 VVG; Direktanspruch.
 ---
 
 # Verkehrsunfall – Haftung, Schaden und Schadensausgleich

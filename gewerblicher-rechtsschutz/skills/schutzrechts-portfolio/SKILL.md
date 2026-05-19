@@ -1,23 +1,6 @@
 ---
 name: schutzrechts-portfolio
-description: >
-  Verwaltung des IP-Portfolios — Eintragungen, Verlängerungen, Jahresgebühren
-  und Benutzungsnachweise. Lädt bei der Prüfung anstehender Fristen, dem
-  Hinzufügen oder Aktualisieren eines Schutzrechts, der Erfassung einer
-  Amtshandlung oder einer Portfolio-Überprüfung auf Lücken, Verfall und
-  Benutzungsfragen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - IP-Portfolio Fristen
-  - Marke verlängern
-  - Patentjahresgebühr
-  - Schutzrechtsverwaltung
-  - Portfolioübersicht
-  - Markenverlängerung MarkenG
-  - Patent Aufrechterhaltungsgebühr
-  - DesignG Verlängerung
-  - IP-Register
+description:  Verwaltung des IP-Portfolios — Eintragungen, Verlängerungen, Jahresgebühren und Benutzungsnachweise. Lädt bei der Prüfung anstehender Fristen, dem Hinzufügen oder Aktualisieren eines Schutzrechts, der Erfassung einer Amtshandlung oder einer Portfolio-Überprüfung auf Lücken, Verfall und Benutzungsfragen. Auslöser und Beispielanfragen: IP-Portfolio Fristen; Marke verlängern; Patentjahresgebühr; Schutzrechtsverwaltung; Portfolioübersicht; Markenverlängerung MarkenG; Patent Aufrechterhaltungsgebühr; DesignG Verlängerung; IP-Register.
 ---
 
 # IP-Portfolio-Verwaltung

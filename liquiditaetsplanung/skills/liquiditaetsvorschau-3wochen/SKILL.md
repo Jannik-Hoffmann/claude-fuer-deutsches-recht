@@ -1,19 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Erstellt zwingend eine Excel-Tabelle auf Wochenbasis und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Wendet das BGH-Schema BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle) an, zeigt die Lücke wochenaktuell zum Freitag und das Verhältnis zu den offenen Forderungen. Memo wird nur auf ausdrückliche Anfrage erstellt.
-language: de
-license: Apache-2.0 OR MIT
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Drei-Wochen-Liquidität
-  - 3-Wochen-Vorschau
-  - Liquidität wöchentlich prüfen
-  - § 17 InsO Vorprüfung
-  - Zahlungsstockung oder Zahlungsunfähigkeit
-  - Liquiditäts-Padlet
-  - Liquiditäts-Artefakt
-  - Krisenfrüherkennung StaRUG
-  - Hinweispflicht Steuerberater
+description: Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Erstellt zwingend eine Excel-Tabelle auf Wochenbasis und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Wendet das BGH-Schema BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle) an, zeigt die Lücke wochenaktuell zum Freitag und das Verhältnis zu den offenen Forderungen. Memo wird nur auf ausdrückliche Anfrage erstellt. Auslöser und Beispielanfragen: Drei-Wochen-Liquidität; 3-Wochen-Vorschau; Liquidität wöchentlich prüfen; § 17 InsO Vorprüfung; Zahlungsstockung oder Zahlungsunfähigkeit; Liquiditäts-Padlet; Liquiditäts-Artefakt; Krisenfrüherkennung StaRUG; Hinweispflicht Steuerberater.
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)

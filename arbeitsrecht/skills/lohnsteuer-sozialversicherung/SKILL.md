@@ -1,19 +1,6 @@
 ---
 name: lohnsteuer-sozialversicherung
-description: Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Scheinselbständigkeit
-  - Statusfeststellungsverfahren
-  - § 7a SGB IV
-  - Sozialversicherungspflicht
-  - Freier Mitarbeiter Sozialversicherung
-  - § 266a StGB
-  - Nachzahlung Sozialversicherung
-  - Arbeitnehmer oder Selbständiger
-  - Lohnsteuer Arbeitnehmer
-  - § 28e SGB IV
+description: Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist. Auslöser und Beispielanfragen: Scheinselbständigkeit; Statusfeststellungsverfahren; § 7a SGB IV; Sozialversicherungspflicht; Freier Mitarbeiter Sozialversicherung; § 266a StGB; Nachzahlung Sozialversicherung; Arbeitnehmer oder Selbständiger; Lohnsteuer Arbeitnehmer; § 28e SGB IV.
 ---
 
 # Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit

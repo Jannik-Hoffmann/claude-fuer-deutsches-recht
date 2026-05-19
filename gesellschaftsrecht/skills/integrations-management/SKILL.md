@@ -1,25 +1,6 @@
 ---
 name: integrations-management
-description: >
-  Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung,
-  Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung
-  oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung
-  und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei
-  „Post-Merger-Integration", „Post-Closing", „Betriebsübergang", „Vertragsübertragung"
-  oder „was ist noch offen".
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Post-Merger-Integration
-  - Post-Closing
-  - Betriebsübergang
-  - Vertragsübertragung
-  - Integrationsstatus
-  - was ist noch offen
-  - Zustimmungen ausstehend
-  - Integrationsplan
-  - PMI
-argument-hint: "[--init | --vertraege | --bericht | --update | --export] [--mandat [code]]"
+description:  Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei „Post-Merger-Integration", „Post-Closing", „Betriebsübergang", „Vertragsübertragung" oder „was ist noch offen". Auslöser und Beispielanfragen: Post-Merger-Integration; Post-Closing; Betriebsübergang; Vertragsübertragung; Integrationsstatus; was ist noch offen; Zustimmungen ausstehend; Integrationsplan; PMI.
 ---
 
 # Post-Merger-Integrations-Management

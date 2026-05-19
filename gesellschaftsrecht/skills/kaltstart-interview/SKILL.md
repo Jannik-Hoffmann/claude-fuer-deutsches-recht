@@ -1,24 +1,6 @@
 ---
 name: kaltstart-interview
-description: >
-  Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxisprofil — erfasst
-  Tätigkeitsbereiche (M&A, Gesellschafterversammlung/Aufsichtsrat, Kapitalmarkt,
-  Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Hausstil und Eskalationsmatrix.
-  Lädt, wenn CLAUDE.md noch [PLATZHALTER]-Marker enthält, bei Neumandat (--neues-mandat)
-  oder zur Überprüfung von Integrationen (--integrationen-pruefen).
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Ersteinrichtung
-  - Praxisprofil einrichten
-  - cold-start
-  - Setup starten
-  - Mandatsprofil anlegen
-  - Konfiguration aktualisieren
-  - neues Mandat
-  - Integrationen prüfen
-  - Profil neu aufsetzen
-argument-hint: "[--redo | --neues-mandat | --integrationen-pruefen | --modul [ma | aufsichtsrat | kapitalmarkt | gesellschaften]]"
+description:  Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxisprofil — erfasst Tätigkeitsbereiche (M&A, Gesellschafterversammlung/Aufsichtsrat, Kapitalmarkt, Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Hausstil und Eskalationsmatrix. Lädt, wenn CLAUDE.md noch [PLATZHALTER]-Marker enthält, bei Neumandat (--neues-mandat) oder zur Überprüfung von Integrationen (--integrationen-pruefen). Auslöser und Beispielanfragen: Ersteinrichtung; Praxisprofil einrichten; cold-start; Setup starten; Mandatsprofil anlegen; Konfiguration aktualisieren; neues Mandat; Integrationen prüfen; Profil neu aufsetzen.
 ---
 
 # Ersteinrichtungs-Interview

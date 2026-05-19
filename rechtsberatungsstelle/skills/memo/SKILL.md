@@ -1,25 +1,6 @@
 ---
 name: memo
-description: >
-  Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode
-  (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten
-  Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind
-  mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE,
-  das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein
-  internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder
-  ein Kurz-Gutachten für einen Fall erstellen muss.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Gutachten erstellen
-  - Fallanalyse
-  - Gutachtenmethode
-  - Rechtsgutachten
-  - IRSE Methode
-  - interne Fallanalyse
-  - Mietrecht prüfen
-  - Prüfungsschema
-  - Obersatz Subsumtion
+description:  Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE, das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder ein Kurz-Gutachten für einen Fall erstellen muss. Auslöser und Beispielanfragen: Gutachten erstellen; Fallanalyse; Gutachtenmethode; Rechtsgutachten; IRSE Methode; interne Fallanalyse; Mietrecht prüfen; Prüfungsschema; Obersatz Subsumtion.
 ---
 
 # Internes Rechtsgutachten: Gutachten-Gerüst

@@ -1,22 +1,6 @@
 ---
 name: sokratisches-drillen
-description: >
-  Maieutisches Prüfungsgespräch nach AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort
-  erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und
-  das Klausurdenken. Lädt, wenn der Nutzer „Abfrage", „mündlich prüfen", „AG-Gespräch simulieren",
-  „Fragen-Antwort-Drill" oder „mündliche Prüfung üben" sagt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - mündlich prüfen
-  - AG-Gespräch
-  - Abfrage Strafrecht
-  - Fragen-Antwort-Drill
-  - mündliche Prüfung üben
-  - sokratischer Drill
-  - Prüfungsgespräch
-  - Nachfragen üben
-  - Klausurbesprechung
+description:  Maieutisches Prüfungsgespräch nach AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und das Klausurdenken. Lädt, wenn der Nutzer „Abfrage", „mündlich prüfen", „AG-Gespräch simulieren", „Fragen-Antwort-Drill" oder „mündliche Prüfung üben" sagt. Auslöser und Beispielanfragen: mündlich prüfen; AG-Gespräch; Abfrage Strafrecht; Fragen-Antwort-Drill; mündliche Prüfung üben; sokratischer Drill; Prüfungsgespräch; Nachfragen üben; Klausurbesprechung.
 ---
 
 # Maieutisches Prüfungsgespräch

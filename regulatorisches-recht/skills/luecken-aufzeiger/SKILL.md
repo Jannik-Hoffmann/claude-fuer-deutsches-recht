@@ -1,16 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: Gap-Analyse interner Richtlinien gegen aktuelle Aufsichtsverlautbarungen (BaFin-Rundschreiben, MaRisk-Novellen, EBA-Leitlinien). Laden bei Vergleich von Bestandsrichtlinien mit neuen regulatorischen Anforderungen.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Gap-Analyse
-  - Lückenanalyse
-  - MaRisk-Novelle
-  - BaFin-Rundschreiben prüfen
-  - Richtlinien gegen Aufsichtsrecht prüfen
-  - luecken-aufzeiger
-  - Compliance-Lücke
+description: Gap-Analyse interner Richtlinien gegen aktuelle Aufsichtsverlautbarungen (BaFin-Rundschreiben, MaRisk-Novellen, EBA-Leitlinien). Laden bei Vergleich von Bestandsrichtlinien mit neuen regulatorischen Anforderungen. Auslöser und Beispielanfragen: Gap-Analyse; Lückenanalyse; MaRisk-Novelle; BaFin-Rundschreiben prüfen; Richtlinien gegen Aufsichtsrecht prüfen; luecken-aufzeiger; Compliance-Lücke.
 ---
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen

@@ -1,15 +1,6 @@
 ---
 name: fehlzeiten-register
-description: Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - urlaub tracker
-  - fehlzeiten
-  - urlaubsregister prüfen
-  - offene abwesenheiten
-  - leave tracker
-argument-hint: "[keine Argumente – nutzt HRIS oder urlaubsregister.yaml]"
+description: Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard. Auslöser und Beispielanfragen: urlaub tracker; fehlzeiten; urlaubsregister prüfen; offene abwesenheiten; leave tracker.
 ---
 
 # /arbeitsrecht:urlaub-fehlzeiten

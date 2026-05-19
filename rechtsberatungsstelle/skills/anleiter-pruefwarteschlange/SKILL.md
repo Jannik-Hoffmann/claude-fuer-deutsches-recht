@@ -1,23 +1,6 @@
 ---
 name: anleiter-pruefwarteschlange
-description: >
-  Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier
-  auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen.
-  Nur aktiv, wenn das Supervisionsmodell „formelle Prüfwarteschlange" gewählt
-  wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, was auf
-  Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder
-  mit einem Hinweis zurückschickt.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Prüfwarteschlange
-  - Supervisor Freigabe
-  - Review Queue
-  - Studentenentwurf prüfen
-  - Warteliste Supervisor
-  - Freigabe erteilen
-  - Entwurf zurückschicken
-  - ausstehende Prüfung
+description:  Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell „formelle Prüfwarteschlange" gewählt wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, was auf Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder mit einem Hinweis zurückschickt. Auslöser und Beispielanfragen: Prüfwarteschlange; Supervisor Freigabe; Review Queue; Studentenentwurf prüfen; Warteliste Supervisor; Freigabe erteilen; Entwurf zurückschicken; ausstehende Prüfung.
 ---
 
 # Supervisoren-Prüfwarteschlange (Optional)

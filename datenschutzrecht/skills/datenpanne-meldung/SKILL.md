@@ -1,18 +1,6 @@
 ---
 name: datenpanne-meldung
-description: Begleitet Verantwortliche und Berater bei der Prüfung der Meldepflicht nach Art. 33 DSGVO (72-Stunden-Frist an Aufsichtsbehörde) und der Benachrichtigungspflicht nach Art. 34 DSGVO (betroffene Personen), einschließlich Dokumentation. Lädt bei Datenpannen, Sicherheitsvorfällen, unberechtigten Zugriffen und Datenverlust.
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Datenpanne
-  - Data Breach
-  - Sicherheitsvorfall
-  - Art. 33 DSGVO
-  - Art. 34 DSGVO
-  - Datenschutzverletzung
-  - Meldepflicht
-  - 72 Stunden
-  - Aufsichtsbehörde melden
+description: Begleitet Verantwortliche und Berater bei der Prüfung der Meldepflicht nach Art. 33 DSGVO (72-Stunden-Frist an Aufsichtsbehörde) und der Benachrichtigungspflicht nach Art. 34 DSGVO (betroffene Personen), einschließlich Dokumentation. Lädt bei Datenpannen, Sicherheitsvorfällen, unberechtigten Zugriffen und Datenverlust. Auslöser und Beispielanfragen: Datenpanne; Data Breach; Sicherheitsvorfall; Art. 33 DSGVO; Art. 34 DSGVO; Datenschutzverletzung; Meldepflicht; 72 Stunden; Aufsichtsbehörde melden.
 ---
 
 # Datenpannen-Meldung (Art. 33/34 DSGVO)

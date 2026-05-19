@@ -1,23 +1,6 @@
 ---
 name: expansion-auftakt
-description: >
-  Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder
-  einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die
-  Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft
-  abteilungsübergreifende Fragen und legt einen persistenten Tracker an.
-  Lädt, wenn jemand sagt „wir stellen in [Land/Region] ein",
-  „Expansion nach [Land]" oder „erste Einstellung in [Land]".
-language: de
-when_to_use: |
-  Auslöser und Beispielanfragen:
-  - Expansion
-  - Neueinstellung Ausland
-  - erste Einstellung
-  - AÜG-Modell
-  - EOR Deutschland
-  - Tochtergesellschaft gründen
-  - grenzüberschreitende Einstellung
-  - Scheinselbständigkeit prüfen
+description:  Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt „wir stellen in [Land/Region] ein", „Expansion nach [Land]" oder „erste Einstellung in [Land]". Auslöser und Beispielanfragen: Expansion; Neueinstellung Ausland; erste Einstellung; AÜG-Modell; EOR Deutschland; Tochtergesellschaft gründen; grenzüberschreitende Einstellung; Scheinselbständigkeit prüfen.
 ---
 
 # Expansions-Kickoff (Arbeitsrecht)
