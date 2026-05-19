@@ -8,8 +8,8 @@
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
-3. In Claude Desktop / Cowork auf **Customize → Plugin** klicken (das ist genau die Stelle, an der auch „Legal Plugin" installiert wird).
-4. Auf **+** → **Create** → **Upload plugin** klicken und das soeben heruntergeladene ZIP auswählen.
+3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch „Legal Plugin" installiert wird.
+4. Auf das **+** neben „Persönliche Plugins" klicken und im Dialog das soeben heruntergeladene ZIP auswählen (alternativ: erst auf **Create**, dann **Upload plugin**).
 5. Schritte 2–4 für jedes weitere Rechtsgebiet wiederholen, das gebraucht wird.
 
 Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werden, und der Skill ist beim nächsten Chat verfügbar.
@@ -48,9 +48,9 @@ Wer die Liquiditätsplanung an einem konkreten Fall durchspielen will, lädt sic
 
 Je nach Claude-Desktop- / Cowork-Version sieht der Plugin-Dialog leicht anders aus. Die typischen Stellen, an denen der Upload-Knopf sitzt:
 
-- **Customize → Plugin → + → Create → Upload plugin** (häufigste Variante)
-- **Customize → Skills → + → Upload from .zip**
-- **Customize → Plugins → Add → Install from file**
+- **Customize → Skills → Persönliche Plugins → +** (häufigste Variante)
+- **Customize → Skills → Personal plugins → + → Upload from .zip**
+- **Customize → Plugins → Add → Install from file** (ältere Versionen)
 
 Wichtig ist nur: gesucht wird der Punkt, an dem **eine einzelne ZIP-Datei** vom Rechner ausgewählt werden kann. Wenn dort stattdessen nach einem GitHub-Pfad gefragt wird, ist das das **andere** Dialogfeld — auf **Cancel** und einen Schritt zurück.
 
