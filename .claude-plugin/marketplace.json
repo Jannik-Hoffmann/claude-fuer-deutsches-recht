@@ -135,6 +135,14 @@
       }
     },
     {
+      "name": "anlagen-zu-schriftsaetzen",
+      "source": "./anlagen-zu-schriftsaetzen",
+      "description": "Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik (Klage/Erwiderung/Replik), konvertiert nach PDF, vergibt K/B/AST/AG, stempelt oben rechts in Arial 12, beA-tauglich, mit Konvolut. Modi: Auto-Benennung, Schriftsatz folgt, Pruefmodus.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "betreuungsrecht",
       "source": "./betreuungsrecht",
       "description": "Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). Maßgeblich BGH-Rechtsprechung sowie Grüneberg/MünchKomm-Kommentarliteratur.",
