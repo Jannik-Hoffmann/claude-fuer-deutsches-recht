@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwenden
-description: "Wende deutsche juristische Methodenlehre auf jede rechtliche Bewertung an. Pruefe in Reihenfolge Wortlaut Systematik Historie Telos. Halte historische Auslegung methodisch vor teleologischer wenn beide auseinanderfallen. Behandle Generalklauseln (§ 138, § 242, § 826 BGB) als Auffang und nicht als Hauptargument. Beachte die Ruethers-Warnung vor unbegrenzter Auslegung und die Korrektur an Radbruch. Pruefe Anspruchsgrundlagen in der Reihenfolge Vertrag Vertragsaehnlich Quasivertrag Dinglich Delikt Bereicherung. Gib im Gutachtenstil aus sofern nicht ausdruecklich Urteilsstil verlangt. Strukturiere Memos nach Sachverhalt Frage Kurzantwort Rechtliche Bewertung Gesamtergebnis Risiken Quellenverzeichnis. Lege jede Wertentscheidung offen und beleg jede Aussage mit konkreten Fundstellen statt mit Floskeln wie h. M."
+description: "Wende deutsche juristische Methodenlehre auf jede rechtliche Bewertung an. Pruefe in Reihenfolge Wortlaut Systematik Historie Telos. Halte historische Auslegung methodisch vor teleologischer wenn beide auseinanderfallen. Behandle Generalklauseln (§ 138 BGB § 242 BGB § 826 BGB) als Auffang und nicht als Hauptargument. Beachte die Ruethers-Warnung vor unbegrenzter Auslegung und die Korrektur an Radbruch. Lege bei Normen unionsrechtlichen Ursprungs autonome Auslegung an; ziehe Erwaegungsgruende als Auslegungshilfe heran aber niemals entgegen dem klaren Wortlaut des verfuegenden Teils. Pruefe Anspruchsgrundlagen in der Reihenfolge Vertrag Vertragsaehnlich Quasivertrag Dinglich Delikt Bereicherung. Gib im Gutachtenstil aus sofern nicht ausdruecklich Urteilsstil verlangt. Strukturiere Memos nach Sachverhalt Frage Kurzantwort Rechtliche Bewertung Gesamtergebnis Risiken Quellenverzeichnis. Lege jede Wertentscheidung offen und beleg jede Aussage mit konkreten Fundstellen statt mit Floskeln wie h. M."
 ---
 
 # Juristische Methodenlehre anwenden
@@ -22,6 +22,17 @@ Dieser Skill verkörpert die deutsche juristische Methodenlehre als verbindliche
 3. **Vorrangregel bei Konflikt**: Wenn historische und teleologische Auslegung auseinanderfallen, hat die historische Methode methodischen Vorrang. Eine davon abweichende „ratio legis heute" ist offen zu kennzeichnen und besonders zu begründen.
 4. **Generalklauseln als Auffang**: Vor jedem Argument aus § 138, § 242, § 826 BGB ist zu prüfen, ob speziellere Normen einschlägig sind. Wer eine Generalklausel als ersten Belegtyp anführt, muss erklären, warum die spezielle Norm nicht greift.
 5. **Wertausfüllung grundrechts- und unionsrechtsgebunden**: Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzipien und Unionsrecht zu messen — nicht an gefühlten „Wertvorstellungen der Gemeinschaft".
+6. **Unionsrechtliche Auslegung getrennt führen**: Bei Normen unionsrechtlichen Ursprungs (DSGVO, KI-VO, Verbraucher-RL, Kartellrecht, Finanzmarktrecht u. a.) sind die Begriffe **autonom** auszulegen — nicht reflexhaft über den nationalen Rechtsbegriff. Erwägungsgründe (Recitals) dürfen herangezogen werden, **niemals entgegen dem klaren Wortlaut** des verfügenden Teils. Siehe Sektion „Unionsrechtliche Auslegung" unten.
+
+## Unionsrechtliche Auslegung
+
+Ein wachsender Teil der anzuwendenden Normen ist europäischen Ursprungs (DSGVO, KI-VO, Verbraucher-RL, Kartellrecht, Finanzmarktrecht, Datenrecht). Für diese gelten methodische Besonderheiten:
+
+- **Autonome Auslegung des Unionsrechts.** Begriffe werden unabhängig vom nationalen Begriffsverständnis ausgelegt. Auch wenn dieselben Wörter wie in BGB/HGB/ZPO verwendet werden, sind die Inhalte nicht automatisch deckungsgleich (Beispiel: »Schaden« in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB).
+- **Erwägungsgründe (Recitals) als Auslegungshilfe ohne normative Wirkung.** Sie dürfen herangezogen werden, um Sinn und Zweck einer Vorschrift zu erschließen, einen unbestimmten Begriff zu konkretisieren oder zwischen Auslegungsvarianten zu wählen. Sie können eine Regelung des verfügenden Teils aber **niemals entgegen deren klaren Wortlaut** verdrängen, erweitern oder einschränken. Steht der Erwägungsgrund im Widerspruch zum eindeutigen Text, gilt der **Text** — der Erwägungsgrund wird als bloße Begründung beiseitegelegt. Faustregel: Erwägungsgrund ist Auslegungs**hilfe**, nicht Auslegungs**substitut**.
+- **Sprachfassungen-Vergleich.** Alle EU-Amtssprachen sind gleichermaßen verbindlich. Bei zweifelhaftem Wortlaut sind mehrere Fassungen vergleichend heranzuziehen — nicht reflexhaft die deutsche Fassung als »die richtige« nehmen.
+- **Vorabentscheidungsverfahren (Art. 267 AEUV).** Letztverbindliche Auslegung des Unionsrechts beim EuGH. Bei letztinstanzlichen Gerichten besteht Vorlagepflicht, soweit nicht *acte clair* oder *acte éclairé* vorliegt (CILFIT-Doktrin).
+- **Unionsrechtskonforme Auslegung des nationalen Rechts** (Marleasing, Pfeiffer): Pflicht aus Art. 4 Abs. 3 EUV — aber **Grenze am Wortlaut** des nationalen Rechts; keine Auslegung *contra legem*. Bei Richtlinien zusätzlich: keine horizontale Direktwirkung zwischen Privaten (Marshall).
 
 ## Verbotsliste — Was dieser Skill nicht tut
 
@@ -55,10 +66,12 @@ Dieser Skill verkörpert die deutsche juristische Methodenlehre als verbindliche
 - Stimmt mein Ergebnis mit Wortlaut, Systematik und historischem Gesetzgeberwillen überein?
 - Wenn ich teleologisch argumentiere: Lege ich offen, welche Wertentscheidung ich einsetze, und ist sie verfassungsrechtlich gedeckt?
 - Greift mein Ergebnis in Grundrechte ein, die einer NS-typischen Auslegungsperversion ausgesetzt waren (Eigentum, Vertragsfreiheit, Gleichheit, persönliche Freiheit, Verfahrensrechte)? Dann besondere methodische Sorgfalt.
+- Ist die anzuwendende Norm europäischen Ursprungs oder dient sie der Umsetzung von Unionsrecht? Dann **autonom** auslegen und nationale Begriffe nicht reflexhaft übertragen.
+- Habe ich Erwägungsgründe nur als **Auslegungshilfe** verwendet — und nicht zur Korrektur eines klar formulierten verfügenden Teils?
 
 ## Vertiefung
 
-Die vollständige methodische Grundlage einschließlich der Rüthers-Warnung vor unbegrenzter Auslegung, der Korrektur an Radbruch und der Literaturhinweise steht in `references/methodik-deutsches-recht.md`. Lies sie zur Pflicht, sobald du methodisch argumentieren musst.
+Die vollständige methodische Grundlage einschließlich der Rüthers-Warnung vor unbegrenzter Auslegung, der Korrektur an Radbruch, der ausführlichen Sektion zur Auslegung des Unionsrechts (autonome Auslegung, Erwägungsgründe ohne contra-legem-Wirkung, Sprachfassungen, Vorabentscheidungsverfahren, unionsrechtskonforme Auslegung des nationalen Rechts) und der Literaturhinweise steht in `references/methodik-deutsches-recht.md`. Lies sie zur Pflicht, sobald du methodisch argumentieren musst.
 
 ## Verknüpfung mit anderen Plugins
 

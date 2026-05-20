@@ -96,6 +96,50 @@ Bei juristischen Bewertungen wird vor Ausgabe geprüft:
 - Bernd Rüthers / Christian Fischer / Axel Birk, Rechtstheorie und Juristische Methodenlehre, aktuelle Auflage.
 - Gustav Radbruch, Gesetzliches Unrecht und übergesetzliches Recht, SJZ 1946 S. 105 – als historischer Anker, mit obiger methodischer Einschränkung.
 
+## 3b. Auslegung des Unionsrechts und unionsrechtskonforme Auslegung des nationalen Rechts
+
+Ein wachsender Teil der in Deutschland anzuwendenden Normen ist europäischen Ursprungs oder dient der Umsetzung von Unionsrecht (DSGVO, KI-VO, Verbraucher-RL, Kartellrecht, Finanzmarktrecht, Datenrecht u. a.). Für diese Normen gelten methodische Besonderheiten, die von der rein nationalen Auslegung abweichen und gesondert geführt werden müssen.
+
+### Autonome Auslegung des Unionsrechts
+
+Begriffe des Unionsrechts werden grundsätzlich **autonom** ausgelegt – unabhängig vom Begriffsverständnis der nationalen Rechtsordnungen. Hintergrund: Würden EU-Normen in jedem Mitgliedstaat nach dortigem Begriffsverständnis interpretiert, wäre die einheitliche Anwendung des Unionsrechts in den Mitgliedstaaten nicht gewährleistet.
+
+**Konsequenzen für die Praxis:**
+
+1. **Keine reflexhafte Übertragung nationaler Begriffe.** Auch wenn eine unionsrechtliche Norm in deutscher Sprache dieselben Wörter benutzt wie eine BGB-, HGB- oder ZPO-Norm, sind die Begriffe nicht automatisch deckungsgleich. Wer den »Schaden« nach Art. 82 DSGVO prüft, kann nicht ohne Weiteres den Schadensbegriff der §§ 249 ff. BGB übernehmen – der EuGH legt ihn unionsrechtlich aus.
+2. **EuGH als letztverbindliche Instanz.** Bei Zweifeln steht das **Vorabentscheidungsverfahren** nach Art. 267 AEUV zur Verfügung; bei letztinstanzlichen Gerichten besteht Vorlagepflicht, soweit nicht *acte clair* (offenkundig eindeutige Lösung) oder *acte éclairé* (durch EuGH bereits geklärt) vorliegt (CILFIT-Doktrin, EuGH 283/81).
+3. **Sprachfassungen-Vergleich.** Bei zweifelhaftem Wortlaut sind mehrere Sprachfassungen vergleichend heranzuziehen. Alle Amtssprachen der EU sind gleichermaßen verbindlich; weichen Fassungen ab, ist methodisch nach Systematik und Zweck zu entscheiden – nicht einfach die deutsche Fassung als »die richtige« zu nehmen.
+
+### Erwägungsgründe (Recitals) – Auslegungshilfe ohne normative Wirkung
+
+Erwägungsgründe stehen am Anfang jedes Unionsrechtsakts und lassen den Willen des Unionsgesetzgebers erkennen. Sie sind methodisch heranzuziehen, haben aber **keine eigene normative Wirkung**:
+
+- **Zulässig:** Erwägungsgründe dürfen herangezogen werden, um Sinn und Zweck einer Vorschrift zu erschließen, um zwischen mehreren denkbaren Auslegungen zu wählen oder um einen unbestimmten Rechtsbegriff zu konkretisieren.
+- **Unzulässig:** Ein Erwägungsgrund kann eine Regelung des verfügenden Teils **niemals entgegen ihrem klaren Wortlaut** verdrängen, erweitern oder einschränken. Steht der Erwägungsgrund im Widerspruch zum eindeutigen Text der Vorschrift, gilt der **Text** – der Erwägungsgrund wird als bloße Begründung beiseitegelegt.
+- Ständige EuGH-Rechtsprechung: Erwägungsgründe sind weder selbst Rechtsnormen noch dürfen sie zur Korrektur eines klar formulierten verfügenden Teils verwendet werden. Wer mit einem Erwägungsgrund gegen einen klaren Artikeltext argumentiert, argumentiert methodisch falsch.
+
+> **Faustregel:** Erwägungsgrund ist Auslegungs**hilfe**, nicht Auslegungs**substitut**. Der verfügende Teil regelt; der Erwägungsgrund erläutert. Bei Widerspruch gewinnt der verfügende Teil.
+
+### Unionsrechtskonforme Auslegung des nationalen Rechts
+
+Das nationale Recht ist soweit wie möglich richtlinien- und unionsrechtskonform auszulegen (Pflicht aus Art. 4 Abs. 3 EUV, Grundsatz der loyalen Zusammenarbeit; EuGH, Marleasing, C-106/89; EuGH, Pfeiffer u. a., C-397/01 bis C-403/01). Aber:
+
+- Die unionsrechtskonforme Auslegung findet ihre **Grenze am Wortlaut** des nationalen Rechts. Eine Auslegung *contra legem* ist unzulässig – wer das nationale Recht gegen seinen klaren Wortlaut anwendet, betreibt richterliche Rechtsfortbildung, nicht Auslegung.
+- Bei Richtlinien gilt zusätzlich: Eine Richtlinie kann zwischen Privaten **nicht unmittelbar anwendbar** wirken; eine horizontale Direktwirkung gibt es nicht (st. Rspr. seit EuGH, Marshall, 152/84). Wer sich gegen einen Privaten auf eine Richtlinie beruft, muss über die richtlinienkonforme Auslegung argumentieren – und die hört am Wortlaut des nationalen Umsetzungsrechts auf.
+- Bei Verordnungen ist die unionsrechtskonforme Auslegung weniger relevant, weil VO unmittelbar gelten (Art. 288 Abs. 2 AEUV) – ihre Auslegung ist primär die autonome Auslegung des Unionsrechts.
+
+### Verhältnis zur historischen Auslegung des nationalen Rechts
+
+Wo eine deutsche Norm Unionsrecht umsetzt, wird der Wille des deutschen Gesetzgebers durch den Willen des Unionsgesetzgebers überlagert. Materialien zum nationalen Umsetzungsgesetz (BT-Drucks., Ausschussberichte) bleiben relevant, müssen aber an den Vorgaben der Richtlinie/VO gemessen werden. Spannungen sind offen zu kennzeichnen – nicht zu glätten.
+
+### Selbstprüfung bei unionsrechtlich relevanten Fragen
+
+- Ist die Norm europäischen Ursprungs oder dient sie der Umsetzung von Unionsrecht? Wenn ja: autonome Auslegung anwenden, nicht nationale Begriffe reflexhaft übernehmen.
+- Habe ich Erwägungsgründe nur als **Auslegungshilfe** verwendet, nicht zur Korrektur eines klaren Textes des verfügenden Teils?
+- Habe ich bei zweifelhaftem Wortlaut Sprachfassungen verglichen – oder zumindest erkannt, dass dies in Betracht kommt?
+- Bei letztinstanzlichen Verfahren: Wäre ein Vorabentscheidungsverfahren nach Art. 267 AEUV geboten?
+- Bei richtlinienkonformer Auslegung: Bleibe ich am Wortlaut des nationalen Rechts – oder argumentiere ich *contra legem*?
+
 ## 4. Lückenfüllung
 
 
