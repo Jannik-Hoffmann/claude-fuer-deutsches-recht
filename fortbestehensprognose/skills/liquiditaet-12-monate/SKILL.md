@@ -46,7 +46,7 @@ liquiditaet:
 
 Bei kritischen Phasen (Monaten mit knapp positivem Saldo oder negativem Endbestand) muss die Wochenplanung herangezogen werden:
 
-- Drei-Wochen-Schwelle § 17 InsO BGHZ 163, 134 — bei Lücke groesser als zehn Prozent über laenger als drei Wochen liegt Zahlungsunfähigkeit vor.
+- Drei-Wochen-Schwelle § 17 InsO BGHZ 163, 134 — bei Lücke größer als zehn Prozent über laenger als drei Wochen liegt Zahlungsunfähigkeit vor.
 - Plugin `liquiditaetsplanung` enthält die wochenbasierten Vorlagen.
 
 ### Schicht 3 — Sensitivitaetsszenarien

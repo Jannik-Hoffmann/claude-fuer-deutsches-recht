@@ -98,7 +98,7 @@ Eingang prüfen
 
 - Quell-Korpus (Hash-IDs, nicht entanonymisiert): {{liste}}
 - Anonymisierungs-Regelsatz: `references/anonymisierungs-regeln.md` v{{x.y}}
-- Letzte Rechtsprechungs-Auffrischung gegen `regulierungs-feed-monitor`-Lauf vom: {{Datum}}
+- Letzte Rechtsprechungs-Auffrischung gegen `regulierungs-aenderungs-monitor`-Lauf vom: {{Datum}}
 - Verantwortlich (4-Augen): {{Anwalt}} + {{DSB/IT}}
 ```
 

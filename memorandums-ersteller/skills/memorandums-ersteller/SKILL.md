@@ -65,7 +65,7 @@ alle Zitate sind anhand der Originalquellen zu verifizieren.
 
 1. Dokumenten-Inventur — pro Eingangsdokument Typ Datum Quelle
    notieren
-2. Tatsachen-Extraktion — jede Tatsache erhaelt Quellenreferenz im
+2. Tatsachen-Extraktion — jede Tatsache erhält Quellenreferenz im
    Format `[Anlage K1 S. 2]` `[E-Mail v. 15.03.2024]`
    `[Telefonat lt. Vermerk v. 20.03.2024]`
 3. Chronologische Sortierung

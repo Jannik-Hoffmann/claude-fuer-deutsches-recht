@@ -3,7 +3,7 @@ KONFIGURATIONSPFAD
 
 Die nutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad, der Plugin-Updates übersteht:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/jurastudium/CLAUDE.md
 
 Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht von dieser Datei.

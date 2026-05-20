@@ -134,7 +134,7 @@ Mit freundlichen Grüßen
 
 ## Verzugszinsen
 
-- Bei Nichtzahlung tritt Verzug spaetestens mit Fristablauf ein (§ 286 Abs. 1 BGB).
+- Bei Nichtzahlung tritt Verzug spätestens mit Fristablauf ein (§ 286 Abs. 1 BGB).
 - Verzugszinsen Verbraucher 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
 - Bei einer Pauschalreise mit Unternehmer-Stellung kann § 288 Abs. 2 BGB (9 Prozentpunkte) einschlägig sein — selten relevant für Verbraucher.
 
@@ -142,4 +142,4 @@ Mit freundlichen Grüßen
 
 - `forderung-erste-stufe-<datum>.docx` und PDF.
 - Eintrag in Tagesnotizen — Reaktionsfrist ist vorgemerkt für Mahnung.
-- Hinweis: bei Reaktion der Airline auf Fall warten und Skill `airline-standardausreden-pruefen` ausfuehren.
+- Hinweis: bei Reaktion der Airline auf Fall warten und Skill `airline-standardausreden-pruefen` ausführen.

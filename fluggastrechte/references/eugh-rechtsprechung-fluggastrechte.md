@@ -110,7 +110,7 @@ Wegweisende Entscheidung der **Sturgeon-Doktrin**.
 
 ### EuGH, Urt. v. 06.10.2022 — C-617/20 (Lufthansa / D.B. und S.B.)
 
-**Thema**: Eilbedürftigkeit der außergewöhnlichen Umstände-Pruefung.
+**Thema**: Eilbedürftigkeit der außergewöhnlichen Umstände-Prüfung.
 
 **Kernaussage**: Auch bei außergewöhnlichen Umständen muss die Airline rechtzeitig zumutbare Ersatzbeförderung organisieren. Eine späte Reaktion ohne sachlichen Grund spricht gegen die Befreiung.
 

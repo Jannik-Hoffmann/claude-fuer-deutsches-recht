@@ -12,7 +12,7 @@ Dieser Skill ist ein Verweis-Skill. Die vollständige Quellensammlung steht in d
 ## Wann diesen Skill verwenden
 
 - Wenn die ortsübliche Vergleichsmiete für eine konkrete Adresse zu prüfen ist.
-- Wenn die Wohnlagen-Zuordnung (einfach, mittel, gut) anhand des amtlichen Straßenverzeichnisses benoetigt wird.
+- Wenn die Wohnlagen-Zuordnung (einfach, mittel, gut) anhand des amtlichen Straßenverzeichnisses benötigt wird.
 - Wenn die Anwendbarkeit der Mietpreisbremse, Kappungsgrenze oder Kündigungssperrfrist im konkreten Bundesland geklaert werden muss.
 - Wenn die Quellenangabe in einem Schreiben, Klageentwurf oder einer Beratung amtlich belegt werden soll.
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein Verweis-Skill. Die vollständige Quellensammlung steht in d
 
 1. **Bundesweite Rechtsgrundlagen.** BGB, BetrKV, WoFlV, HeizkostenV, MsV, § 5 WiStG, § 291 StGB.
 2. **16 Bundeslaender.** Rechtslage, landesweite offizielle Quelle, Staedte mit Mietspiegel, Mietenbegrenzungsverordnungen.
-3. **20 groesste Staedte.** Typ (qualifiziert/einfach), Stand, offizielle URL, Online-Abfragetool, PDF, Besonderheiten.
+3. **20 größte Staedte.** Typ (qualifiziert/einfach), Stand, offizielle URL, Online-Abfragetool, PDF, Besonderheiten.
 4. **25 Universitaetsstaedte.** Gleiche Struktur wie Top-Staedte; Schwerpunkt angespannter Wohnungsmarkt.
 5. **Prüfroutine.** Sechs Schritte von Aktualitätsprüfung über Wohnlage, Ausstattung, Spanne, Mietpreisbremse, Kappungsgrenze.
 

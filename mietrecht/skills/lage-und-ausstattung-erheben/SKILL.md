@@ -35,7 +35,7 @@ Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt f�
 - Stockwerk.
 - Bodenbelaege je Raum (Parkett, Laminat, Fliesen, Teppich).
 - Fenster (Doppel- oder Dreifachverglasung, Holz/Kunststoff).
-- Balkon / Loggia / Terrasse (Groesse, Ausrichtung).
+- Balkon / Loggia / Terrasse (Größe, Ausrichtung).
 - Keller / Abstellraum außerhalb der Wohnung.
 
 ### 4. Bad

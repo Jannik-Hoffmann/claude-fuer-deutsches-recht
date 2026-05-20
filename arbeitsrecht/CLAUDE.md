@@ -4,7 +4,7 @@ KONFIGURATIONSPFAD
 Die benutzerspezifische Konfiguration dieses Plugins liegt an einem versionsunabhängigen Pfad,
 der Plugin-Updates übersteht:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/arbeitsrecht/CLAUDE.md
 
 Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 1. Konfiguration aus diesem Pfad LESEN. Nicht aus dieser Datei.

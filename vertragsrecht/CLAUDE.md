@@ -3,7 +3,7 @@ KONFIGURATIONSPFAD
 
 Die nutzerspezifische Konfiguration dieses Plugins liegt versionssicher unter:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/CLAUDE.md
 
 Regeln für alle Skills, Befehle und Agenten in diesem Plugin:
 1. Konfiguration aus dem obigen Pfad LESEN. Nicht aus dieser Datei.

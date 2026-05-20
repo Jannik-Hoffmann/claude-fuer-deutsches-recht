@@ -33,7 +33,7 @@ Tabelle nach Datum sortiert mit Kurzinhalt — eine Zeile pro Aktenteil.
 ### 3. Inhaltsbewertung pro Aktenteil
 
 Pro Aktenteil eine Klassifizierung:
-- **entscheidend** — traegt das Ergebnis (entweder für oder gegen den Mandanten)
+- **entscheidend** — trägt das Ergebnis (entweder für oder gegen den Mandanten)
 - **hilfreich** — stuetzt unsere Argumentation
 - **neutral** — Sachverhaltsdokumentation ohne Wertung
 - **belastend** — stuetzt die Behördenentscheidung

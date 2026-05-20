@@ -24,7 +24,7 @@ Die Eigenbedarfskündigung ist eines der streitanfälligsten Felder des Mietrech
 Die Begründung muss im Schreiben enthalten sein und so konkret sein dass der Mieter die Schlüssigkeit prüfen kann:
 
 - Name der beguenstigten Person und Verhältnis zum Vermieter.
-- Warum die Wohnung gerade für diese Person benoetigt wird.
+- Warum die Wohnung gerade für diese Person benötigt wird.
 - Aktuelle Wohnsituation der beguenstigten Person.
 - Zeitpunkt des Bedarfs.
 
@@ -38,7 +38,7 @@ Je nach Dauer des Mietverhältnisses beim Mieter:
 - Fünf bis acht Jahre: **sechs Monate**.
 - Ab acht Jahren: **neun Monate**.
 
-Zugang spaetestens am dritten Werktag eines Monats für das Ende dieses Monats plus die jeweilige Frist.
+Zugang spätestens am dritten Werktag eines Monats für das Ende dieses Monats plus die jeweilige Frist.
 
 ### Schritt 4 — Sperrfristen nach Landesverordnung
 
@@ -50,7 +50,7 @@ Der Mieter kann der Kündigung widersprechen wenn:
 
 - Beendigung eine **Haerte** bedeutet die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist.
 - Klassische Haertefälle: hohes Alter Krankheit Schwangerschaft fehlender Ersatzwohnraum.
-- Widerspruch ist spaetestens **zwei Monate vor Ende** der Mietzeit zu erklaeren (§ 574b Abs. 2 BGB).
+- Widerspruch ist spätestens **zwei Monate vor Ende** der Mietzeit zu erklären (§ 574b Abs. 2 BGB).
 - Rechtsfolge: Fortsetzung des Mietverhältnisses für angemessene Zeit (§ 574a BGB).
 
 Der Vermieter muss im Kündigungsschreiben auf das Widerspruchsrecht hinweisen (§ 568 Abs. 2 BGB) — sonst verlängerte Widerspruchsfrist.

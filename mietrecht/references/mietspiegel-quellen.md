@@ -1,4 +1,4 @@
-# Offizielle Mietspiegel-Quellen — Bundeslaender und 20 groesste Städte
+# Offizielle Mietspiegel-Quellen — Bundeslaender und 20 größte Städte
 
 Diese Referenz fuehrt ausschliesslich amtliche Quellen (Bundesministerien, Landesministerien, Landesaemter, Stadtverwaltungen). Private Anbieter (Conny, Mietwucher-Rechner, immowelt usw.) sind ausdruecklich ausgeklammert — auch wenn sie methodisch den gleichen Datenpool nutzen.
 
@@ -821,8 +821,8 @@ Universitaetsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 ## Pruefroutine vor jeder Verwendung
 
 1. **Aktualitaet prüfen.** Pruefe auf der amtlichen Stadt- oder Landesseite, ob seit Mai 2026 ein neuer Mietspiegel oder eine neue Mietenbegrenzungsverordnung erschienen ist.
-2. **Wohnlagen-Zuordnung.** Adresse in das amtliche Strassenverzeichnis / Geoportal der Stadt eingeben — die Wohnlage (einfach / mittel / gut) entscheidet ueber die Tabellenwerte.
+2. **Wohnlagen-Zuordnung.** Adresse in das amtliche Strassenverzeichnis / Geoportal der Stadt eingeben — die Wohnlage (einfach / mittel / gut) entscheidet über die Tabellenwerte.
 3. **Ausstattung erfassen.** Bad, Kueche, Heizung, Wohnung (Bodenbelag, Fenster, Balkon), Gebaeude (Aufzug, Stellplatz) — vgl. Sondermerkmals-Katalog des jeweiligen Mietspiegels.
-4. **Spanne und Mittelwert ablesen.** In allen qualifizierten Mietspiegeln gibt es Spannen-Tabellen plus Orientierungshilfe fuer die Einordnung innerhalb der Spanne.
-5. **Mietpreisbremse prüfen.** Bei Neuvermietung: liegt die Wohnung in einem Gebiet mit angespanntem Wohnungsmarkt nach Landesverordnung? Dann maximal 10 % ueber ortsüblicher Vergleichsmiete (§ 556d Abs. 1 BGB).
+4. **Spanne und Mittelwert ablesen.** In allen qualifizierten Mietspiegeln gibt es Spannen-Tabellen plus Orientierungshilfe für die Einordnung innerhalb der Spanne.
+5. **Mietpreisbremse prüfen.** Bei Neuvermietung: liegt die Wohnung in einem Gebiet mit angespanntem Wohnungsmarkt nach Landesverordnung? Dann maximal 10 % über ortsüblicher Vergleichsmiete (§ 556d Abs. 1 BGB).
 6. **Kappungsgrenze prüfen.** Bei Bestandsmiete: maximal 20 % oder — in den Gebieten der Kappungsgrenzenverordnung — 15 % in drei Jahren (§ 558 Abs. 3 BGB).

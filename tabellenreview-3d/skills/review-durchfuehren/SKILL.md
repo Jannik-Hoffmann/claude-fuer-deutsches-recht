@@ -45,7 +45,7 @@ arbeitsblatt-id, zeile-id, spalte-id, antwort, woertliches-zitat, fundstelle, am
 
 ## Reihenfolge
 
-Standard: Arbeitsblatt-aussen, Zeile-mittel, Spalte-innen. Optional: Spalte-aussen wenn Spaltenprompt aufwaendig (z. B. Volltext-Indexierung) und über den Stapel gemeinsam profitiert.
+Standard: Arbeitsblatt-außen, Zeile-mittel, Spalte-innen. Optional: Spalte-außen wenn Spaltenprompt aufwaendig (z. B. Volltext-Indexierung) und über den Stapel gemeinsam profitiert.
 
 ## Grenzen
 

@@ -4,7 +4,7 @@ KONFIGURATIONSPFAD
 Nutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad,
 der Plugin-Updates überlebt:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/ki-governance/CLAUDE.md
 
 Regeln für alle Skills, Befehle und Agenten dieses Plugins:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
@@ -17,7 +17,7 @@ Regeln für alle Skills, Befehle und Agenten dieses Plugins:
 3. Setup und Kaltstart-Interview SCHREIBEN in diesen Pfad, legen übergeordnete Verzeichnisse
    bei Bedarf an.
 4. Bei erstem Lauf nach einem Plugin-Update: Falls eine befüllte CLAUDE.md am alten Cache-Pfad
-   (~/.claude/plugins/cache/claude-fuer-deutsches-recht/ki-governance/<version>/CLAUDE.md)
+   (~/.claude/plugins/cache/claude-für-deutsches-recht/ki-governance/<version>/CLAUDE.md)
    existiert, aber nicht am Config-Pfad, diese zuerst in den Config-Pfad kopieren.
 5. Diese Datei (die Sie gerade lesen) ist die VORLAGE. Sie wird bei jedem Plugin-Update
    ersetzt. Keine Nutzerdaten hier speichern.

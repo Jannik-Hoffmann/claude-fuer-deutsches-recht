@@ -41,7 +41,7 @@ Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fra
 
 ## Quellenpflicht
 
-Verbindlich gegen `references/zitierweise.md` im Repository. Jede juristische Anspielung im Spaltenprompt benoetigt einen Verweis auf Norm Rechtsprechung oder Kommentarstelle.
+Verbindlich gegen `references/zitierweise.md` im Repository. Jede juristische Anspielung im Spaltenprompt benötigt einen Verweis auf Norm Rechtsprechung oder Kommentarstelle.
 
 ## Beispiel
 

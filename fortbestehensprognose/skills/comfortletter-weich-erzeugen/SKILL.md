@@ -82,5 +82,5 @@ Mit freundlichen Grüßen
 ## Ausgabe
 
 - `comfortletter.docx` und PDF.
-- Warnhinweis im Sanierungsbausteine-Tracker dass dieser Comfortletter die Prognose NICHT traegt.
+- Warnhinweis im Sanierungsbausteine-Tracker dass dieser Comfortletter die Prognose NICHT trägt.
 - Empfehlung: parallel zum Comfortletter eine harte externe Patronatserklärung mit konkretem Höchstbetrag (Skill `patronatserklaerung-extern-hart-erzeugen`).

@@ -81,7 +81,7 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 
 ## Typische Fristen im Immobilienrecht
 
-- Widerspruch Eigenbedarfskündigung § 574b BGB — spaetestens zwei
+- Widerspruch Eigenbedarfskündigung § 574b BGB — spätestens zwei
   Monate vor Beendigung
 - Mieterhöhungsverlangen § 558b BGB — Zustimmungsfrist zwei
   Monate

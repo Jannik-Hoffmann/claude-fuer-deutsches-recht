@@ -23,7 +23,7 @@ Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Doku
 2. **Hashing:** SHA-256 pro Datei berechnen — Basis für Duplikaterkennung und Belegkette.
 3. **Klassifikation:** Dokumenttyp aus Dateiname Mimetype und Inhalt (z. B. Vertrag-Kunde / Vertrag-Lieferant / NDA / Bankvereinbarung / Lizenzvertrag / Personalakte / Grundbuchauszug / Mietvertrag / Gesellschaftsvertrag).
 4. **Sprache:** Sprachidentifikation pro Dokument (Deutsch / Englisch / sonstige).
-5. **OCR bei Scans:** OCR ausfuehren, Konfidenz protokollieren. Konfidenz unter 90 Prozent = `prüferflag`.
+5. **OCR bei Scans:** OCR ausführen, Konfidenz protokollieren. Konfidenz unter 90 Prozent = `prüferflag`.
 6. **Duplikatprüfung:** Hash-Identität erkennt exakte Duplikate. Ähnlichkeit (z. B. Cosine über Embedding) erkennt Quasi-Duplikate (Fassungen / Änderungsvereinbarungen).
 7. **Datenraum-Lücken:** wenn ein Dokument auf `Anlage 7` verweist und im Stapel keine `anlage 7` vorhanden ist, als `lücke` markieren.
 8. **Zeilen-Inventar schreiben:** `zeilen-inventar.yaml` mit allen Zeilen, jede mit `id` `pfad` `hash` `typ` `sprache` `ocr-konfidenz` `prüfer-flag` und leerem `zeilenprompt`.

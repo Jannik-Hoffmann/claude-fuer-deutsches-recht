@@ -38,7 +38,7 @@ description: Prueft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO �
 - [ ] Empfänger über das beA-Adressbuch identifiziert (SAFE-ID)?
 - [ ] PDF im Format PDF/A oder Standard-PDF (lesbar)?
 - [ ] Anlagen als einzelne PDF oder im Hauptdokument eingebunden?
-- [ ] Gesamtnachrichtgroesse unter beA-Limit (200 MB; bei sehr grossen Anlagen sequenziell)?
+- [ ] Gesamtnachrichtgroesse unter beA-Limit (200 MB; bei sehr großen Anlagen sequenziell)?
 
 ### Nach Versand
 

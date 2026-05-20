@@ -32,7 +32,7 @@ In dem Mandat ... / In Sachen ...
 
 ## Sprachregeln
 
-- **Klar verstaendlich**: kein Juristenjargon ohne Erklärung in Klammern.
+- **Klar verständlich**: kein Juristenjargon ohne Erklärung in Klammern.
 - **Aktiv statt passiv**: "Wir haben Berufung eingelegt" statt "Es wurde Berufung eingelegt".
 - **Konkrete Daten und Fristen**: "bis 15.06.2026" statt "in den nächsten Wochen".
 - **Kostenhinweis pflichtig**: Hinweis auf RVG oder Honorarvereinbarung.

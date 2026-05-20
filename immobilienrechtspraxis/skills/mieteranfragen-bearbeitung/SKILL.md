@@ -22,7 +22,7 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 ## Klassifikationskategorien
 
 - Mietmängelanzeige und Mietminderungsforderung §§ 536 ff. BGB
-- Kündigung ordentlich § 573 BGB und ausserordentlich § 543 BGB
+- Kündigung ordentlich § 573 BGB und außerordentlich § 543 BGB
 - Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB
 - Mieterhöhung nach § 558 BGB ortsübliche Vergleichsmiete
 - Mieterhöhung nach § 559 BGB Modernisierung

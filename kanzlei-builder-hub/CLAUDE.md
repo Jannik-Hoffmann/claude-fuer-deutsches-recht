@@ -4,13 +4,13 @@ KONFIGURATIONSSPEICHERORT
 Benutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad,
 der Plugin-Updates übersteht:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/kanzlei-builder-hub/CLAUDE.md
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration aus diesem Pfad LESEN. Nicht aus dieser Datei.
 2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin benötigt eine Einrichtung, bevor es nützliche Ergebnisse liefern kann. Führen Sie /kanzlei-builder-hub:kaltstart-interview aus — es dauert ca. 10–15 Minuten, und alle Befehle dieses Plugins hängen davon ab. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht der tatsächlichen Kanzleipraxis." NICHT mit Platzhalter- oder Standardkonfiguration fortfahren. Die einzigen Skills, die ohne Einrichtung laufen, sind /kanzlei-builder-hub:kaltstart-interview selbst und jedes --check-integrations-Flag.
 3. Einrichtung und Kaltstart-Interview SCHREIBEN in diesen Pfad und erstellen übergeordnete Verzeichnisse bei Bedarf.
-4. Beim ersten Ausführen nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md unter dem alten Cache-Pfad (~/.claude/plugins/cache/claude-fuer-deutsches-recht/kanzlei-builder-hub/<version>/CLAUDE.md) existiert, aber nicht unter dem Config-Pfad, vorwärts in den Config-Pfad kopieren.
+4. Beim ersten Ausführen nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md unter dem alten Cache-Pfad (~/.claude/plugins/cache/claude-für-deutsches-recht/kanzlei-builder-hub/<version>/CLAUDE.md) existiert, aber nicht unter dem Config-Pfad, vorwärts in den Config-Pfad kopieren.
 5. Diese Datei (die Sie gerade lesen) ist das TEMPLATE. Sie wird bei jedem Plugin-Update ersetzt. Niemals Benutzerdaten hier schreiben.
 
 **Geteiltes Kanzleiprofil.** Kanzleibezogene Grundinformationen (Name, Tätigkeitsschwerpunkte, Standort, Risikobereitschaft, Schlüsselpersonen) liegen unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md` — eine Ebene über dieser Datei, geteilt von allen Plugins. Vor diesem Plugin-Profil lesen. Falls nicht vorhanden, erstellt die Einrichtung dieses Plugins es.

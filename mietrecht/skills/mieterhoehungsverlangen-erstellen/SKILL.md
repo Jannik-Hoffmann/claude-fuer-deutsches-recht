@@ -7,7 +7,7 @@ description: Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsueb
 
 ## Disclaimer (Schlüsselstelle)
 
-Ein formal oder materiell fehlerhaftes Mieterhöhungsverlangen ist unwirksam — der Mieter darf zustimmen verweigern. Wer die Wartefrist oder die Kappungsgrenze verletzt verliert das Verlangen ganz. Vor Versand grosser Mieterhöhungen oder bei zweifelhafter Mietspiegel-Einordnung ist eine fachanwaltliche Prüfung dringend empfohlen.
+Ein formal oder materiell fehlerhaftes Mieterhöhungsverlangen ist unwirksam — der Mieter darf zustimmen verweigern. Wer die Wartefrist oder die Kappungsgrenze verletzt verliert das Verlangen ganz. Vor Versand großer Mieterhöhungen oder bei zweifelhafter Mietspiegel-Einordnung ist eine fachanwaltliche Prüfung dringend empfohlen.
 
 ## Workflow
 

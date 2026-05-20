@@ -47,7 +47,7 @@ Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht i
 
 - **Sehr restriktiv** — nur in Ausnahmefällen.
 - Sozialversicherungsbeitraege sind treuhaenderisch und Arbeitnehmer-Anteil.
-- Nichtabfuehrung kann § 266a StGB ausloesen (Vorenthalten Sozialversicherungsbeitraege Arbeitnehmer-Anteil).
+- Nichtabfuehrung kann § 266a StGB auslösen (Vorenthalten Sozialversicherungsbeitraege Arbeitnehmer-Anteil).
 - **Pflicht zur Abfuehrung** der Arbeitnehmer-Beitraege bleibt grundsaetzlich auch bei Stundung — daher Stundung praktisch fast unwirksam.
 
 ## Mustervorlage Lieferant

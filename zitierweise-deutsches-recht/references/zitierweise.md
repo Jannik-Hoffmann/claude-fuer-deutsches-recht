@@ -131,7 +131,7 @@ NJW, NJW-RR, NZA, NZA-RR, NJW-Spezial, MDR, ZIP, BB, DB, DStR, BStBl., GRUR, GRU
 | Kühling/Buchner | Kühling/Buchner, DSGVO/BDSG |
 | Simitis/Hornung/Spiecker | Simitis/Hornung/Spiecker, DSGVO |
 | Gola | Gola, DSGVO |
-| Schricker/Loewenheim | Schricker/Loewenheim, UrhG |
+| Schricker/Löwenheim | Schricker/Löwenheim, UrhG |
 | Wandtke/Bullinger | Wandtke/Bullinger, UrhR |
 | Dreier/Schulze | Dreier/Schulze, UrhG |
 | BeckOK MarkenR | BeckOK MarkenR |

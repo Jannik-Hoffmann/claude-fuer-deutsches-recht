@@ -23,7 +23,7 @@ Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzählfassung des
 
 - Würfel-Ampel mit Begründung in drei Sätzen
 - Top-5-Hotspots (Datenpunkte mit ueberproportional vielen roten Zellen)
-- Top-5-rote-Zeilen (Dokumente die das groesste Risiko tragen)
+- Top-5-rote-Zeilen (Dokumente die das größte Risiko tragen)
 - Top-3-Widersprueche aus `kreuzblatt-konsistenzpruefung`
 - Anzahl Prüfer-Flags und Status der Abnahme
 
@@ -75,4 +75,4 @@ Alle zitierten Quellen mit:
 
 ## Grenzen
 
-Bei sehr grossen Würfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur für Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollständige Daten weiter in Excel.
+Bei sehr großen Würfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur für Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollständige Daten weiter in Excel.

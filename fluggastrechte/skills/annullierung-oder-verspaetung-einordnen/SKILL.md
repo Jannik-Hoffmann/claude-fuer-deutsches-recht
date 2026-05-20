@@ -57,7 +57,7 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
 
 ### Vorverlegung des Flugs
 
-- EuGH, Urt. v. 21.12.2021 — C-146/20 (Azurair Eurowings Corendon Airlines TUIfly): erhebliche Vorverlegung des Flugs (mehr als eine Stunde) gilt als **Annullierung** und kann Anspruch ausloesen.
+- EuGH, Urt. v. 21.12.2021 — C-146/20 (Azurair Eurowings Corendon Airlines TUIfly): erhebliche Vorverlegung des Flugs (mehr als eine Stunde) gilt als **Annullierung** und kann Anspruch auslösen.
 
 ### Umbuchung auf anderen Flug ohne Zustimmung des Passagiers
 

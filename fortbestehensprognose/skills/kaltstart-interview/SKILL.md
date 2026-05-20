@@ -13,7 +13,7 @@ Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nac
 
 1. Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md` prüfen.
 2. Falls befuellt: bestätigen, gegebenenfalls --redo für Neu-Interview.
-3. Andernfalls Interview unten ausfuehren.
+3. Andernfalls Interview unten ausführen.
 
 ## Interview
 

@@ -13,7 +13,7 @@ Eine Zahlungsverzugskündigung ist die mietrechtlich folgenreichste Erklärung. 
 
 ### Schritt 1 — Fälligkeit und Verzug prüfen
 
-- **Fälligkeit** der Miete: spaetestens am dritten Werktag eines jeden Monats (§ 556b Abs. 1 BGB) — soweit vertraglich nichts anderes vereinbart ist.
+- **Fälligkeit** der Miete: spätestens am dritten Werktag eines jeden Monats (§ 556b Abs. 1 BGB) — soweit vertraglich nichts anderes vereinbart ist.
 - **Verzug** ohne Mahnung tritt nach § 286 Abs. 2 Nr. 1 BGB ein wenn die Miete kalendermaessig bestimmt ist (was bei § 556b BGB der Fall ist).
 - Eine Mahnung ist also rechtlich nicht zwingend — als Vorstufe zur Kündigung aber dringend empfohlen (Beweisbarkeit gutes Verhältnis Schonfristoption).
 
@@ -47,7 +47,7 @@ Was zur Miete zählt: Grundmiete plus Nebenkostenvorauszahlungen plus etwaige He
 
 ### Schritt 6 — Schonfristzahlung des Mieters (§ 569 Abs. 3 Nr. 2 BGB)
 
-- Wenn der Mieter nach Zugang der fristlosen Kündigung aber spaetestens bis zum Ablauf von zwei Monaten nach Zustellung der **Raeumungsklage** den gesamten Rückstand begleicht oder eine öffentliche Stelle die Zahlung verbindlich zusagt: **fristlose Kündigung wird unwirksam**.
+- Wenn der Mieter nach Zugang der fristlosen Kündigung aber spätestens bis zum Ablauf von zwei Monaten nach Zustellung der **Raeumungsklage** den gesamten Rückstand begleicht oder eine öffentliche Stelle die Zahlung verbindlich zusagt: **fristlose Kündigung wird unwirksam**.
 - Wichtig: die Schonfristzahlung wirkt nur für die fristlose Kündigung — eine hilfsweise erklärte **ordentliche** Kündigung bleibt nach BGH-Rspr. wirksam.
 - Schonfristzahlung kann nicht mehrfach in Anspruch genommen werden (§ 569 Abs. 3 Nr. 2 Satz 2 BGB) — bei wiederholtem Zahlungsverzug ist sie ausgeschlossen wenn binnen zwei Jahren bereits einmal angewendet.
 

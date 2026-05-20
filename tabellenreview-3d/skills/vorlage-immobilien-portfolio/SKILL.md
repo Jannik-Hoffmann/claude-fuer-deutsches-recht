@@ -17,7 +17,7 @@ Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiv
 2. Flur
 3. Flurstueck
 4. Wirtschaftsart und Lage
-5. Groesse in Quadratmeter
+5. Größe in Quadratmeter
 
 ### Abteilung I (Eigentum)
 

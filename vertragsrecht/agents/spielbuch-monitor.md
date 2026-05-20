@@ -117,7 +117,7 @@ Den Rechtsanwalt über das Ziel in `~/.claude/plugins/config/claude-fuer-deutsch
 
 > Playbook-Monitor gelaufen — [N] Aktualisierungsvorschlag/Vorschläge zur Prüfung bereit.
 > Führen Sie `/vertragsrecht:pruefungsvorschlaege` aus, wenn Sie einen Moment Zeit haben.
-> Vorschläge: ~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/playbook-vorschlaege.md
+> Vorschläge: ~/.claude/plugins/config/claude-für-deutsches-recht/vertragsrecht/playbook-vorschlaege.md
 
 Den Lauf in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/spielbuch-monitor-log.yaml` protokollieren:
 
@@ -130,7 +130,7 @@ Den Lauf in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/
   vorschlaege_datei: ~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/playbook-vorschlaege.md
 ```
 
-### Schritt 5 — Prüfung und Genehmigung (ausgelöst durch Befehl /vorschlaege-pruefen)
+### Schritt 5 — Prüfung und Genehmigung (ausgelöst durch Befehl /vorschlaege-prüfen)
 
 Wenn der Rechtsanwalt `/vertragsrecht:pruefungsvorschlaege` aufruft:
 

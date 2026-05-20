@@ -43,7 +43,7 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 |---|---|
 | **kaltstart-interview** | Schreibt CLAUDE.md aus Interview und Ausgangsdokumenten |
 | **anwendungsfall-triage** | DSFA-Pflicht? Verzeichnisaufnahme, Rechtsgrundlage Art. 6/9 DSGVO |
-| **avv-pruefung** | AVV-Prüfung bi-direktional (Verantwortlicher/Auftragsverarbeiter), Art. 28 DSGVO, Sub-AV, TIA, EU-SCC, DPF |
+| **avv-prüfung** | AVV-Prüfung bi-direktional (Verantwortlicher/Auftragsverarbeiter), Art. 28 DSGVO, Sub-AV, TIA, EU-SCC, DPF |
 | **dsgvo-auskunft-antwort** | Identitätsprüfung → Systemabfrage → Ausnahmen → Antwortentwurf (Art. 15–22, 12 Abs. 3 DSGVO) |
 | **dsfa-erstellung** | DSFA nach Art. 35 DSGVO, BfDI-Blacklist/-Whitelist, Schwellwertanalyse |
 | **regulierungs-luecken-analyse** | Neue Leitlinie/VO vs. Ist-Zustand; EDSA- und DSK-Leitlinien |

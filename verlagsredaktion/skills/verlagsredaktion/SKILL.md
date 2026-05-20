@@ -183,7 +183,7 @@ Modus B:
 
 ## Urheber- und Verlagsrecht
 
-Verlagsmaterialien können urheberrechtlich geschuetzt sein.
+Verlagsmaterialien können urheberrechtlich geschützt sein.
 Wortgetreue Übernahmen aus dem Material des Autors sind durch
 den Mandatsvertrag zwischen Autor und Verlag gedeckt. Wortgetreue
 Übernahmen aus fremder Kommentarliteratur und Rechtsprechung

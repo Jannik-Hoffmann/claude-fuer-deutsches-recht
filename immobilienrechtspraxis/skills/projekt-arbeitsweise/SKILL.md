@@ -44,7 +44,7 @@ gegen denselben Maßstab geprüft werden.
 `vorgaben.md` ist die zentrale Konfiguration. Sie nennt:
 
 - Rechtsgebiet und Schwerpunkte
-- Welche Skills bei welchem Dokumenttyp ausloesen
+- Welche Skills bei welchem Dokumenttyp auslösen
 - Welches Playbook gilt
 - Welche Musterverträge als Referenz dienen
 - Welche AVV-Anforderungen zwingend sind
@@ -64,8 +64,8 @@ nach Art. 28 Abs. 3 DSGVO geprueft:
 - Vertraulichkeit
 - Sicherheit der Verarbeitung Art. 32 DSGVO
 - Unterauftragsverarbeiter
-- Unterstuetzung bei Betroffenenrechten Art. 12-22 DSGVO
-- Unterstuetzung bei Meldepflichten Art. 33 und 34 DSGVO
+- Unterstützung bei Betroffenenrechten Art. 12-22 DSGVO
+- Unterstützung bei Meldepflichten Art. 33 und 34 DSGVO
 - Löschung oder Rückgabe nach Vertragsende
 - Nachweise und Audit-Rechte
 
@@ -122,7 +122,7 @@ und das Ergebnis in den richtigen Unterordner geschrieben.
 ## Nachvollziehbarkeit und Audit
 
 Jede Änderung an `vorgaben.md` ist versioniert. Jede
-Skill-Ausfuehrung steht in `audit.md` mit Eingabe-Datei und
+Skill-Ausführung steht in `audit.md` mit Eingabe-Datei und
 Ergebnis-Datei. Bei Prüfung durch Aufsicht oder Geschäftsleitung
 ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 

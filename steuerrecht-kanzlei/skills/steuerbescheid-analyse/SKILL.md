@@ -54,7 +54,7 @@ Bei Schaetzungsbescheid:
 ### 5. Festsetzungsverjährung
 
 - **§ 169 AO** Festsetzungsfrist regelmäßig vier Jahre; bei Hinterziehung zehn Jahre; bei Leichtfertigkeit fünf Jahre.
-- **§ 170 AO** Beginn — mit Ablauf des Kalenderjahrs in dem die Steuer entstanden ist; bei Erklärungspflicht mit Ablauf des Kalenderjahrs der Abgabe spaetestens nach drei Jahren.
+- **§ 170 AO** Beginn — mit Ablauf des Kalenderjahrs in dem die Steuer entstanden ist; bei Erklärungspflicht mit Ablauf des Kalenderjahrs der Abgabe spätestens nach drei Jahren.
 
 ### 6. Vollziehung
 

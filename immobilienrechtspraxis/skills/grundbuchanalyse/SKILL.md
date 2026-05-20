@@ -26,7 +26,7 @@ Objekttabelle und ein einheitliches Risikoschema.
 2. Pro Auszug Identifikation Bestandsverzeichnis Abteilung I II III
 3. Strukturierte Extraktion:
    - Bestandsverzeichnis: Gemarkung Flur Flurstueck Wirtschaftsart
-     Groesse
+     Größe
    - Abteilung I: Eigentümerkette mit Erwerbsgrund
    - Abteilung II: Lasten und Beschraenkungen (Dienstbarkeiten
      Reallasten Vorkaufsrechte Nacherbenvermerk Sanierungsvermerk)

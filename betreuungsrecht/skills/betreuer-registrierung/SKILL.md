@@ -21,7 +21,7 @@ Drei Erscheinungsformen:
 
 ## II. Ehrenamtlicher (privater) Betreuer
 
-Eine Privatperson, die die Betreuung **unentgeltlich** im Sinne des § 1878 BGB n.F. fuehrt. Sie erhaelt nur eine **pauschale Aufwandsentschädigung** nach § 1878 BGB i.V.m. § 22 JVEG (derzeit 425 EUR pro Jahr).
+Eine Privatperson, die die Betreuung **unentgeltlich** im Sinne des § 1878 BGB n.F. fuehrt. Sie erhält nur eine **pauschale Aufwandsentschädigung** nach § 1878 BGB i.V.m. § 22 JVEG (derzeit 425 EUR pro Jahr).
 
 Rekrutierung typischerweise aus dem familiaeren oder freundschaftlichen Umfeld; nach § 22 BtOG aber auch fremde Personen möglich, sofern Vereinbarung mit einem Betreuungsverein besteht.
 

@@ -41,7 +41,7 @@ Die Prüfung deckt typische Fehlerquellen ab, ersetzt aber keine anwaltliche Pr�
 
 ### Schritt 6 — Einwendungsfrist
 
-- Einwendungen müssen dem Vermieter spaetestens **zwölf Monate nach Zugang der Abrechnung** mitgeteilt werden (§ 556 Abs. 3 Satz 5 und 6 BGB).
+- Einwendungen müssen dem Vermieter spätestens **zwölf Monate nach Zugang der Abrechnung** mitgeteilt werden (§ 556 Abs. 3 Satz 5 und 6 BGB).
 - Fristversäumnis fuehrt zur Praeklusion der Einwendungen.
 
 ## Schreiben-Entwurf

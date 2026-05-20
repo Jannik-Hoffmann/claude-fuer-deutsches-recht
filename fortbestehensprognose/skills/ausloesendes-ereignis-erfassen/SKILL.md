@@ -22,7 +22,7 @@ Seit 01.01.2021 hat der Steuerberater eine **Hinweispflicht**: wenn ihm bei der 
 
 ### 2. Hinweis des Wirtschaftsprüfers
 
-Bei prüfungspflichtigen Gesellschaften (mittelgrosse oder grosse KapGes nach § 267 HGB) kann der Prüfer im Rahmen des Jahresabschlusses einen **Hinweis zur Going-Concern-Annahme** geben oder den Bestätigungsvermerk einschraenken oder versagen.
+Bei prüfungspflichtigen Gesellschaften (mittelgrosse oder große KapGes nach § 267 HGB) kann der Prüfer im Rahmen des Jahresabschlusses einen **Hinweis zur Going-Concern-Annahme** geben oder den Bestätigungsvermerk einschraenken oder versagen.
 
 ### 3. Eigene Feststellung bei der Bilanzaufstellung
 

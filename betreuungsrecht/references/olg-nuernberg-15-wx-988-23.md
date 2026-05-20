@@ -1,4 +1,4 @@
-# OLG Nuernberg, Beschluss vom 19.07.2023, Az. 15 Wx 988/23 — Hintergrundtext
+# OLG Nürnberg, Beschluss vom 19.07.2023, Az. 15 Wx 988/23 — Hintergrundtext
 
 Diese Datei haelt den ausfuehrlichen Hintergrund zu den Skills `betreuer-als-erbe`
 und `betreuer-registrierung` vor. Sie ist nicht als eigener Skill aktiv, sondern
@@ -23,7 +23,7 @@ Nach Eintritt des Erbfalls beantragte der Berufsbetreuer beim Nachlassgericht
 auf einen vermeintlichen Verstoss gegen § 30 BtOG sowie auf Formunwirksamkeit
 versagt wurde.
 
-Hiergegen richtete sich die Beschwerde zum OLG Nuernberg.
+Hiergegen richtete sich die Beschwerde zum OLG Nürnberg.
 
 ## III. Amtliche Leitsaetze (woertlich)
 
@@ -34,7 +34,7 @@ Hiergegen richtete sich die Beschwerde zum OLG Nuernberg.
 2. Die entsprechende letztwillige Verfuegung des Erblassers und der
    Vermoegensuebergang nach § 1922 Abs. 1 BGB sind in solchen Faellen im
    Hinblick auf den umfassenden Schutz der Testierfreiheit wirksam.
-3. Diese gesetzgeberische Wertung ist auch bei der Pruefung der
+3. Diese gesetzgeberische Wertung ist auch bei der Prüfung der
    Sittenwidrigkeit der letztwilligen Verfuegung zu beruecksichtigen.
 
 ## IV. Dogmatische Einordnung
@@ -56,7 +56,7 @@ Ausgenommen nach § 30 Abs. 2 BtOG:
 
 § 30 Abs. 3 BtOG erlaubt ausnahmsweise Gestattung durch das Betreuungsgericht —
 **aber nur zu Lebzeiten** des Betreuten. Eine nachtraegliche Genehmigung ist
-nach h.M. nicht mehr moeglich.
+nach h.M. nicht mehr möglich.
 
 Verstoss kann nach § 27 BtOG zum Widerruf der Registrierung fuehren.
 
@@ -67,8 +67,8 @@ Argumentation des OLG:
 - § 30 BtOG richtet sich **einseitig** an den Berufsbetreuer.
 - Berufsrechtliche Pflicht, die den Erblasser und seine Testierfreiheit
   (Art. 14 Abs. 1 GG i.V.m. § 1937 BGB) unberuehrt laesst.
-- Erstreckung der Nichtigkeitsfolge auf die letztwillige Verfuegung wuerde die
-  verfassungsrechtlich verankerte Testierfreiheit unzulaessig einschraenken.
+- Erstreckung der Nichtigkeitsfolge auf die letztwillige Verfuegung würde die
+  verfassungsrechtlich verankerte Testierfreiheit unzulässig einschraenken.
 - Der Gesetzgeber hat bewusst **keine** mit § 14 HeimG a.F. bzw. § 7 WBVG
   vergleichbare Verbotsnorm geschaffen.
 - Zum Vergleich: BGH Beschluss vom 26.10.2011, IV ZB 33/10, BGHZ Bd. 191
@@ -83,7 +83,7 @@ einen aelteren, kranken und alleinstehenden Erblasser ausnutzt.
 
 Im Streitfall fehlten derartige besondere Umstaende. Die Wertung des § 30 BtOG
 ist zu beruecksichtigen, fuehrt aber nicht automatisch zur Sittenwidrigkeit —
-sonst wuerde die bewusste Entscheidung des Gesetzgebers gegen ein Verbotsgesetz
+sonst würde die bewusste Entscheidung des Gesetzgebers gegen ein Verbotsgesetz
 unterlaufen.
 
 ### 4. Formfrage
@@ -99,8 +99,8 @@ des Testierwillens.
 | Erbrechtliche Wirksamkeit | Testament und Vermoegensuebergang nach § 1922 BGB wirksam | LS 2 |
 | § 134 BGB | Keine Nichtigkeit | LS 1 |
 | § 138 BGB | Nur bei Ausnutzung der Vertrauensstellung | Bezug auf 6 U 22/20 |
-| Berufsrecht | Widerruf nach § 27 BtOG moeglich | LS 1 |
-| Nachtraegliche Gestattung | Nach Erbfall nicht mehr moeglich (§ 30 Abs. 3 BtOG) | h.M. |
+| Berufsrecht | Widerruf nach § 27 BtOG möglich | LS 1 |
+| Nachtraegliche Gestattung | Nach Erbfall nicht mehr möglich (§ 30 Abs. 3 BtOG) | h.M. |
 
 ## VI. Bewertung und Kritik
 
@@ -109,7 +109,7 @@ des Testierwillens.
   Erbrecht des Erblassers.
 - Schrifttum (vgl. Besprechung IWW ErbBstg 2024) ueberwiegend zustimmend.
 - Vermeidet vom Gesetzgeber nicht angeordnete Doppelsanktion.
-- Risiko fuer den Betreuer: Verlust der Registrierung nach § 27 BtOG, was bei
+- Risiko für den Betreuer: Verlust der Registrierung nach § 27 BtOG, was bei
   Beratung vor Annahme der Erbschaft (§§ 1942 ff. BGB) sorgfaeltig abzuwaegen
   ist.
 
@@ -121,7 +121,7 @@ Beurkundung anzunehmen ist — Klaerung durch den BGH absehbar.
 
 - BGH Beschluss vom 26.10.2011 Az. IV ZB 33/10, BGHZ Bd. 191 S. 224
   (§ 14 HeimG a.F.).
-- OLG Nuernberg Urteil vom 07.01.2021 Az. 6 U 22/20 (Sittenwidrigkeit bei
+- OLG Nürnberg Urteil vom 07.01.2021 Az. 6 U 22/20 (Sittenwidrigkeit bei
   Ausnutzung der Vertrauensstellung durch Berufsbetreuerin).
 - OLG Hamm Urteil vom 02.03.2017 Az. 10 U 9/16 (Auskunfts- und
   Rechnungslegungspflicht des Betreuer-Miterben).

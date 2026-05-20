@@ -168,7 +168,7 @@ Englischsprachige Entwuerfe werden in Englisch redigiert; deutschsprachige in De
 Die Ausgabedatei ist **valid .docx** und enthält echte Word-Tracked-Changes. Prüfkriterien:
 
 - **`<w:ins>` und `<w:del>` als Geschwister-Elemente** auf der Ebene der Run-Container, nicht verschachtelt.
-- Eingefügter Text steht in `<w:ins>` mit einem Kind-Run `<w:r>`, der wieder einen `<w:t>` traegt.
+- Eingefügter Text steht in `<w:ins>` mit einem Kind-Run `<w:r>`, der wieder einen `<w:t>` trägt.
 - Gelöschter Text steht in `<w:del>` mit einem Kind-Run, dessen Text in `<w:delText>` (statt `<w:t>`) liegt.
 - Beide Elemente tragen die Attribute **`w:id`**, **`w:author`** und **`w:date`**.
   - `w:author` Standardwert: **"Receiving Party Counsel"** (oder vom Anwender vorgegeben).
@@ -223,7 +223,7 @@ Nach Abschluss der Bearbeitung gibt der Skill drei Bloecke aus:
 
 ## Datei-Benennung
 
-Die Ausgabedatei traegt den Namen des Ursprungsdokuments mit dem Suffix `_redlined_<Datum>.docx`. Beispiel: `NDA_TechVantage_Global_redlined_2026-05-20.docx`. Keine Umlaute, keine Leerzeichen.
+Die Ausgabedatei trägt den Namen des Ursprungsdokuments mit dem Suffix `_redlined_<Datum>.docx`. Beispiel: `NDA_TechVantage_Global_redlined_2026-05-20.docx`. Keine Umlaute, keine Leerzeichen.
 
 ## Was der Skill nicht tut
 
@@ -237,7 +237,7 @@ Die Ausgabedatei traegt den Namen des Ursprungsdokuments mit dem Suffix `_redlin
 
 Auch wenn der Skill chirurgisch arbeitet, bleibt die **Letztverantwortung** für den Inhalt des unterzeichneten NDA beim Anwalt. Insbesondere die Prüfung, ob alle materiellen Haltelinien der Ampelmatrix tatsächlich gewahrt sind, ob die GeschGehG-relevanten Anforderungen (Geschäftsgeheimnisgesetz § 2 Nr. 1 lit. b) eingehalten werden und ob keine Drittinteressen oder Mandatsgeheimnisse verletzt werden, ist und bleibt anwaltlich. Der Skill erinnert daran, ersetzt es aber nicht.
 
-## Beispielformulierungen, die diesen Skill ausloesen
+## Beispielformulierungen, die diesen Skill auslösen
 
 Für Modus A (Destillation):
 

@@ -13,7 +13,7 @@ description: "Kaltstart-Interview fuer das Fluggastrechte-Plugin. Klaert Anwendu
 
 ## Disclaimer
 
-Dieses Plugin unterstuetzt das eigene Geltendmachen von Fluggastrechten als Verbraucher. Es ist **keine Rechtsberatung**. Bei komplexen Fällen (mehrere Passagiere mit unterschiedlichen Anspruechen Gesellschafts-Bezügen Verspätungs-Lawinen Schlichtungsstelle vor Gericht) anwaltliche Hilfe einholen — z. B. über die Schlichtungsstelle Luftverkehr (SOEP).
+Dieses Plugin unterstützt das eigene Geltendmachen von Fluggastrechten als Verbraucher. Es ist **keine Rechtsberatung**. Bei komplexen Fällen (mehrere Passagiere mit unterschiedlichen Anspruechen Gesellschafts-Bezügen Verspätungs-Lawinen Schlichtungsstelle vor Gericht) anwaltliche Hilfe einholen — z. B. über die Schlichtungsstelle Luftverkehr (SOEP).
 
 ## Interview
 

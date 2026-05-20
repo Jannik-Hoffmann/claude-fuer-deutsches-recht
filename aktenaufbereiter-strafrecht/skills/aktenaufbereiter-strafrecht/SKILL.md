@@ -103,7 +103,7 @@ Staatsanwaltschaft Mitverteidiger Nebenklagevertretung.
 
 1. Aktenbestandteile inventarisieren — pro Datei Typ Umfang
    OCR-Status
-2. Blatt-fuer-Blatt-Extraktion mit Quellenverweis
+2. Blatt-für-Blatt-Extraktion mit Quellenverweis
 3. Querverweis zwischen den sechs Tabellen — Personen aus
    Personenverzeichnis müssen in Beziehung und Chronologie
    konsistent erscheinen

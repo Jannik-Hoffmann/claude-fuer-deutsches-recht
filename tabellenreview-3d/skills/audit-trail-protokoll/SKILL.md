@@ -7,7 +7,7 @@ description: "Fuehrt das Audit-Trail-Protokoll des Wuerfels — jeder Reviewlauf
 
 ## Zweck
 
-Wer mit KI Verträge prüft muss später erklaeren können wie das Ergebnis zustande kam. Dieser Skill ist die Erklärung — Append-only-Log für den gesamten Lebenszyklus des Würfels.
+Wer mit KI Verträge prüft muss später erklären können wie das Ergebnis zustande kam. Dieser Skill ist die Erklärung — Append-only-Log für den gesamten Lebenszyklus des Würfels.
 
 ## Ereignistypen
 

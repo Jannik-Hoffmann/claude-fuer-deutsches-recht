@@ -125,7 +125,7 @@ Der Berufsbetreuer steht vor einer doppelten Abwägung:
 
 Entscheidungsdaten:
 
-- Ausschlagungsfrist **sechs Wochen** ab Kenntnis vom Anfall und vom Berufungsgrund (§ 1944 BGB), gegenüber dem Nachlassgericht zu erklaeren.
+- Ausschlagungsfrist **sechs Wochen** ab Kenntnis vom Anfall und vom Berufungsgrund (§ 1944 BGB), gegenüber dem Nachlassgericht zu erklären.
 - Eine nachträgliche Anzeige beim Betreuungsgericht mit Antrag auf Gestattung ist nach Wortlaut des § 30 Abs. 3 BtOG **nicht mehr aussichtsreich**, weil die Gestattung nur lebzeitig möglich ist.
 - Bei Ausschlagung tritt die gesetzliche Erbfolge bzw. die nächste testamentarische Anordnung in Kraft.
 - Bei Annahme: Risiko des Registrierungswiderrufs realistisch einkalkulieren, gegebenenfalls Aufgabe der Berufstätigkeit erwägen.

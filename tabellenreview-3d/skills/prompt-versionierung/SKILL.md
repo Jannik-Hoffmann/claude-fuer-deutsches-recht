@@ -38,7 +38,7 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
 
 - Nur eine Version pro Spalte ist gleichzeitig aktiv (`aktive-prompts.yaml`)
 - Alte Versionen liegen im `prompt-historie.yaml` mit `gültig-bis`-Datum
-- Wer den aktiven Prompt ändert traegt zwingend den Migrationspfad für bestehende Zellen ein
+- Wer den aktiven Prompt ändert trägt zwingend den Migrationspfad für bestehende Zellen ein
 
 ## Pflichtfelder pro Prompt-Version
 

@@ -51,7 +51,7 @@ Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungsworkflow 
 Vor jeder Aktion gelten folgende unverbrüchliche Regeln:
 
 1. **Nur Community-Skills deinstallieren, die über diesen Hub installiert wurden.** `~/.claude/plugins/config/kanzlei-builder-hub/installations-protokoll.yaml` und die CLAUDE.md-Installationsübersicht prüfen. Ist der Skill dort nicht verzeichnet: Ablehnen und erklären.
-2. **Erstanbieter-Plugin-Skills niemals deinstallieren.** Die Kernplugins, die mit dem Kanzlei-Builder-Hub ausgeliefert werden (z. B. `vertragsrecht-legal`, `arbeitsrecht-legal`, `datenschutz-legal`, `hub` selbst), sind für diesen Befehl gesperrt. Führt der genannte Skill-Name auf einen Pfad innerhalb dieser Plugins: Ablehnen.
+2. **Erstanbieter-Plugin-Skills niemals deinstallieren.** Die Kernplugins, die mit dem Kanzlei-Builder-Hub ausgeliefert werden (z. B. `vertragsrecht`, `arbeitsrecht`, `datenschutzrecht`, `kanzlei-builder-hub` selbst), sind für diesen Befehl gesperrt. Führt der genannte Skill-Name auf einen Pfad innerhalb dieser Plugins: Ablehnen.
 3. **Vor dem Löschen bestätigen.** Dem Nutzer jeden Pfad zeigen, der gelöscht wird. Nur auf ausdrückliches `ja` fortfahren.
 4. **Deinstallation protokollieren.** An `installations-protokoll.yaml` mit Aktion `deinstallieren` und Zeitstempel anhängen, damit das Prüfprotokoll vollständig bleibt.
 

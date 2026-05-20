@@ -3,7 +3,7 @@ KONFIGURATIONSPFAD
 
 Die benutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad, der Plugin-Updates überlebt:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/betreuungsrecht/CLAUDE.md
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
@@ -54,7 +54,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 - [PLATZHALTER – z. B. „Betreuter hat Widerspruch gegen Maßnahme eingelegt; rechtliches Gehör erforderlich"]
 
 **Prüfenswert (beurteilen und entscheiden):**
-- [PLATZHALTER – z. B. „Genehmigungspflicht einer geplanten Maßnahme unklar; Skill genehmigungspflicht-pruefung ausführen"]
+- [PLATZHALTER – z. B. „Genehmigungspflicht einer geplanten Maßnahme unklar; Skill genehmigungspflicht-prüfung ausführen"]
 - [PLATZHALTER – z. B. „Vermögensveränderungen seit letztem Vermögensverzeichnis wesentlich; Aktualisierung prüfen"]
 - [PLATZHALTER – z. B. „Betreuerwechsel bevorstehend; Übergabe-Dokumentation vorbereiten"]
 

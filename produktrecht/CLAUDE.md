@@ -3,7 +3,7 @@ KONFIGURATIONSSPEICHERORT
 
 Nutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad, der Plugin-Updates überlebt:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/produktrecht/CLAUDE.md
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.

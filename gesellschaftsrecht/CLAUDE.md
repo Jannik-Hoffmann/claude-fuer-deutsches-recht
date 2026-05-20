@@ -3,11 +3,11 @@ KONFIGURATIONSPFAD
 
 Benutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad, der Plugin-Updates übersteht:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/gesellschaftsrecht/CLAUDE.md
+  ~/.claude/plugins/config/claude-für-deutsches-recht/gesellschaftsrecht/CLAUDE.md
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht von dieser Datei.
-2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substantieller Arbeit STOPPEN. Meldung: „Dieses Plugin benötigt eine Einrichtung, bevor es nützliche Ergebnisse liefern kann. Führe /gesellschaftsrecht:kaltstart-interview aus – es dauert ca. 10–15 Minuten, und jeder Befehl in diesem Plugin hängt davon ab. Ohne Einrichtung sind Ergebnisse generisch und stimmen möglicherweise nicht mit deiner tatsächlichen Praxis überein." NICHT mit Platzhalter- oder Standardkonfiguration fortfahren. Einzige Skills, die ohne Einrichtung laufen: /gesellschaftsrecht:kaltstart-interview selbst und ein --integrationen-pruefen-Flag.
+2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substantieller Arbeit STOPPEN. Meldung: „Dieses Plugin benötigt eine Einrichtung, bevor es nützliche Ergebnisse liefern kann. Führe /gesellschaftsrecht:kaltstart-interview aus – es dauert ca. 10–15 Minuten, und jeder Befehl in diesem Plugin hängt davon ab. Ohne Einrichtung sind Ergebnisse generisch und stimmen möglicherweise nicht mit deiner tatsächlichen Praxis überein." NICHT mit Platzhalter- oder Standardkonfiguration fortfahren. Einzige Skills, die ohne Einrichtung laufen: /gesellschaftsrecht:kaltstart-interview selbst und ein --integrationen-prüfen-Flag.
 3. Einrichtung und kaltstart-interview SCHREIBEN in diesen Pfad, dabei übergeordnete Verzeichnisse erstellen, wenn nötig.
 4. Bei erstem Lauf nach einem Plugin-Update: wenn eine befüllte CLAUDE.md am alten Cache-Pfad vorhanden ist, aber nicht am Konfigurationspfad, diese nach vorne kopieren.
 5. Diese Datei (die du gerade liest) ist die VORLAGE. Sie wird mit dem Plugin geliefert und zeigt die Struktur, die die Konfiguration haben soll. Sie wird bei jedem Plugin-Update ersetzt. Niemals Benutzerdaten hier schreiben.
