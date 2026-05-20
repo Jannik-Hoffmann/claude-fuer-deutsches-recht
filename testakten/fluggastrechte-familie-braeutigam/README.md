@@ -77,12 +77,15 @@ PSA beruft sich auf Art. 5 Abs. 3 VO (EG) 261/2004 mit der Begründung, die
 
 **Diese Argumentation ist nach der Rechtsprechung des EuGH nicht tragfähig:**
 
-- **EuGH C-257/14 (Wallentin-Hermann ./. Alitalia, 17.09.2015):** Technische
+- **EuGH C-549/07 (Wallentin-Hermann ./. Alitalia, 22.12.2008):** Technische
   Probleme an einem Luftfahrzeug sind grundsätzlich *kein* außergewöhnlicher
   Umstand. Technische Störungen gehören zum normalen Betriebsrisiko eines
-  Luftfahrtunternehmens. Nur wenn ein versteckter Fabrikationsfehler oder ein
-  von außen erzwungenes Ereignis (Blitzeinschlag, Vogelschlag etc.) ursächlich
-  ist, können außergewöhnliche Umstände bejaht werden.
+  Luftfahrtunternehmens.
+- **EuGH C-257/14 (van der Lans ./. KLM, 17.09.2015):** Auch ein vorzeitiger
+  Verschleiß bestimmter Bauteile ist regelmäßig kein außergewöhnlicher Umstand.
+  Nur ein versteckter Fabrikationsfehler einer ganzen Bauserie oder ein von
+  außen erzwungenes Ereignis (Blitzeinschlag, Vogelschlag etc.) kann
+  außergewöhnliche Umstände begründen.
 
 - **EuGH C-402/07 (Sturgeon):** Ausgleichsanspruch bei Ankunftsverspätung ≥ 3 Std.
 
@@ -144,7 +147,8 @@ TXT, Placeholders) die relevanten Fakten extrahieren:
 
 Der Skill soll die PSA-Argumentation aus dem Mailverlauf erkennen und korrekt
 qualifizieren: technische Triebwerksprüfung ≠ außergewöhnlicher Umstand nach
-EuGH C-257/14 Wallentin-Hermann.
+EuGH C-549/07 Wallentin-Hermann (bestätigt für Bauteil-Verschleiß durch
+EuGH C-257/14 van der Lans).
 
 ### 4. Vollmachtsproblematik lösen
 
@@ -160,7 +164,7 @@ PSA-Anforderung (Mail 04.05.2026) muss der Skill eine korrekte Vollmacht für al
 Der Skill soll einen klageweise einsetzbaren oder vorgerichtlichen Schriftsatz erzeugen
 mit:
 - Vollständiger Sachverhaltsdarstellung
-- Rechtlicher Begründung (Art. 7 Abs. 1 lit. c VO 261/2004, EuGH C-257/14)
+- Rechtlicher Begründung (Art. 7 Abs. 1 lit. c VO 261/2004, EuGH C-549/07 Wallentin-Hermann)
 - Bezifferter Forderung (3.000 EUR Ausgleich + Auslagen)
 - Anlagenverzeichnis mit korrekten Dateinamen
 

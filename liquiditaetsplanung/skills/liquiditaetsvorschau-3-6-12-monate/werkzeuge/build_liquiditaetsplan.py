@@ -470,8 +470,11 @@ def fill_sheet(ws, daten: dict, n_weeks: int):
         col = PLAN_COL_START + i
         L = get_column_letter(col)
         L_prev = get_column_letter(col - 1)
-        kw_data = plan.get(i, {}) if isinstance(plan, dict) else {}
-        if not kw_data and isinstance(plan, list) and i < len(plan):
+        kw_data: dict[str, Any] = {}
+        if isinstance(plan, dict):
+            # Plan-Keys koennen int (YAML) oder str (JSON) sein.
+            kw_data = plan.get(i, plan.get(str(i), {}))
+        elif isinstance(plan, list) and i < len(plan):
             kw_data = plan[i]
 
         # Liquidität Wochenanfang = Liq. Woche Ende der Vorwoche
