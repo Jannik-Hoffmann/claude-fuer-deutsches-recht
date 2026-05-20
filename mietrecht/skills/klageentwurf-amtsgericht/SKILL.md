@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-amtsgericht
-description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache mit Streitwert bis zehntausend Euro. Beachtet sachliche Zustaendigkeit (§ 23 Nr. 2a GVG fuer Mietsachen ohne Streitwertgrenze) oertliche Zustaendigkeit am Belegenheitsort der Mietsache (§ 29a ZPO) Streitwertberechnung Antraege Sachverhalt rechtliche Wuerdigung Beweisangebote und formgerechte Anlagen. Disclaimer mehrfach (Skill-Start und vor finalem Antrag).
+description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Wohnraummietsache. Sachliche Zustaendigkeit nach § 23 Nr. 2a GVG fuer Mietsachen ueber Wohnraum ohne Ruecksicht auf den Streitwert. Oertliche Zustaendigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Antraege Sachverhalt rechtliche Wuerdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Pruefung. Disclaimer mehrfach (Skill-Start und vor finalem Antrag).
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)

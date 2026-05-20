@@ -1,11 +1,11 @@
 ---
 name: mietspiegel-quellen
-description: Verweist auf die mitgelieferte Referenz references/mietspiegel-quellen.md mit ausschliesslich amtlichen Mietspiegel-Quellen (Bundeslaender Top-Staedte Universitaetsstaedte). Nutze diese Referenz immer wenn die ortsuebliche Vergleichsmiete oder die Wohnlagen-Zuordnung pro Stadt oder pro Bundesland gepruegft werden muss. Enthaelt Mietenbegrenzungsverordnungen Kappungsgrenzenverordnungen Kuendigungssperrfristverordnungen. Private Anbieter sind ausgeklammert.
+description: Verweist auf die mitgelieferte Referenz references/mietspiegel-quellen.md mit ausschliesslich amtlichen Mietspiegel-Quellen (Bundeslaender Top-Staedte Universitaetsstaedte). Nutze diese Referenz immer wenn die ortsuebliche Vergleichsmiete oder die Wohnlagen-Zuordnung pro Stadt oder pro Bundesland geprueft werden muss. Enthaelt Mietenbegrenzungsverordnungen Kappungsgrenzenverordnungen Kuendigungssperrfristverordnungen. Private Anbieter sind ausgeklammert.
 ---
 
 # Mietspiegel-Quellen (amtlich)
 
-Diese SKILL ist ein Verweis-Skill. Die vollstaendige Quellensammlung steht in der mitgelieferten Referenz:
+Dieser Skill ist ein Verweis-Skill. Die vollstaendige Quellensammlung steht in der mitgelieferten Referenz:
 
 - [references/mietspiegel-quellen.md](../../references/mietspiegel-quellen.md)
 
