@@ -213,6 +213,14 @@
       "author": {
         "name": "Klotzkette"
       }
+    },
+    {
+      "name": "mietrecht",
+      "source": "./mietrecht",
+      "description": "Mietrecht fuer Mieter und Vermieter mit ausschliesslich amtlichen Mietspiegel-Quellen pro Bundesland und fuer Top- und Universitaetsstaedte. Acht Skills Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenpruefung Mieteranfragen Klageentwurf Amtsgericht.",
+      "author": {
+        "name": "Klotzkette"
+      }
     }
   ]
 }
