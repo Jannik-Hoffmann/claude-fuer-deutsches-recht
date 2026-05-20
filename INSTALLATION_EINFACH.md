@@ -23,13 +23,14 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **52 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **53 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `kanzlei-cowork.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
+| `kanzlei-lebenszyklus.zip`                | Das volle Kanzlei-Workflow-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA      |
 | `kanzlei-builder-hub.zip`                 | Werkzeuge zum Bauen eigener kanzleiinterner Skills, Security-Review                                                        |
 | `verwaltete-agentenrezepte.zip`           | Kuratierte Workflow-Rezepte zum Wiederverwenden                                                                            |
 | `aktenaufbereiter-strafrecht.zip`         | Strukturierung großer Strafakten in den Griff bekommen                                                                     |

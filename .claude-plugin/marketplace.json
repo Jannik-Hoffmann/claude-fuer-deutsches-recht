@@ -247,6 +247,14 @@
       }
     },
     {
+      "name": "kanzlei-lebenszyklus",
+      "source": "./kanzlei-lebenszyklus",
+      "description": "Das volle Kanzlei-Workflow-Plugin: edles Cowork-Kommandocenter, Mandatsannahme/GwG, Klage/Replik, Vertrag, Rechtsprechungsrecherche, Handelsregister, beA, Fristen, HR, Rechnung, Bankmatching, XRechnung, UStVA.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-familienrecht",
       "source": "./fachanwalt-familienrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Familienrecht. Orientierung Normen typische Mandate Fristen Standardliteratur. Familiengericht FamFG Scheidung Sorgerecht Umgangsrecht Unterhalt Zugewinn Ehevertrag. Tiefe Bearbeitung erfordert weiterhin Fachanwaltsexpertise.",
