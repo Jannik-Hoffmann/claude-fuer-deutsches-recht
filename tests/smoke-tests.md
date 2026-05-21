@@ -163,6 +163,22 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 ---
 
+## zwangsverwaltung-zvg (versteigerung)
+
+**Eingang:** `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/`.
+
+**Schritt 1 — Portal:** `/zwangsverwaltung-zvg:zvg-portal-recherche` → übernimmt Suchparameter, Abrufdatum und Trefferzahl aus `01_zvg_portal_rechercheprotokoll.md`.
+
+**Schritt 2 — Bieter:** `/zwangsverwaltung-zvg:zvg-bieterangebot-bewertung` → wertet Grundbuch, Gutachten, Mietnotiz und Angebot aus.
+
+**Schritt 3 — Termin:** `/zwangsverwaltung-zvg:zvg-versteigerungsteilnahme` → erstellt Termincheck mit Sicherheitsleistung, geringstem Gebot, Bietlimit und roten Schwellen.
+
+**Erwarteter Output:** Es wird klar zwischen umgangssprachlichem Mindestgebot und rechtlichem geringstem Gebot unterschieden. Bietlimit 525.000 EUR, Sicherheitsleistung 68.500 EUR und die Risiken Innenzustand, Nutzung, WEG/Sonderumlage und bestehenbleibende Rechte werden sichtbar.
+
+**Abbruchkriterium:** Wenn das Plugin das geringste Gebot als wirtschaftliches Maximalgebot behandelt, Sicherheitsleistung vergisst oder die fiktive Portalakte als echten Treffer ausgibt.
+
+---
+
 ## kanzlei-cowork (rechnungserstellung-rvg)
 
 **Eingang:** Mandatsdatenraum mit Streitwert, Tätigkeitsbeschreibung, Auslagen.

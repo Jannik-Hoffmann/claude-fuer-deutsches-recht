@@ -641,7 +641,7 @@
     {
       "name": "zwangsverwaltung-zvg",
       "source": "./zwangsverwaltung-zvg",
-      "description": "Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung.",
+      "description": "Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme.",
       "author": {
         "name": "Klotzkette"
       }

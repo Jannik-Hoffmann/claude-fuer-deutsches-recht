@@ -1,7 +1,7 @@
 {
   "name": "zwangsverwaltung-zvg",
-  "version": "3.0.0",
-  "description": "Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung.",
+  "version": "3.0.10",
+  "description": "Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -21,6 +21,10 @@
     "rechnungslegung",
     "verteilungsplan",
     "155-zvg",
+    "zwangsversteigerung",
+    "zvg-portal",
+    "bietstrategie",
+    "geringstes-gebot",
     "freistehend"
   ]
 }

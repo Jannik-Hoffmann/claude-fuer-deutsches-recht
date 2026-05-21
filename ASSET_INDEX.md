@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.9
+**Stand:** v3.0.10
 
 ## Asset-Typen
 
@@ -98,9 +98,9 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `vertragsausfueller` | Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage vorbereiten. |
 | `vertragsrecht` | Prüft NDA, AGB, SaaS-Verträge, Lieferanten- und Vertriebsverträge nach deutschem Recht (§§ 305 ff. BGB, HGB), trackt Verlängerungs- und Kündigungstermine, eskaliert nach internem Playbook und erstellt Business-Zusammenfassungen. |
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg. |
-| `zwangsverwaltung-zvg` | Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung. |
+| `zwangsverwaltung-zvg` | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 
-## Fallakten-Assets (26 Stück)
+## Fallakten-Assets (27 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -133,6 +133,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
 | `testakte-verkehrsowi-rotlicht-tempo-musterakte.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo-musterakte/` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | siehe `testakten/vertragsausfueller-bsag-kiosk-huckelriede/` |
+| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | siehe `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
 
 ## Manifest-Asset (1 Stück)
@@ -146,9 +147,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
 | plugin | 80 | |
-| fallakte | 26 | |
+| fallakte | 27 | |
 | manifest | 1 | |
-| **gesamt** | | **107** |
+| **gesamt** | | **108** |
 
 ## Verifikation eines Release
 
@@ -157,4 +158,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 107 Assets, davon 80 Plugin-ZIPs, 26 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 108 Assets, davon 80 Plugin-ZIPs, 27 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.

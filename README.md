@@ -237,7 +237,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit verpflichtender Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz, formelle und materielle Verfassungsmäßigkeit, Grundrechte und Verfassungsbeschwerde. |
 | [`verlagsredaktion`](./verlagsredaktion) | Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte, PPT, Screenshots, Videos, Notizen) einen redaktionellen Text. Modus B redigiert vorhandene Texte. |
 | [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking. |
-| [`zwangsverwaltung-zvg`](./zwangsverwaltung-zvg) | Freistehendes ZVG-Zwangsverwaltungs-Cockpit: Bestellung, Beschlagnahme, Besitzerlangung, Miet- und Pachtverwaltung, Mieteinzug, Versicherungen, Treuhandkonto, Berichte, Rechnungslegung, § 155 ZVG-Verteilung und Aufhebung. |
+| [`zwangsverwaltung-zvg`](./zwangsverwaltung-zvg) | Freistehendes ZVG-Cockpit für Zwangsverwaltung und Versteigerung: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Treuhandkonto, Berichte, § 155 ZVG-Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 | [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) | Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Rechtsprechung mit Datum, Aktenzeichen, Fundstelle, Randnummer. Kommentar- und Aufsatzzitate. |
 
 Zusätzlich:
@@ -261,7 +261,7 @@ Für einen neuen Plugin gilt: L1 ist der akzeptable Start, L2 wird angestrebt, s
 
 Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
 
-> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v3.0.9](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
+> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v3.0.10](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
 
 > 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet. Lade die Plugin-ZIPs einzeln aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) herunter und installiere sie über denselben Dialog, mit dem du z. B. „Legal Plugin" installierst. Schritt für Schritt erklärt: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
 
@@ -341,7 +341,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.0.9: **80 Plugins, 1007 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
+Stand v3.0.10: **80 Plugins, 1010 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung und Zwangsversteigerung.
 
 ### Materielle Rechtsgebiete
 

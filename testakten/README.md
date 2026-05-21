@@ -32,6 +32,7 @@ Dieser Ordner enthält **fiktive Mandatsakten**, mit denen sich die Skills sofor
 | [`verkehrsowi-rotlicht-tempo-musterakte/`](./verkehrsowi-rotlicht-tempo-musterakte/) | Fiktive VerkehrsOWi-Akte mit Anhörung, Bußgeldbescheid, Rotlicht, Tempoverstoß, Messakte, Fahreridentifizierung, KBA-Punktestand, Härtefall und Zeugenstrategie. | `verkehrsowi-verteidiger` |
 | [`vertragsausfueller-bsag-kiosk-huckelriede/`](./vertragsausfueller-bsag-kiosk-huckelriede/) | BSAG-Mietvertragsausfüller: Word-Vorlage und Term Sheet Kiosk Huckelriede als echte DOCX-Beispielakte mit Feldinventar, Mapping-Notiz, Rückfragen und Clean-Entwurf-Checkliste. | `vertragsausfueller` |
 | [`zwangsverwaltung-zvg-mietshaus-parkstrasse/`](./zwangsverwaltung-zvg-mietshaus-parkstrasse/) | ZVG-Zwangsverwaltung: Mietshaus Parkstraße, Besitzübernahme, Rent Roll, Versicherung, Konto, Berichte, § 155-Verteilung und Schlussrechnung | `zwangsverwaltung-zvg` |
+| [`zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/`](./zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/) | ZVG-Versteigerung: fiktives Wohnungseigentum Hamburg-Eppendorf, Portalrecherche, Grundbuch, Verkehrswertgutachten ohne Fotos, Mietlage, Bieterangebot, geringstes Gebot, Sicherheitsleistung und Termincheck. | `zwangsverwaltung-zvg` |
 
 ## Direkt-Download (je ein ZIP pro Akte)
 
@@ -63,6 +64,7 @@ Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehän
 - [testakte-verkehrsowi-rotlicht-tempo-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo-musterakte.zip)
 - [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
 - [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip)
+- [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip)
 
 ## So spielt man eine Akte durch
 

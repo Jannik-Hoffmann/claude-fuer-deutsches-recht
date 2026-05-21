@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.9`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.10`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -66,7 +66,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `prozessrecht.zip`                        | Mahnbescheid, einstweilige Verfügung, Schutzschrift, Zwangsvollstreckung                                                   |
-| `zwangsverwaltung-zvg.zip`              | ZVG-Zwangsverwaltung: Bestellung, Beschlagnahme, Besitz, Mieten, Objektkosten, Treuhandkonto, Berichte, Rechnungslegung und Verteilung |
+| `zwangsverwaltung-zvg.zip`              | ZVG: Zwangsverwaltung, Versteigerung, ZVG-Portal-Recherche, Bieterangebote, Sicherheitsleistung, geringstes Gebot und Terminvorbereitung |
 | `strafbefehl-verteidiger.zip`            | Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Wiedereinsetzung, Einstellung und Hauptverhandlung         |
 | `verkehrsowi-verteidiger.zip`             | Verkehrsordnungswidrigkeiten: Bußgeld, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Messakte, Einspruch und Amtsgericht |
 | `forderungsmanagement-klagewerkstatt.zip` | Standardklage aus eigenen Mustern, Zuständigkeitsprüfung, Inkasso-Zahlungsklage mit Mahnvorlauf und Anspruchs-Gatekeeper |
@@ -138,6 +138,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-energierecht-stadtwerke-quartier.zip`          | `energierecht`                                              |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip`   | `umweltrecht`                                               |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | `verkehr-infrastrukturrecht`                         |
+| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | `zwangsverwaltung-zvg`                              |
 
 Eine Testakte wird **nicht über den Plugin-Upload** geladen, sondern direkt im Chat als Mandatsunterlage abgelegt (per Drag-and-drop oder als Anhang).
 
