@@ -1,0 +1,5 @@
+datum,empfaenger,betrag,zweck,konto,ausnahme_hinweis
+2026-04-22,Furnier Nord GmbH,12000.00,Lieferant alt,Havelbank,unklar
+2026-04-25,Finanzamt Stendal,8300.00,Lohnsteuer,Ostmark,steuerzahlung pruefen
+2026-04-29,Brauer Holding UG,9500.00,Managementfee,Havelbank,rot
+2026-05-03,Energie Elbe GmbH,6700.00,Strom Fortfuehrung,Ostmark,moeglich fortfuehrung

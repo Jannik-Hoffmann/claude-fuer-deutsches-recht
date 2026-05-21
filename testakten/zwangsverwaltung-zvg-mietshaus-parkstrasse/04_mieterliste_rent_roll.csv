@@ -1,0 +1,6 @@
+einheit,nutzung,mieter,sollmiete,nebenkosten,kaution,rueckstand,status
+WE01,Wohnen,Frau Berger,720.00,210.00,2160.00,0.00,ok
+WE02,Wohnen,Herr Matuschek,690.00,205.00,2070.00,1790.00,mahnen
+WE03,Wohnen,leer,0.00,0.00,0.00,0.00,leerstand
+GE01,Gewerbe,Baeckerei Kranz,1850.00,480.00,5550.00,4660.00,streitig maengel
+GE02,Gewerbe,Kosmetikstudio Luma,980.00,260.00,2940.00,0.00,ok

@@ -1,0 +1,5 @@
+datum,buchung,einnahme,ausgabe,einheit,beleg,saldo
+2026-05-08,Anfangsbestand Vorschuss,5000.00,0.00,,B001,5000.00
+2026-05-10,Miete WE01 Mai,930.00,0.00,WE01,K001,5930.00
+2026-05-12,Versicherung Abschlag,0.00,2480.00,,R001,3450.00
+2026-05-14,Leckortung,0.00,1200.00,,R002,2250.00

@@ -359,6 +359,14 @@
       }
     },
     {
+      "name": "insolvenzverwaltung",
+      "source": "./insolvenzverwaltung",
+      "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Gutachten, Berichte und Schlussrechnung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "jurastudium",
       "source": "./jurastudium",
       "description": "Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Tatbestände lernen, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung.",
@@ -578,6 +586,14 @@
       "name": "zitierweise-deutsches-recht",
       "source": "./zitierweise-deutsches-recht",
       "description": "Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "zwangsverwaltung-zvg",
+      "source": "./zwangsverwaltung-zvg",
+      "description": "Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung.",
       "author": {
         "name": "Klotzkette"
       }

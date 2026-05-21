@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.12.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.14.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **72 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **74 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -53,6 +53,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, BGH-Schema Passiva II                                                          |
 | `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, BGH-Volltexte als PDF                                                           |
+| `insolvenzverwaltung.zip`                | Insolvenzverwaltung aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Masse, Tabelle, Anfechtung, § 15b, § 208, Berichte, Schlussrechnung |
 | `fortbestehensprognose.zip`               | Fortbestehensprognose § 19 II InsO als Geschäftsführer-Selbstdokumentation                                                 |
 | `steuerberater-werkzeuge.zip`             | BWA-/SuSa-/Bilanzprüfung, Krisenfrüherkennung                                                                              |
 | `gesellschaftsrecht.zip`                  | M&A-DD, GmbH/AG-Beschlüsse, HRB-Anmeldung                                                                                  |
@@ -62,6 +63,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `prozessrecht.zip`                        | Mahnbescheid, einstweilige Verfügung, Schutzschrift, Zwangsvollstreckung                                                   |
+| `zwangsverwaltung-zvg.zip`              | ZVG-Zwangsverwaltung: Bestellung, Beschlagnahme, Besitz, Mieten, Objektkosten, Treuhandkonto, Berichte, Rechnungslegung und Verteilung |
 | `strafbefehl-verteidiger.zip`            | Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Wiedereinsetzung, Einstellung und Hauptverhandlung         |
 | `verkehrsowi-verteidiger.zip`             | Verkehrsordnungswidrigkeiten: Bußgeld, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Messakte, Einspruch und Amtsgericht |
 | `forderungsmanagement-klagewerkstatt.zip` | Standardklage aus eigenen Mustern, Zuständigkeitsprüfung                                                                   |
