@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v2.11.0
+**Stand:** v2.12.0
 
 ## Asset-Typen
 
@@ -12,7 +12,7 @@
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht zum Plugin-Upload geben. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
 
-## Plugin-Assets (70 Stück)
+## Plugin-Assets (72 Stück)
 
 Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -82,15 +82,17 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `sozialrecht-kanzlei` | Vollassistenz fuer die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagenerstellung. Spezialisiert auf Buergergeld SGB II SGB IX Schwerbehinderung Pflege Hilfsmittel (Rollstuhl Hoerhilfe Vorlesekraft) Eingliederungshilfe SGB VIII Schulbegleitung. Fristenbuch und PKH. Funktioniert allein; empfohlenes Begleitplugin kanzlei-cowork (Skill versand-vor-check fuer Versandkontrolle Fristenbuch Mandantenakte). |
 | `steuerberater-werkzeuge` | Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Für die rollierende Liquiditätsplanung 13/26/52 Wochen siehe das eigene Plugin `liquiditaetsplanung`. |
 | `steuerrecht-kanzlei` | Vollassistenz fuer die steuerrechtsanwaltliche Kanzlei: Bescheidanalyse Einspruch nach AO Klage zum Finanzgericht Aussetzung der Vollziehung Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht Steuerakte. Nicht Steuererklaerung (DATEV Steuerberater) sondern anwaltlich-streitbezogene Folgebearbeitung. |
+| `strafbefehl-verteidiger` | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
 | `tabellenreview-3d` | 3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenpruefung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette. |
 | `umweltrecht` | Freistehendes Umweltrecht-Plugin: Emissionshandel, BImSchG, Störfall, Abfall und Circular Economy, Wasser, Boden, Naturschutz, UIG/IFG, Verwaltungsverfahren, Bußgeld, Schulung und Umwelt-Due-Diligence. |
 | `verfassungsrecht` | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde. |
 | `verkehr-infrastrukturrecht` | Freistehendes Verkehrs- und Infrastrukturrecht-Plugin: Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Sondernutzung, Parkraumbewirtschaftung, Wirtschaftsverkehr, Lieferzonen, Verkehrswende, Schulwegsicherheit, Förderung und Vergabe. |
+| `verkehrsowi-verteidiger` | Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. |
 | `verlagsredaktion` | Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte PPT Screenshots Videos Notizen) ein Rohmanuskript als Anschubhilfe. Modus B ueberarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer. |
 | `vertragsrecht` | Prüft NDA, AGB, SaaS-Verträge, Lieferanten- und Vertriebsverträge nach deutschem Recht (§§ 305 ff. BGB, HGB), trackt Verlängerungs- und Kündigungstermine, eskaliert nach internem Playbook und erstellt Business-Zusammenfassungen. |
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg. |
 
-## Fallakten-Assets (14 Stück)
+## Fallakten-Assets (16 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -110,8 +112,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-grosskanzlei-corporate-ma-datenraum.zip` | siehe `testakten/grosskanzlei-corporate-ma-datenraum/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
+| `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip` | siehe `testakten/strafbefehl-ladendiebstahl-fahrerflucht-musterakte/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
+| `testakte-verkehrsowi-rotlicht-tempo-musterakte.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo-musterakte/` |
 
 ## Manifest-Asset (1 Stück)
 
@@ -123,10 +127,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 70 | |
-| fallakte | 14 | |
+| plugin | 72 | |
+| fallakte | 16 | |
 | manifest | 1 | |
-| **gesamt** | | **85** |
+| **gesamt** | | **89** |
 
 ## Verifikation eines Release
 
@@ -135,4 +139,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 85 Assets, davon 70 Plugin-ZIPs, 14 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 89 Assets, davon 72 Plugin-ZIPs, 16 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.

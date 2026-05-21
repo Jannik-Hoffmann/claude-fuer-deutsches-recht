@@ -511,6 +511,14 @@
       }
     },
     {
+      "name": "strafbefehl-verteidiger",
+      "source": "./strafbefehl-verteidiger",
+      "description": "Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "tabellenreview-3d",
       "source": "./tabellenreview-3d",
       "description": "3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenpruefung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette.",
@@ -538,6 +546,14 @@
       "name": "verkehr-infrastrukturrecht",
       "source": "./verkehr-infrastrukturrecht",
       "description": "Freistehendes Verkehrs- und Infrastrukturrecht-Plugin: Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Sondernutzung, Parkraumbewirtschaftung, Wirtschaftsverkehr, Lieferzonen, Verkehrswende, Schulwegsicherheit, Förderung und Vergabe.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "verkehrsowi-verteidiger",
+      "source": "./verkehrsowi-verteidiger",
+      "description": "Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.",
       "author": {
         "name": "Klotzkette"
       }
