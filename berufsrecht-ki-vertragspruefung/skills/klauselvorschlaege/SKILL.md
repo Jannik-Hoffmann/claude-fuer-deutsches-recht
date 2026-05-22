@@ -7,7 +7,7 @@ description: "Liefere konkrete Mustertexte fuer Vertragsklauseln mit dem KI-Anbi
 
 ## Disclaimer
 
-Diese Forprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die Mustertexte sind Verhandlungsmaterial, kein fertiger Vertrag. Vor Unterzeichnung ist eine anwaltliche Prüfung im konkreten Vertragsumfeld erforderlich.
+Diese Vorprüfung ist keine Rechtsberatung, sondern strukturierte Argumentationshilfe für das Anbietergespräch. Die Mustertexte sind Verhandlungsmaterial, kein fertiger Vertrag. Vor Unterzeichnung ist eine anwaltliche Prüfung im konkreten Vertragsumfeld erforderlich.
 
 ## Aufbau
 

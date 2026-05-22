@@ -23,7 +23,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 Kanzleien, Steuerberatungen, Wirtschaftsprüfungsgesellschaften, Patentanwaltskanzleien und Notariate setzen zunehmend Legal-AI-Tools privater Anbieter ein (LLM-basierte Recherche, Dokumentenanalyse, Vertragsgeneratoren, Chatbots). Sobald solche Tools mit Mandats- oder Beteiligtendaten gefüttert werden, betreten wir berufsrechtliches und strafrechtliches Terrain — nicht primär datenschutzrechtliches.
 
-Dieses Plugin liefert eine **berufsrechtliche und strafrechtliche Forprüfung** des Anbietervertrags. Es ist keine vollwertige juristische Begutachtung. Es ist ein strukturierter Argumentationsapparat, mit dem die Kanzlei dem Anbieter sagen kann: "So, wie macht ihr das eigentlich? Wie gewährleistet ihr die Anforderungen aus § 43e BRAO Absatz 3? Wo ist eure ISO-27001-Zertifizierung? Wo steht 'no training' im Vertrag?".
+Dieses Plugin liefert eine **berufsrechtliche und strafrechtliche Vorprüfung** des Anbietervertrags. Es ist keine vollwertige juristische Begutachtung. Es ist ein strukturierter Argumentationsapparat, mit dem die Kanzlei dem Anbieter sagen kann: "So, wie macht ihr das eigentlich? Wie gewährleistet ihr die Anforderungen aus § 43e BRAO Absatz 3? Wo ist eure ISO-27001-Zertifizierung? Wo steht 'no training' im Vertrag?".
 
 ## Maßstab
 
@@ -57,20 +57,20 @@ Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrah
 | `tom-und-zertifizierungen-pruefen` | TOM nach Art. 32 DS-GVO, ISO 27001, BSI C5, "no training", Zero-Retention |
 | `cloud-act-und-drittstaat-pruefen` | Auslandsregelung Abs. 4; CLOUD Act; Professional Secrecy Addendum |
 | `parallelnormen-andere-berufe` | Norm-Adapter pro Beruf — Mapping-Referenz |
-| `gutachten-erstellen` | Zusammenfassendes Forprüfungs-Gutachten |
+| `gutachten-erstellen` | Zusammenfassendes Vorprüfungs-Gutachten |
 | `rueckfragebrief-an-anbieter` | Strukturierter Brief mit präzisen Anbieterfragen |
 | `klauselvorschlaege` | Mustertexte für nachverhandelbare Klauseln |
 
 ## Outputs
 
-- **Forprüfungs-Gutachten** mit Ampelbewertung (grün/gelb/rot) je Prüfpunkt
+- **Vorprüfungs-Gutachten** mit Ampelbewertung (grün/gelb/rot) je Prüfpunkt
 - **Rückfragebrief an den Anbieter** zur Klärung offener Versprechen
 - **Klauselvorschläge** als Verhandlungsmaterial (Verschwiegenheit, "no training", Subunternehmerliste, EU/EWR-Beschränkung, Professional Secrecy Addendum)
 - **Zertifizierungs- und Sicherheits-Checkliste** (ISO 27001, BSI C5, TOM Art. 32)
 
 ## Wichtiger Hinweis (mehrfach)
 
-**Diese Forprüfung ist ausdrücklich keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die berufsrechtliche und strafrechtliche Beurteilung des konkreten Einzelfalls bleibt der inhabilen Kanzlei (interne Compliance) bzw. einer beauftragten Spezialkanzlei vorbehalten.
+**Diese Vorprüfung ist ausdrücklich keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die berufsrechtliche und strafrechtliche Beurteilung des konkreten Einzelfalls bleibt der inhabilen Kanzlei (interne Compliance) bzw. einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Quellenpolitik
 

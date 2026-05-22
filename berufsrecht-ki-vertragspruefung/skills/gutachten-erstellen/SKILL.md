@@ -3,11 +3,11 @@ name: gutachten-erstellen
 description: "Erstelle das zusammenfassende Forpruefungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Pruefpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lueckenliste Handlungsempfehlung. Ausdruecklich keine Rechtsberatung sondern strukturierte Argumentationshilfe fuer das Anbietergespraech."
 ---
 
-# Forprüfungs-Gutachten erstellen
+# Vorprüfungs-Gutachten erstellen
 
 ## Disclaimer
 
-**Diese Forprüfung ist keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+**Diese Vorprüfung ist keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Zweck
 
@@ -78,7 +78,7 @@ Drei Stufen:
 
 Am Ende jedes Gutachtens steht:
 
-> Dieses Forprüfungs-Gutachten ist keine Rechtsberatung. Es ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten. Quellen: Memorandum zu § 43e BRAO und § 203 StGB; DAV-Initiativstellungnahme Nr. 32/2025; BT-Drs. 18/12940; einschlägige Gesetzestexte (BRAO StBerG WPO PAO BNotO StGB StPO DS-GVO).
+> Dieses Vorprüfungs-Gutachten ist keine Rechtsberatung. Es ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die abschließende berufsrechtliche und strafrechtliche Beurteilung im konkreten Einzelfall bleibt der inhabilen Kanzlei beziehungsweise einer beauftragten Spezialkanzlei vorbehalten. Quellen: Memorandum zu § 43e BRAO und § 203 StGB; DAV-Initiativstellungnahme Nr. 32/2025; BT-Drs. 18/12940; einschlägige Gesetzestexte (BRAO StBerG WPO PAO BNotO StGB StPO DS-GVO).
 
 ## Stil
 
